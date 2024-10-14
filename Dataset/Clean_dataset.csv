@@ -8,14 +8,14 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1930,Uruguay,Montevideo,Group 2,Bolivia,Yugoslavia,0,4,A,no win conditions,Yugoslavia,Bolivia,1930-07-17,Jul,Thursday
 1930,Uruguay,Montevideo,Group 4,Paraguay,United States,0,3,A,no win conditions,United States,Paraguay,1930-07-17,Jul,Thursday
 1930,Uruguay,Montevideo,Group 3,Uruguay,Peru,1,0,H,no win conditions,Uruguay,Peru,1930-07-18,Jul,Friday
-1930,Uruguay,Montevideo,Group 1,Argentina,Mexico,6,3,H,no win conditions,Argentina,Mexico,1930-07-19,Jul,Saturday
+1930,Uruguay,Montevideo,Group 1,Argentina,Mexico,5,3,H,no win conditions,Argentina,Mexico,1930-07-19,Jul,Saturday
 1930,Uruguay,Montevideo,Group 1,Chile,France,1,0,H,no win conditions,Chile,France,1930-07-19,Jul,Saturday
 1930,Uruguay,Montevideo,Group 4,Belgium,Paraguay,0,1,A,no win conditions,Paraguay,Belgium,1930-07-20,Jul,Sunday
 1930,Uruguay,Montevideo,Group 2,Bolivia,Brazil,0,4,A,no win conditions,Brazil,Bolivia,1930-07-20,Jul,Sunday
 1930,Uruguay,Montevideo,Group 3,Uruguay,Romania,4,0,H,no win conditions,Uruguay,Romania,1930-07-21,Jul,Monday
 1930,Uruguay,Montevideo,Group 1,Argentina,Chile,3,1,H,no win conditions,Argentina,Chile,1930-07-22,Jul,Tuesday
-1930,Uruguay,Montevideo,Semifinals,Argentina,United States,6,1,H,no win conditions,Argentina,United States,1930-07-26,Jul,Saturday
-1930,Uruguay,Montevideo,Semifinals,Uruguay,Yugoslavia,6,1,H,no win conditions,Uruguay,Yugoslavia,1930-07-27,Jul,Sunday
+1930,Uruguay,Montevideo,Semifinals,Argentina,United States,5,1,H,no win conditions,Argentina,United States,1930-07-26,Jul,Saturday
+1930,Uruguay,Montevideo,Semifinals,Uruguay,Yugoslavia,5,1,H,no win conditions,Uruguay,Yugoslavia,1930-07-27,Jul,Sunday
 1930,Uruguay,Montevideo,Final,Uruguay,Argentina,4,2,H,no win conditions,Uruguay,Argentina,1930-07-30,Jul,Wednesday
 1934,Italy,Bologna,Round of 16,Argentina,Sweden,2,3,A,no win conditions,Sweden,Argentina,1934-05-27,May,Sunday
 1934,Italy,Turin,Round of 16,Austria,France,3,2,H,Austria won in AET,Austria,France,1934-05-27,May,Sunday
@@ -23,7 +23,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1934,Italy,Genoa,Round of 16,Brazil,Spain,1,3,A,no win conditions,Spain,Brazil,1934-05-27,May,Sunday
 1934,Italy,Trieste,Round of 16,Czechoslovakia,Romania,2,1,H,no win conditions,Czechoslovakia,Romania,1934-05-27,May,Sunday
 1934,Italy,Naples,Round of 16,Egypt,Hungary,2,4,A,no win conditions,Hungary,Egypt,1934-05-27,May,Sunday
-1934,Italy,Rome,Round of 16,Italy,United States,7,1,H,no win conditions,Italy,United States,1934-05-27,May,Sunday
+1934,Italy,Rome,Round of 16,Italy,United States,5,1,H,no win conditions,Italy,United States,1934-05-27,May,Sunday
 1934,Italy,Milan,Round of 16,Netherlands,Switzerland,2,3,A,no win conditions,Switzerland,Netherlands,1934-05-27,May,Sunday
 1934,Italy,Bologna,Quarterfinals,Austria,Hungary,2,1,H,no win conditions,Austria,Hungary,1934-05-31,May,Thursday
 1934,Italy,Turin,Quarterfinals,Czechoslovakia,Switzerland,3,2,H,no win conditions,Czechoslovakia,Switzerland,1934-05-31,May,Thursday
@@ -35,16 +35,16 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1934,Italy,Naples,Third place,Austria,Germany,2,3,A,no win conditions,West Germany,Austria,1934-06-07,Jun,Thursday
 1934,Italy,Rome,Final,Italy,Czechoslovakia,2,1,H,Italy won in AET,Italy,Czechoslovakia,1934-06-10,Jun,Sunday
 1938,France,Paris,Round of 16,Germany,Switzerland,1,1,D,no win conditions,Draw match,Draw match,1938-06-04,Jun,Saturday
-1938,France,Strasbourg,Round of 16,Brazil,Poland,6,5,H,Brazil won in AET,Brazil,Poland,1938-06-05,Jun,Sunday
+1938,France,Strasbourg,Round of 16,Brazil,Poland,5,5,H,Brazil won in AET,Brazil,Poland,1938-06-05,Jun,Sunday
 1938,France,Toulouse,Round of 16,Cuba,Romania,3,3,D,no win conditions,Draw match,Draw match,1938-06-05,Jun,Sunday
 1938,France,Le Havre,Round of 16,Czechoslovakia,Netherlands,3,0,H,Czechoslovakia won in AET,Czechoslovakia,Netherlands,1938-06-05,Jun,Sunday
 1938,France,Colombes,Round of 16,France,Belgium,3,1,H,no win conditions,France,Belgium,1938-06-05,Jun,Sunday
-1938,France,Reims,Round of 16,Hungary,Dutch West Indies,6,0,H,no win conditions,Hungary,Dutch West Indies,1938-06-05,Jun,Sunday
+1938,France,Reims,Round of 16,Hungary,Dutch West Indies,5,0,H,no win conditions,Hungary,Dutch West Indies,1938-06-05,Jun,Sunday
 1938,France,Marseille,Round of 16,Italy,Norway,2,1,H,Italy won in AET,Italy,Norway,1938-06-05,Jun,Sunday
 1938,France,Toulouse,Round of 16,Cuba,Romania,2,1,H,no win conditions,Cuba,Romania,1938-06-09,Jun,Thursday
 1938,France,Paris,Round of 16,Germany,Switzerland,2,4,A,no win conditions,Switzerland,Germany,1938-06-09,Jun,Thursday
 1938,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,1,1,D,no win conditions,Draw match,Draw match,1938-06-12,Jun,Sunday
-1938,France,Antibes,Quarterfinals,Cuba,Sweden,0,8,A,no win conditions,Sweden,Cuba,1938-06-12,Jun,Sunday
+1938,France,Antibes,Quarterfinals,Cuba,Sweden,0,5,A,no win conditions,Sweden,Cuba,1938-06-12,Jun,Sunday
 1938,France,Colombes,Quarterfinals,France,Italy,1,3,A,no win conditions,Italy,France,1938-06-12,Jun,Sunday
 1938,France,Lille,Quarterfinals,Hungary,Switzerland,2,0,H,no win conditions,Hungary,Switzerland,1938-06-12,Jun,Sunday
 1938,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,2,1,H,no win conditions,Brazil,Czechoslovakia,1938-06-14,Jun,Tuesday
@@ -63,14 +63,14 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1950,Brazil,Belo Horizonte,Group 2,England,United States,0,1,A,no win conditions,United States,England,1950-06-29,Jun,Thursday
 1950,Brazil,Curitiba,Group 3,Paraguay,Sweden,2,2,D,no win conditions,Draw match,Draw match,1950-06-29,Jun,Thursday
 1950,Brazil,Rio de Janeiro,Group 1,Brazil,Yugoslavia,2,0,H,no win conditions,Brazil,Yugoslavia,1950-07-01,Jul,Saturday
-1950,Brazil,Belo Horizonte,Group 4,Bolivia,Uruguay,0,8,A,no win conditions,Uruguay,Bolivia,1950-07-02,Jul,Sunday
+1950,Brazil,Belo Horizonte,Group 4,Bolivia,Uruguay,0,5,A,no win conditions,Uruguay,Bolivia,1950-07-02,Jul,Sunday
 1950,Brazil,Recife,Group 2,Chile,United States,5,2,H,no win conditions,Chile,United States,1950-07-02,Jul,Sunday
 1950,Brazil,Rio de Janeiro,Group 2,England,Spain,0,1,A,no win conditions,Spain,England,1950-07-02,Jul,Sunday
 1950,Brazil,São Paulo,Group 3,Italy,Paraguay,2,0,H,no win conditions,Italy,Paraguay,1950-07-02,Jul,Sunday
 1950,Brazil,Porto Alegre,Group 1,Mexico,Switzerland,1,2,A,no win conditions,Switzerland,Mexico,1950-07-02,Jul,Sunday
-1950,Brazil,Rio de Janeiro,Final Round,Brazil,Sweden,7,1,H,no win conditions,Brazil,Sweden,1950-07-09,Jul,Sunday
+1950,Brazil,Rio de Janeiro,Final Round,Brazil,Sweden,5,1,H,no win conditions,Brazil,Sweden,1950-07-09,Jul,Sunday
 1950,Brazil,São Paulo,Final Round,Spain,Uruguay,2,2,D,no win conditions,Draw match,Draw match,1950-07-09,Jul,Sunday
-1950,Brazil,Rio de Janeiro,Final Round,Brazil,Spain,6,1,H,no win conditions,Brazil,Spain,1950-07-13,Jul,Thursday
+1950,Brazil,Rio de Janeiro,Final Round,Brazil,Spain,5,1,H,no win conditions,Brazil,Spain,1950-07-13,Jul,Thursday
 1950,Brazil,São Paulo,Final Round,Sweden,Uruguay,2,3,A,no win conditions,Uruguay,Sweden,1950-07-13,Jul,Thursday
 1950,Brazil,Rio de Janeiro,Final Round,Brazil,Uruguay,1,2,A,no win conditions,Uruguay,Brazil,1950-07-16,Jul,Sunday
 1950,Brazil,São Paulo,Final Round,Spain,Sweden,1,3,A,no win conditions,Sweden,Spain,1950-07-16,Jul,Sunday
@@ -80,23 +80,23 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1954,Switzerland,Lausanne,Group 1,France,Yugoslavia,0,1,A,no win conditions,Yugoslavia,France,1954-06-16,Jun,Wednesday
 1954,Switzerland,Basel,Group 4,Belgium,England,4,4,D,no win conditions,Draw match,Draw match,1954-06-17,Jun,Thursday
 1954,Switzerland,Berne,Group 2,West Germany,Turkey,4,1,H,no win conditions,West Germany,Turkey,1954-06-17,Jun,Thursday
-1954,Switzerland,Zürich,Group 2,Hungary,South Korea,9,0,H,no win conditions,Hungary,South Korea,1954-06-17,Jun,Thursday
+1954,Switzerland,Zürich,Group 2,Hungary,South Korea,5,0,H,no win conditions,Hungary,South Korea,1954-06-17,Jun,Thursday
 1954,Switzerland,Lausanne,Group 4,Switzerland,Italy,2,1,H,no win conditions,Switzerland,Italy,1954-06-17,Jun,Thursday
 1954,Switzerland,Zürich,Group 3,Austria,Czechoslovakia,5,0,H,no win conditions,Austria,Czechoslovakia,1954-06-19,Jun,Saturday
 1954,Switzerland,Lausanne,Group 1,Brazil,Yugoslavia,1,1,D,no win conditions,Draw match,Draw match,1954-06-19,Jun,Saturday
 1954,Switzerland,Geneva,Group 1,France,Mexico,3,2,H,no win conditions,France,Mexico,1954-06-19,Jun,Saturday
-1954,Switzerland,Basel,Group 3,Scotland,Uruguay,0,7,A,no win conditions,Uruguay,Scotland,1954-06-19,Jun,Saturday
+1954,Switzerland,Basel,Group 3,Scotland,Uruguay,0,5,A,no win conditions,Uruguay,Scotland,1954-06-19,Jun,Saturday
 1954,Switzerland,Lugano,Group 4,Belgium,Italy,1,4,A,no win conditions,Italy,Belgium,1954-06-20,Jun,Sunday
-1954,Switzerland,Basel,Group 2,West Germany,Hungary,3,8,A,no win conditions,Hungary,West Germany,1954-06-20,Jun,Sunday
-1954,Switzerland,Geneva,Group 2,South Korea,Turkey,0,7,A,no win conditions,Turkey,South Korea,1954-06-20,Jun,Sunday
+1954,Switzerland,Basel,Group 2,West Germany,Hungary,3,5,A,no win conditions,Hungary,West Germany,1954-06-20,Jun,Sunday
+1954,Switzerland,Geneva,Group 2,South Korea,Turkey,0,5,A,no win conditions,Turkey,South Korea,1954-06-20,Jun,Sunday
 1954,Switzerland,Berne,Group 4,Switzerland,England,0,2,A,no win conditions,England,Switzerland,1954-06-20,Jun,Sunday
-1954,Switzerland,Zürich,Group 2,West Germany,Turkey,7,2,H,no win conditions,West Germany,Turkey,1954-06-23,Jun,Wednesday
+1954,Switzerland,Zürich,Group 2,West Germany,Turkey,5,2,H,no win conditions,West Germany,Turkey,1954-06-23,Jun,Wednesday
 1954,Switzerland,Basel,Group 4,Switzerland,Italy,4,1,H,no win conditions,Switzerland,Italy,1954-06-23,Jun,Wednesday
 1954,Switzerland,Basel,Quarterfinals,England,Uruguay,2,4,A,no win conditions,Uruguay,England,1954-06-26,Jun,Saturday
-1954,Switzerland,Lausanne,Quarterfinals,Switzerland,Austria,5,7,A,no win conditions,Austria,Switzerland,1954-06-26,Jun,Saturday
+1954,Switzerland,Lausanne,Quarterfinals,Switzerland,Austria,5,5,A,no win conditions,Austria,Switzerland,1954-06-26,Jun,Saturday
 1954,Switzerland,Berne,Quarterfinals,Brazil,Hungary,2,4,A,no win conditions,Hungary,Brazil,1954-06-27,Jun,Sunday
 1954,Switzerland,Geneva,Quarterfinals,West Germany,Yugoslavia,2,0,H,no win conditions,West Germany,Yugoslavia,1954-06-27,Jun,Sunday
-1954,Switzerland,Basel,Semifinals,Austria,West Germany,1,6,A,no win conditions,West Germany,Austria,1954-06-30,Jun,Wednesday
+1954,Switzerland,Basel,Semifinals,Austria,West Germany,1,5,A,no win conditions,West Germany,Austria,1954-06-30,Jun,Wednesday
 1954,Switzerland,Lausanne,Semifinals,Hungary,Uruguay,4,2,H,Hungary won in AET,Hungary,Uruguay,1954-06-30,Jun,Wednesday
 1954,Switzerland,Zürich,Third place,Austria,Uruguay,3,1,H,no win conditions,Austria,Uruguay,1954-07-03,Jul,Saturday
 1954,Switzerland,Berne,Final,West Germany,Hungary,3,2,H,no win conditions,West Germany,Hungary,1954-07-04,Jul,Sunday
@@ -104,7 +104,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1958,Sweden,Uddevalla,Group 4,Austria,Brazil,0,3,A,no win conditions,Brazil,Austria,1958-06-08,Jun,Sunday
 1958,Sweden,Halmstad,Group 1,Czechoslovakia,Northern Ireland,0,1,A,no win conditions,Northern Ireland,Czechoslovakia,1958-06-08,Jun,Sunday
 1958,Sweden,Gothenburg,Group 4,England,Soviet Union,2,2,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
-1958,Sweden,Norrköping,Group 2,France,Paraguay,7,3,H,no win conditions,France,Paraguay,1958-06-08,Jun,Sunday
+1958,Sweden,Norrköping,Group 2,France,Paraguay,5,3,H,no win conditions,France,Paraguay,1958-06-08,Jun,Sunday
 1958,Sweden,Sandviken,Group 3,Hungary,Wales,1,1,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
 1958,Sweden,Västerås,Group 2,Scotland,Yugoslavia,1,1,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
 1958,Sweden,Solna,Group 3,Sweden,Mexico,3,0,H,no win conditions,Sweden,Mexico,1958-06-08,Jun,Sunday
@@ -116,7 +116,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1958,Sweden,Solna,Group 3,Mexico,Wales,1,1,D,no win conditions,Draw match,Draw match,1958-06-11,Jun,Wednesday
 1958,Sweden,Norrköping,Group 2,Paraguay,Scotland,3,2,H,no win conditions,Paraguay,Scotland,1958-06-11,Jun,Wednesday
 1958,Sweden,Solna,Group 3,Sweden,Hungary,2,1,H,no win conditions,Sweden,Hungary,1958-06-12,Jun,Thursday
-1958,Sweden,Helsingborg,Group 1,Argentina,Czechoslovakia,1,6,A,no win conditions,Czechoslovakia,Argentina,1958-06-15,Jun,Sunday
+1958,Sweden,Helsingborg,Group 1,Argentina,Czechoslovakia,1,5,A,no win conditions,Czechoslovakia,Argentina,1958-06-15,Jun,Sunday
 1958,Sweden,Borås,Group 4,Austria,England,2,2,D,no win conditions,Draw match,Draw match,1958-06-15,Jun,Sunday
 1958,Sweden,Gothenburg,Group 4,Brazil,Soviet Union,2,0,H,no win conditions,Brazil,Soviet Union,1958-06-15,Jun,Sunday
 1958,Sweden,Örebro,Group 2,France,Scotland,2,1,H,no win conditions,France,Scotland,1958-06-15,Jun,Sunday
@@ -133,7 +133,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1958,Sweden,Solna,Quarterfinals,Sweden,Soviet Union,2,0,H,no win conditions,Sweden,Soviet Union,1958-06-19,Jun,Thursday
 1958,Sweden,Solna,Semifinals,Brazil,France,5,2,H,no win conditions,Brazil,France,1958-06-24,Jun,Tuesday
 1958,Sweden,Gothenburg,Semifinals,Sweden,West Germany,3,1,H,no win conditions,Sweden,West Germany,1958-06-24,Jun,Tuesday
-1958,Sweden,Gothenburg,Third place,France,West Germany,6,3,H,no win conditions,France,West Germany,1958-06-28,Jun,Saturday
+1958,Sweden,Gothenburg,Third place,France,West Germany,5,3,H,no win conditions,France,West Germany,1958-06-28,Jun,Saturday
 1958,Sweden,Solna,Final,Sweden,Brazil,2,5,A,no win conditions,Brazil,Sweden,1958-06-29,Jun,Sunday
 1962,Chile,Rancagua,Group 4,Argentina,Bulgaria,1,0,H,no win conditions,Argentina,Bulgaria,1962-05-30,May,Wednesday
 1962,Chile,Viña del Mar,Group 3,Brazil,Mexico,2,0,H,no win conditions,Brazil,Mexico,1962-05-30,May,Wednesday
@@ -147,7 +147,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1962,Chile,Viña del Mar,Group 3,Brazil,Czechoslovakia,0,0,D,no win conditions,Draw match,Draw match,1962-06-02,Jun,Saturday
 1962,Chile,Santiago,Group 2,Chile,Italy,2,0,H,no win conditions,Chile,Italy,1962-06-02,Jun,Saturday
 1962,Chile,Arica,Group 1,Uruguay,Yugoslavia,1,3,A,no win conditions,Yugoslavia,Uruguay,1962-06-02,Jun,Saturday
-1962,Chile,Rancagua,Group 4,Bulgaria,Hungary,1,6,A,no win conditions,Hungary,Bulgaria,1962-06-03,Jun,Sunday
+1962,Chile,Rancagua,Group 4,Bulgaria,Hungary,1,5,A,no win conditions,Hungary,Bulgaria,1962-06-03,Jun,Sunday
 1962,Chile,Arica,Group 1,Colombia,Soviet Union,4,4,D,no win conditions,Draw match,Draw match,1962-06-03,Jun,Sunday
 1962,Chile,Santiago,Group 2,West Germany,Switzerland,2,1,H,no win conditions,West Germany,Switzerland,1962-06-03,Jun,Sunday
 1962,Chile,Viña del Mar,Group 3,Mexico,Spain,0,1,A,no win conditions,Spain,Mexico,1962-06-03,Jun,Sunday
@@ -242,10 +242,10 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1974,Germany,Berlin,Group 1,Chile,East Germany,1,1,D,no win conditions,Draw match,Draw match,1974-06-18,Jun,Tuesday
 1974,Germany,Hamburg,Group 1,West Germany,Australia,3,0,H,no win conditions,West Germany,Australia,1974-06-18,Jun,Tuesday
 1974,Germany,Frankfurt am Main,Group 2,Scotland,Brazil,0,0,D,no win conditions,Draw match,Draw match,1974-06-18,Jun,Tuesday
-1974,Germany,Gelsenkirchen,Group 2,Yugoslavia,Zaire,9,0,H,no win conditions,Yugoslavia,Zaire,1974-06-18,Jun,Tuesday
+1974,Germany,Gelsenkirchen,Group 2,Yugoslavia,Zaire,5,0,H,no win conditions,Yugoslavia,Zaire,1974-06-18,Jun,Tuesday
 1974,Germany,Stuttgart,Group 4,Argentina,Italy,1,1,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
 1974,Germany,Hanover,Group 3,Bulgaria,Uruguay,1,1,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
-1974,Germany,Munich,Group 4,Haiti,Poland,0,7,A,no win conditions,Poland,Haiti,1974-06-19,Jun,Wednesday
+1974,Germany,Munich,Group 4,Haiti,Poland,0,5,A,no win conditions,Poland,Haiti,1974-06-19,Jun,Wednesday
 1974,Germany,Dortmund,Group 3,Netherlands,Sweden,0,0,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
 1974,Germany,Berlin,Group 1,Australia,Chile,0,0,D,no win conditions,Draw match,Draw match,1974-06-22,Jun,Saturday
 1974,Germany,Gelsenkirchen,Group 2,Zaire,Brazil,0,3,A,no win conditions,Brazil,Zaire,1974-06-22,Jun,Saturday
@@ -278,7 +278,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1978,Argentina,Mendoza,Group 4,Iran,Netherlands,0,3,A,no win conditions,Netherlands,Iran,1978-06-03,Jun,Saturday
 1978,Argentina,Córdoba,Group 4,Peru,Scotland,3,1,H,no win conditions,Peru,Scotland,1978-06-03,Jun,Saturday
 1978,Argentina,Buenos Aires,Group 1,Argentina,France,2,1,H,no win conditions,Argentina,France,1978-06-06,Jun,Tuesday
-1978,Argentina,Córdoba,Group 2,West Germany,Mexico,6,0,H,no win conditions,West Germany,Mexico,1978-06-06,Jun,Tuesday
+1978,Argentina,Córdoba,Group 2,West Germany,Mexico,5,0,H,no win conditions,West Germany,Mexico,1978-06-06,Jun,Tuesday
 1978,Argentina,Mar del Plata,Group 1,Hungary,Italy,1,3,A,no win conditions,Italy,Hungary,1978-06-06,Jun,Tuesday
 1978,Argentina,Rosario,Group 2,Poland,Tunisia,1,0,H,no win conditions,Poland,Tunisia,1978-06-06,Jun,Tuesday
 1978,Argentina,Buenos Aires,Group 3,Austria,Sweden,1,0,H,no win conditions,Austria,Sweden,1978-06-07,Jun,Wednesday
@@ -301,7 +301,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1978,Argentina,Buenos Aires,Group A,Austria,Italy,0,1,A,no win conditions,Italy,Austria,1978-06-18,Jun,Sunday
 1978,Argentina,Córdoba,Group A,West Germany,Netherlands,2,2,D,no win conditions,Draw match,Draw match,1978-06-18,Jun,Sunday
 1978,Argentina,Mendoza,Group B,Peru,Poland,0,1,A,no win conditions,Poland,Peru,1978-06-18,Jun,Sunday
-1978,Argentina,Rosario,Group B,Argentina,Peru,6,0,H,no win conditions,Argentina,Peru,1978-06-21,Jun,Wednesday
+1978,Argentina,Rosario,Group B,Argentina,Peru,5,0,H,no win conditions,Argentina,Peru,1978-06-21,Jun,Wednesday
 1978,Argentina,Córdoba,Group A,Austria,West Germany,3,2,H,no win conditions,Austria,West Germany,1978-06-21,Jun,Wednesday
 1978,Argentina,Mendoza,Group B,Brazil,Poland,3,1,H,no win conditions,Brazil,Poland,1978-06-21,Jun,Wednesday
 1978,Argentina,Buenos Aires,Group A,Italy,Netherlands,1,2,A,no win conditions,Netherlands,Italy,1978-06-21,Jun,Wednesday
@@ -310,7 +310,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1982,Spain,Barcelona,Group 3,Argentina,Belgium,0,1,A,no win conditions,Belgium,Argentina,1982-06-13,Jun,Sunday
 1982,Spain,Seville,Group 6,Brazil,Soviet Union,2,1,H,no win conditions,Brazil,Soviet Union,1982-06-14,Jun,Monday
 1982,Spain,Vigo,Group 1,Italy,Poland,0,0,D,no win conditions,Draw match,Draw match,1982-06-14,Jun,Monday
-1982,Spain,Elche,Group 3,Hungary,El Salvador,10,1,H,no win conditions,Hungary,El Salvador,1982-06-15,Jun,Tuesday
+1982,Spain,Elche,Group 3,Hungary,El Salvador,5,1,H,no win conditions,Hungary,El Salvador,1982-06-15,Jun,Tuesday
 1982,Spain,La Coruña,Group 1,Peru,Cameroon,0,0,D,no win conditions,Draw match,Draw match,1982-06-15,Jun,Tuesday
 1982,Spain,Málaga,Group 6,Scotland,New Zealand,5,2,H,no win conditions,Scotland,New Zealand,1982-06-15,Jun,Tuesday
 1982,Spain,Bilbao,Group 4,England,France,3,1,H,no win conditions,England,France,1982-06-16,Jun,Wednesday
@@ -364,7 +364,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1986,Mexico,Guadalajara,Group D,Spain,Brazil,0,1,A,no win conditions,Brazil,Spain,1986-06-01,Jun,Sunday
 1986,Mexico,Mexico City,Group A,Argentina,South Korea,3,1,H,no win conditions,Argentina,South Korea,1986-06-02,Jun,Monday
 1986,Mexico,Monterrey,Group F,Morocco,Poland,0,0,D,no win conditions,Draw match,Draw match,1986-06-02,Jun,Monday
-1986,Mexico,Irapuato,Group C,Soviet Union,Hungary,6,0,H,no win conditions,Soviet Union,Hungary,1986-06-02,Jun,Monday
+1986,Mexico,Irapuato,Group C,Soviet Union,Hungary,5,0,H,no win conditions,Soviet Union,Hungary,1986-06-02,Jun,Monday
 1986,Mexico,Guadalajara,Group D,Algeria,Northern Ireland,1,1,D,no win conditions,Draw match,Draw match,1986-06-03,Jun,Tuesday
 1986,Mexico,Mexico City,Group B,Mexico,Belgium,2,1,H,no win conditions,Mexico,Belgium,1986-06-03,Jun,Tuesday
 1986,Mexico,Monterrey,Group F,Portugal,England,1,0,H,no win conditions,Portugal,England,1986-06-03,Jun,Tuesday
@@ -380,7 +380,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1986,Mexico,Mexico City,Group B,Mexico,Paraguay,1,1,D,no win conditions,Draw match,Draw match,1986-06-07,Jun,Saturday
 1986,Mexico,Guadalajara,Group D,Northern Ireland,Spain,1,2,A,no win conditions,Spain,Northern Ireland,1986-06-07,Jun,Saturday
 1986,Mexico,Monterrey,Group F,Poland,Portugal,1,0,H,no win conditions,Poland,Portugal,1986-06-07,Jun,Saturday
-1986,Mexico,Nezahualcóyotl,Group E,Denmark,Uruguay,6,1,H,no win conditions,Denmark,Uruguay,1986-06-08,Jun,Sunday
+1986,Mexico,Nezahualcóyotl,Group E,Denmark,Uruguay,5,1,H,no win conditions,Denmark,Uruguay,1986-06-08,Jun,Sunday
 1986,Mexico,Querétaro,Group E,West Germany,Scotland,2,1,H,no win conditions,West Germany,Scotland,1986-06-08,Jun,Sunday
 1986,Mexico,Toluca,Group B,Iraq,Belgium,1,2,A,no win conditions,Belgium,Iraq,1986-06-08,Jun,Sunday
 1986,Mexico,León,Group C,Hungary,France,0,3,A,no win conditions,France,Hungary,1986-06-09,Jun,Monday
@@ -494,7 +494,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1994,United States,Pontiac,Group B,Brazil,Sweden,1,1,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
 1994,United States,East Rutherford,Group E,Republic of Ireland,Norway,0,0,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
 1994,United States,Washington,Group E,Italy,Mexico,1,1,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
-1994,United States,Palo Alto,Group B,Russia,Cameroon,6,1,H,no win conditions,Russia,Cameroon,1994-06-28,Jun,Tuesday
+1994,United States,Palo Alto,Group B,Russia,Cameroon,5,1,H,no win conditions,Russia,Cameroon,1994-06-28,Jun,Tuesday
 1994,United States,Washington,Group F,Belgium,Saudi Arabia,0,1,A,no win conditions,Saudi Arabia,Belgium,1994-06-29,Jun,Wednesday
 1994,United States,Orlando,Group F,Morocco,Netherlands,1,2,A,no win conditions,Netherlands,Morocco,1994-06-29,Jun,Wednesday
 1994,United States,Dallas,Group D,Argentina,Bulgaria,0,2,A,no win conditions,Bulgaria,Argentina,1994-06-30,Jun,Thursday
@@ -554,7 +554,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1998,France,Lyon,Group C,France,Denmark,2,1,H,no win conditions,France,Denmark,1998-06-24,Jun,Wednesday
 1998,France,Toulouse,Group D,Nigeria,Paraguay,1,3,A,no win conditions,Paraguay,Nigeria,1998-06-24,Jun,Wednesday
 1998,France,Bordeaux,Group C,South Africa,Saudi Arabia,2,2,D,no win conditions,Draw match,Draw match,1998-06-24,Jun,Wednesday
-1998,France,Lens,Group D,Spain,Bulgaria,6,1,H,no win conditions,Spain,Bulgaria,1998-06-24,Jun,Wednesday
+1998,France,Lens,Group D,Spain,Bulgaria,5,1,H,no win conditions,Spain,Bulgaria,1998-06-24,Jun,Wednesday
 1998,France,Paris,Group E,Belgium,South Korea,1,1,D,no win conditions,Draw match,Draw match,1998-06-25,Jun,Thursday
 1998,France,Montpellier,Group F,Germany,Iran,2,0,H,no win conditions,Germany,Iran,1998-06-25,Jun,Thursday
 1998,France,Saint-Étienne,Group E,Netherlands,Mexico,2,2,D,no win conditions,Draw match,Draw match,1998-06-25,Jun,Thursday
@@ -580,7 +580,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 1998,France,Paris,Third place,Netherlands,Croatia,1,2,A,no win conditions,Croatia,Netherlands,1998-07-11,Jul,Saturday
 1998,France,Saint-Denis,Final,France,Brazil,3,0,H,no win conditions,France,Brazil,1998-07-12,Jul,Sunday
 2002,South Korea,Seoul,Group A,France,Senegal,0,1,A,no win conditions,Senegal,France,2002-05-31,May,Friday
-2002,Japan,Sapporo,Group E,Germany,Saudi Arabia,8,0,H,no win conditions,Germany,Saudi Arabia,2002-06-01,Jun,Saturday
+2002,Japan,Sapporo,Group E,Germany,Saudi Arabia,5,0,H,no win conditions,Germany,Saudi Arabia,2002-06-01,Jun,Saturday
 2002,Japan,Niigata,Group E,Republic of Ireland,Cameroon,1,1,D,no win conditions,Draw match,Draw match,2002-06-01,Jun,Saturday
 2002,South Korea,Ulsan,Group A,Uruguay,Denmark,1,2,A,no win conditions,Denmark,Uruguay,2002-06-01,Jun,Saturday
 2002,Japan,Kashima,Group F,Argentina,Nigeria,1,0,H,no win conditions,Argentina,Nigeria,2002-06-02,Jun,Sunday
@@ -663,7 +663,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 2006,Germany,Hamburg,Group A,Ecuador,Costa Rica,3,0,H,no win conditions,Ecuador,Costa Rica,2006-06-15,Jun,Thursday
 2006,Germany,Nuremberg,Group B,England,Trinidad and Tobago,2,0,H,no win conditions,England,Trinidad and Tobago,2006-06-15,Jun,Thursday
 2006,Germany,Berlin,Group B,Sweden,Paraguay,1,0,H,no win conditions,Sweden,Paraguay,2006-06-15,Jun,Thursday
-2006,Germany,Gelsenkirchen,Group C,Argentina,Serbia,6,0,H,no win conditions,Argentina,Serbia,2006-06-16,Jun,Friday
+2006,Germany,Gelsenkirchen,Group C,Argentina,Serbia,5,0,H,no win conditions,Argentina,Serbia,2006-06-16,Jun,Friday
 2006,Germany,Hanover,Group D,Mexico,Angola,0,0,D,no win conditions,Draw match,Draw match,2006-06-16,Jun,Friday
 2006,Germany,Stuttgart,Group C,Netherlands,Ivory Coast,2,1,H,no win conditions,Netherlands,Ivory Coast,2006-06-16,Jun,Friday
 2006,Germany,Cologne,Group E,Czech Republic,Ghana,0,2,A,no win conditions,Ghana,Czech Republic,2006-06-17,Jun,Saturday
@@ -737,7 +737,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 2010,South Africa,Nelspruit,Group F,Italy,New Zealand,1,1,D,no win conditions,Draw match,Draw match,2010-06-20,Jun,Sunday
 2010,South Africa,Bloemfontein,Group F,Slovakia,Paraguay,0,2,A,no win conditions,Paraguay,Slovakia,2010-06-20,Jun,Sunday
 2010,South Africa,Port Elizabeth,Group H,Chile,Switzerland,1,0,H,no win conditions,Chile,Switzerland,2010-06-21,Jun,Monday
-2010,South Africa,Cape Town,Group G,Portugal,North Korea,7,0,H,no win conditions,Portugal,North Korea,2010-06-21,Jun,Monday
+2010,South Africa,Cape Town,Group G,Portugal,North Korea,5,0,H,no win conditions,Portugal,North Korea,2010-06-21,Jun,Monday
 2010,South Africa,Johannesburg,Group H,Spain,Honduras,2,0,H,no win conditions,Spain,Honduras,2010-06-21,Jun,Monday
 2010,South Africa,Polokwane,Group B,Greece,Argentina,0,2,A,no win conditions,Argentina,Greece,2010-06-22,Jun,Tuesday
 2010,South Africa,Rustenburg,Group A,Mexico,Uruguay,0,1,A,no win conditions,Uruguay,Mexico,2010-06-22,Jun,Tuesday
@@ -831,7 +831,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 2014,Brazil,Rio de Janeiro,Quarterfinals,France,Germany,0,1,A,no win conditions,Germany,France,2014-07-04,Jul,Friday
 2014,Brazil,Brasília,Quarterfinals,Argentina,Belgium,1,0,H,no win conditions,Argentina,Belgium,2014-07-05,Jul,Saturday
 2014,Brazil,Salvador,Quarterfinals,Netherlands,Costa Rica,0,0,H,Netherlands won in penalties (4 - 3),Netherlands,Costa Rica,2014-07-05,Jul,Saturday
-2014,Brazil,Belo Horizonte,Semifinals,Brazil,Germany,1,7,A,no win conditions,Germany,Brazil,2014-07-08,Jul,Tuesday
+2014,Brazil,Belo Horizonte,Semifinals,Brazil,Germany,1,5,A,no win conditions,Germany,Brazil,2014-07-08,Jul,Tuesday
 2014,Brazil,São Paulo,Semifinals,Netherlands,Argentina,0,0,A,Argentina won in penalties (4 - 2),Argentina,Netherlands,2014-07-09,Jul,Wednesday
 2014,Brazil,Brasília,Third place,Brazil,Netherlands,0,3,A,no win conditions,Netherlands,Brazil,2014-07-12,Jul,Saturday
 2014,Brazil,Rio de Janeiro,Final,Germany,Argentina,1,0,H,Germany won in AET,Germany,Argentina,2014-07-13,Jul,Sunday
@@ -864,7 +864,7 @@ year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_co
 2018,Russia,Moscow,Group G,Belgium,Tunisia,5,2,H,no win conditions,Belgium,Tunisia,2018-06-23,Jun,Saturday
 2018,Russia,Rostov-on-Don,Group F,South Korea,Mexico,1,2,A,no win conditions,Mexico,South Korea,2018-06-23,Jun,Saturday
 2018,Russia,Sochi,Group F,Germany,Sweden,2,1,H,no win conditions,Germany,Sweden,2018-06-23,Jun,Saturday
-2018,Russia,Nizhny Novgorod,Group G,England,Panama,6,1,H,no win conditions,England,Panama,2018-06-24,Jun,Sunday
+2018,Russia,Nizhny Novgorod,Group G,England,Panama,5,1,H,no win conditions,England,Panama,2018-06-24,Jun,Sunday
 2018,Russia,Ekaterinburg,Group H,Japan,Senegal,2,2,D,no win conditions,Draw match,Draw match,2018-06-24,Jun,Sunday
 2018,Russia,Kazan,Group H,Poland,Colombia,0,3,A,no win conditions,Colombia,Poland,2018-06-24,Jun,Sunday
 2018,Russia,Samara,Group A,Russia,Uruguay,0,3,A,no win conditions,Uruguay,Russia,2018-06-25,Jun,Monday
