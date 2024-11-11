@@ -1,901 +1,901 @@
 year,country,city,stage,home_team,away_team,home_score,away_score,outcome,win_conditions,winning_team,losing_team,date,month,dayofweek
-1930,Uruguay,Montevideo,Group 1,France,Mexico,0.4,0.1,H,no win conditions,France,Mexico,1930-07-13,Jul,Sunday
-1930,Uruguay,Montevideo,Group 4,Belgium,United States,0.0,0.3,A,no win conditions,United States,Belgium,1930-07-13,Jul,Sunday
-1930,Uruguay,Montevideo,Group 2,Brazil,Yugoslavia,0.1,0.2,A,no win conditions,Yugoslavia,Brazil,1930-07-14,Jul,Monday
-1930,Uruguay,Montevideo,Group 3,Peru,Romania,0.1,0.3,A,no win conditions,Romania,Peru,1930-07-14,Jul,Monday
-1930,Uruguay,Montevideo,Group 1,Argentina,France,0.1,0.0,H,no win conditions,Argentina,France,1930-07-15,Jul,Tuesday
-1930,Uruguay,Montevideo,Group 1,Chile,Mexico,0.3,0.0,H,no win conditions,Chile,Mexico,1930-07-16,Jul,Wednesday
-1930,Uruguay,Montevideo,Group 2,Bolivia,Yugoslavia,0.0,0.4,A,no win conditions,Yugoslavia,Bolivia,1930-07-17,Jul,Thursday
-1930,Uruguay,Montevideo,Group 4,Paraguay,United States,0.0,0.3,A,no win conditions,United States,Paraguay,1930-07-17,Jul,Thursday
-1930,Uruguay,Montevideo,Group 3,Uruguay,Peru,0.1,0.0,H,no win conditions,Uruguay,Peru,1930-07-18,Jul,Friday
-1930,Uruguay,Montevideo,Group 1,Argentina,Mexico,0.5,0.3,H,no win conditions,Argentina,Mexico,1930-07-19,Jul,Saturday
-1930,Uruguay,Montevideo,Group 1,Chile,France,0.1,0.0,H,no win conditions,Chile,France,1930-07-19,Jul,Saturday
-1930,Uruguay,Montevideo,Group 4,Belgium,Paraguay,0.0,0.1,A,no win conditions,Paraguay,Belgium,1930-07-20,Jul,Sunday
-1930,Uruguay,Montevideo,Group 2,Bolivia,Brazil,0.0,0.4,A,no win conditions,Brazil,Bolivia,1930-07-20,Jul,Sunday
-1930,Uruguay,Montevideo,Group 3,Uruguay,Romania,0.4,0.0,H,no win conditions,Uruguay,Romania,1930-07-21,Jul,Monday
-1930,Uruguay,Montevideo,Group 1,Argentina,Chile,0.3,0.1,H,no win conditions,Argentina,Chile,1930-07-22,Jul,Tuesday
-1930,Uruguay,Montevideo,Semifinals,Argentina,United States,0.5,0.1,H,no win conditions,Argentina,United States,1930-07-26,Jul,Saturday
-1930,Uruguay,Montevideo,Semifinals,Uruguay,Yugoslavia,0.5,0.1,H,no win conditions,Uruguay,Yugoslavia,1930-07-27,Jul,Sunday
-1930,Uruguay,Montevideo,Final,Uruguay,Argentina,0.4,0.2,H,no win conditions,Uruguay,Argentina,1930-07-30,Jul,Wednesday
-1934,Italy,Bologna,Round of 16,Argentina,Sweden,0.2,0.3,A,no win conditions,Sweden,Argentina,1934-05-27,May,Sunday
-1934,Italy,Turin,Round of 16,Austria,France,0.3,0.2,H,Austria won in AET,Austria,France,1934-05-27,May,Sunday
-1934,Italy,Florence,Round of 16,Belgium,Germany,0.2,0.5,A,no win conditions,Germany,Belgium,1934-05-27,May,Sunday
-1934,Italy,Genoa,Round of 16,Brazil,Spain,0.1,0.3,A,no win conditions,Spain,Brazil,1934-05-27,May,Sunday
-1934,Italy,Trieste,Round of 16,Czechoslovakia,Romania,0.2,0.1,H,no win conditions,Czechoslovakia,Romania,1934-05-27,May,Sunday
-1934,Italy,Naples,Round of 16,Egypt,Hungary,0.2,0.4,A,no win conditions,Hungary,Egypt,1934-05-27,May,Sunday
-1934,Italy,Rome,Round of 16,Italy,United States,0.5,0.1,H,no win conditions,Italy,United States,1934-05-27,May,Sunday
-1934,Italy,Milan,Round of 16,Netherlands,Switzerland,0.2,0.3,A,no win conditions,Switzerland,Netherlands,1934-05-27,May,Sunday
-1934,Italy,Bologna,Quarterfinals,Austria,Hungary,0.2,0.1,H,no win conditions,Austria,Hungary,1934-05-31,May,Thursday
-1934,Italy,Turin,Quarterfinals,Czechoslovakia,Switzerland,0.3,0.2,H,no win conditions,Czechoslovakia,Switzerland,1934-05-31,May,Thursday
-1934,Italy,Milan,Quarterfinals,Germany,Sweden,0.2,0.1,H,no win conditions,Germany,Sweden,1934-05-31,May,Thursday
-1934,Italy,Florence,Quarterfinals,Italy,Spain,0.1,0.1,D,no win conditions,Draw match,Draw match,1934-05-31,May,Thursday
-1934,Italy,Florence,Quarterfinals,Italy,Spain,0.1,0.0,H,no win conditions,Italy,Spain,1934-06-01,Jun,Friday
-1934,Italy,Rome,Semifinals,Czechoslovakia,Germany,0.3,0.1,H,no win conditions,Czechoslovakia,Germany,1934-06-03,Jun,Sunday
-1934,Italy,Milan,Semifinals,Italy,Austria,0.1,0.0,H,no win conditions,Italy,Austria,1934-06-03,Jun,Sunday
-1934,Italy,Naples,Third place,Austria,Germany,0.2,0.3,A,no win conditions,West Germany,Austria,1934-06-07,Jun,Thursday
-1934,Italy,Rome,Final,Italy,Czechoslovakia,0.2,0.1,H,Italy won in AET,Italy,Czechoslovakia,1934-06-10,Jun,Sunday
-1938,France,Paris,Round of 16,Germany,Switzerland,0.1,0.1,D,no win conditions,Draw match,Draw match,1938-06-04,Jun,Saturday
-1938,France,Strasbourg,Round of 16,Brazil,Poland,0.5,0.5,H,Brazil won in AET,Brazil,Poland,1938-06-05,Jun,Sunday
-1938,France,Toulouse,Round of 16,Cuba,Romania,0.3,0.3,D,no win conditions,Draw match,Draw match,1938-06-05,Jun,Sunday
-1938,France,Le Havre,Round of 16,Czechoslovakia,Netherlands,0.3,0.0,H,Czechoslovakia won in AET,Czechoslovakia,Netherlands,1938-06-05,Jun,Sunday
-1938,France,Colombes,Round of 16,France,Belgium,0.3,0.1,H,no win conditions,France,Belgium,1938-06-05,Jun,Sunday
-1938,France,Reims,Round of 16,Hungary,Dutch West Indies,0.5,0.0,H,no win conditions,Hungary,Dutch West Indies,1938-06-05,Jun,Sunday
-1938,France,Marseille,Round of 16,Italy,Norway,0.2,0.1,H,Italy won in AET,Italy,Norway,1938-06-05,Jun,Sunday
-1938,France,Toulouse,Round of 16,Cuba,Romania,0.2,0.1,H,no win conditions,Cuba,Romania,1938-06-09,Jun,Thursday
-1938,France,Paris,Round of 16,Germany,Switzerland,0.2,0.4,A,no win conditions,Switzerland,Germany,1938-06-09,Jun,Thursday
-1938,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,0.1,0.1,D,no win conditions,Draw match,Draw match,1938-06-12,Jun,Sunday
-1938,France,Antibes,Quarterfinals,Cuba,Sweden,0.0,0.5,A,no win conditions,Sweden,Cuba,1938-06-12,Jun,Sunday
-1938,France,Colombes,Quarterfinals,France,Italy,0.1,0.3,A,no win conditions,Italy,France,1938-06-12,Jun,Sunday
-1938,France,Lille,Quarterfinals,Hungary,Switzerland,0.2,0.0,H,no win conditions,Hungary,Switzerland,1938-06-12,Jun,Sunday
-1938,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,0.2,0.1,H,no win conditions,Brazil,Czechoslovakia,1938-06-14,Jun,Tuesday
-1938,France,Marseille,Semifinals,Brazil,Italy,0.1,0.2,A,no win conditions,Italy,Brazil,1938-06-16,Jun,Thursday
-1938,France,Paris,Semifinals,Hungary,Sweden,0.5,0.1,H,no win conditions,Hungary,Sweden,1938-06-16,Jun,Thursday
-1938,France,Bordeaux,Third place,Brazil,Sweden,0.4,0.2,H,no win conditions,Brazil,Sweden,1938-06-19,Jun,Sunday
-1938,France,Colombes,Final,Hungary,Italy,0.2,0.4,A,no win conditions,Italy,Hungary,1938-06-19,Jun,Sunday
-1950,Brazil,Rio de Janeiro,Group 1,Brazil,Mexico,0.4,0.0,H,no win conditions,Brazil,Mexico,1950-06-24,Jun,Saturday
-1950,Brazil,Rio de Janeiro,Group 2,Chile,England,0.0,0.2,A,no win conditions,England,Chile,1950-06-25,Jun,Sunday
-1950,Brazil,São Paulo,Group 3,Italy,Sweden,0.2,0.3,A,no win conditions,Sweden,Italy,1950-06-25,Jun,Sunday
-1950,Brazil,Curitiba,Group 2,Spain,United States,0.3,0.1,H,no win conditions,Spain,United States,1950-06-25,Jun,Sunday
-1950,Brazil,Belo Horizonte,Group 1,Switzerland,Yugoslavia,0.0,0.3,A,no win conditions,Yugoslavia,Switzerland,1950-06-25,Jun,Sunday
-1950,Brazil,São Paulo,Group 1,Brazil,Switzerland,0.2,0.2,D,no win conditions,Draw match,Draw match,1950-06-28,Jun,Wednesday
-1950,Brazil,Porto Alegre,Group 1,Mexico,Yugoslavia,0.1,0.4,A,no win conditions,Yugoslavia,Mexico,1950-06-28,Jun,Wednesday
-1950,Brazil,Rio de Janeiro,Group 2,Chile,Spain,0.0,0.2,A,no win conditions,Spain,Chile,1950-06-29,Jun,Thursday
-1950,Brazil,Belo Horizonte,Group 2,England,United States,0.0,0.1,A,no win conditions,United States,England,1950-06-29,Jun,Thursday
-1950,Brazil,Curitiba,Group 3,Paraguay,Sweden,0.2,0.2,D,no win conditions,Draw match,Draw match,1950-06-29,Jun,Thursday
-1950,Brazil,Rio de Janeiro,Group 1,Brazil,Yugoslavia,0.2,0.0,H,no win conditions,Brazil,Yugoslavia,1950-07-01,Jul,Saturday
-1950,Brazil,Belo Horizonte,Group 4,Bolivia,Uruguay,0.0,0.5,A,no win conditions,Uruguay,Bolivia,1950-07-02,Jul,Sunday
-1950,Brazil,Recife,Group 2,Chile,United States,0.5,0.2,H,no win conditions,Chile,United States,1950-07-02,Jul,Sunday
-1950,Brazil,Rio de Janeiro,Group 2,England,Spain,0.0,0.1,A,no win conditions,Spain,England,1950-07-02,Jul,Sunday
-1950,Brazil,São Paulo,Group 3,Italy,Paraguay,0.2,0.0,H,no win conditions,Italy,Paraguay,1950-07-02,Jul,Sunday
-1950,Brazil,Porto Alegre,Group 1,Mexico,Switzerland,0.1,0.2,A,no win conditions,Switzerland,Mexico,1950-07-02,Jul,Sunday
-1950,Brazil,Rio de Janeiro,Final Round,Brazil,Sweden,0.5,0.1,H,no win conditions,Brazil,Sweden,1950-07-09,Jul,Sunday
-1950,Brazil,São Paulo,Final Round,Spain,Uruguay,0.2,0.2,D,no win conditions,Draw match,Draw match,1950-07-09,Jul,Sunday
-1950,Brazil,Rio de Janeiro,Final Round,Brazil,Spain,0.5,0.1,H,no win conditions,Brazil,Spain,1950-07-13,Jul,Thursday
-1950,Brazil,São Paulo,Final Round,Sweden,Uruguay,0.2,0.3,A,no win conditions,Uruguay,Sweden,1950-07-13,Jul,Thursday
-1950,Brazil,Rio de Janeiro,Final Round,Brazil,Uruguay,0.1,0.2,A,no win conditions,Uruguay,Brazil,1950-07-16,Jul,Sunday
-1950,Brazil,São Paulo,Final Round,Spain,Sweden,0.1,0.3,A,no win conditions,Sweden,Spain,1950-07-16,Jul,Sunday
-1954,Switzerland,Zürich,Group 3,Austria,Scotland,0.1,0.0,H,no win conditions,Austria,Scotland,1954-06-16,Jun,Wednesday
-1954,Switzerland,Geneva,Group 1,Brazil,Mexico,0.5,0.0,H,no win conditions,Brazil,Mexico,1954-06-16,Jun,Wednesday
-1954,Switzerland,Berne,Group 3,Czechoslovakia,Uruguay,0.0,0.2,A,no win conditions,Uruguay,Czechoslovakia,1954-06-16,Jun,Wednesday
-1954,Switzerland,Lausanne,Group 1,France,Yugoslavia,0.0,0.1,A,no win conditions,Yugoslavia,France,1954-06-16,Jun,Wednesday
-1954,Switzerland,Basel,Group 4,Belgium,England,0.4,0.4,D,no win conditions,Draw match,Draw match,1954-06-17,Jun,Thursday
-1954,Switzerland,Berne,Group 2,West Germany,Turkey,0.4,0.1,H,no win conditions,West Germany,Turkey,1954-06-17,Jun,Thursday
-1954,Switzerland,Zürich,Group 2,Hungary,South Korea,0.5,0.0,H,no win conditions,Hungary,South Korea,1954-06-17,Jun,Thursday
-1954,Switzerland,Lausanne,Group 4,Switzerland,Italy,0.2,0.1,H,no win conditions,Switzerland,Italy,1954-06-17,Jun,Thursday
-1954,Switzerland,Zürich,Group 3,Austria,Czechoslovakia,0.5,0.0,H,no win conditions,Austria,Czechoslovakia,1954-06-19,Jun,Saturday
-1954,Switzerland,Lausanne,Group 1,Brazil,Yugoslavia,0.1,0.1,D,no win conditions,Draw match,Draw match,1954-06-19,Jun,Saturday
-1954,Switzerland,Geneva,Group 1,France,Mexico,0.3,0.2,H,no win conditions,France,Mexico,1954-06-19,Jun,Saturday
-1954,Switzerland,Basel,Group 3,Scotland,Uruguay,0.0,0.5,A,no win conditions,Uruguay,Scotland,1954-06-19,Jun,Saturday
-1954,Switzerland,Lugano,Group 4,Belgium,Italy,0.1,0.4,A,no win conditions,Italy,Belgium,1954-06-20,Jun,Sunday
-1954,Switzerland,Basel,Group 2,West Germany,Hungary,0.3,0.5,A,no win conditions,Hungary,West Germany,1954-06-20,Jun,Sunday
-1954,Switzerland,Geneva,Group 2,South Korea,Turkey,0.0,0.5,A,no win conditions,Turkey,South Korea,1954-06-20,Jun,Sunday
-1954,Switzerland,Berne,Group 4,Switzerland,England,0.0,0.2,A,no win conditions,England,Switzerland,1954-06-20,Jun,Sunday
-1954,Switzerland,Zürich,Group 2,West Germany,Turkey,0.5,0.2,H,no win conditions,West Germany,Turkey,1954-06-23,Jun,Wednesday
-1954,Switzerland,Basel,Group 4,Switzerland,Italy,0.4,0.1,H,no win conditions,Switzerland,Italy,1954-06-23,Jun,Wednesday
-1954,Switzerland,Basel,Quarterfinals,England,Uruguay,0.2,0.4,A,no win conditions,Uruguay,England,1954-06-26,Jun,Saturday
-1954,Switzerland,Lausanne,Quarterfinals,Switzerland,Austria,0.5,0.5,A,no win conditions,Austria,Switzerland,1954-06-26,Jun,Saturday
-1954,Switzerland,Berne,Quarterfinals,Brazil,Hungary,0.2,0.4,A,no win conditions,Hungary,Brazil,1954-06-27,Jun,Sunday
-1954,Switzerland,Geneva,Quarterfinals,West Germany,Yugoslavia,0.2,0.0,H,no win conditions,West Germany,Yugoslavia,1954-06-27,Jun,Sunday
-1954,Switzerland,Basel,Semifinals,Austria,West Germany,0.1,0.5,A,no win conditions,West Germany,Austria,1954-06-30,Jun,Wednesday
-1954,Switzerland,Lausanne,Semifinals,Hungary,Uruguay,0.4,0.2,H,Hungary won in AET,Hungary,Uruguay,1954-06-30,Jun,Wednesday
-1954,Switzerland,Zürich,Third place,Austria,Uruguay,0.3,0.1,H,no win conditions,Austria,Uruguay,1954-07-03,Jul,Saturday
-1954,Switzerland,Berne,Final,West Germany,Hungary,0.3,0.2,H,no win conditions,West Germany,Hungary,1954-07-04,Jul,Sunday
-1958,Sweden,Malmö,Group 1,Argentina,West Germany,0.1,0.3,A,no win conditions,West Germany,Argentina,1958-06-08,Jun,Sunday
-1958,Sweden,Uddevalla,Group 4,Austria,Brazil,0.0,0.3,A,no win conditions,Brazil,Austria,1958-06-08,Jun,Sunday
-1958,Sweden,Halmstad,Group 1,Czechoslovakia,Northern Ireland,0.0,0.1,A,no win conditions,Northern Ireland,Czechoslovakia,1958-06-08,Jun,Sunday
-1958,Sweden,Gothenburg,Group 4,England,Soviet Union,0.2,0.2,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
-1958,Sweden,Norrköping,Group 2,France,Paraguay,0.5,0.3,H,no win conditions,France,Paraguay,1958-06-08,Jun,Sunday
-1958,Sweden,Sandviken,Group 3,Hungary,Wales,0.1,0.1,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
-1958,Sweden,Västerås,Group 2,Scotland,Yugoslavia,0.1,0.1,D,no win conditions,Draw match,Draw match,1958-06-08,Jun,Sunday
-1958,Sweden,Solna,Group 3,Sweden,Mexico,0.3,0.0,H,no win conditions,Sweden,Mexico,1958-06-08,Jun,Sunday
-1958,Sweden,Halmstad,Group 1,Argentina,Northern Ireland,0.3,0.1,H,no win conditions,Argentina,Northern Ireland,1958-06-11,Jun,Wednesday
-1958,Sweden,Borås,Group 4,Austria,Soviet Union,0.0,0.2,A,no win conditions,Soviet Union,Austria,1958-06-11,Jun,Wednesday
-1958,Sweden,Gothenburg,Group 4,Brazil,England,0.0,0.0,D,no win conditions,Draw match,Draw match,1958-06-11,Jun,Wednesday
-1958,Sweden,Helsingborg,Group 1,Czechoslovakia,West Germany,0.2,0.2,D,no win conditions,Draw match,Draw match,1958-06-11,Jun,Wednesday
-1958,Sweden,Västerås,Group 2,France,Yugoslavia,0.2,0.3,A,no win conditions,Yugoslavia,France,1958-06-11,Jun,Wednesday
-1958,Sweden,Solna,Group 3,Mexico,Wales,0.1,0.1,D,no win conditions,Draw match,Draw match,1958-06-11,Jun,Wednesday
-1958,Sweden,Norrköping,Group 2,Paraguay,Scotland,0.3,0.2,H,no win conditions,Paraguay,Scotland,1958-06-11,Jun,Wednesday
-1958,Sweden,Solna,Group 3,Sweden,Hungary,0.2,0.1,H,no win conditions,Sweden,Hungary,1958-06-12,Jun,Thursday
-1958,Sweden,Helsingborg,Group 1,Argentina,Czechoslovakia,0.1,0.5,A,no win conditions,Czechoslovakia,Argentina,1958-06-15,Jun,Sunday
-1958,Sweden,Borås,Group 4,Austria,England,0.2,0.2,D,no win conditions,Draw match,Draw match,1958-06-15,Jun,Sunday
-1958,Sweden,Gothenburg,Group 4,Brazil,Soviet Union,0.2,0.0,H,no win conditions,Brazil,Soviet Union,1958-06-15,Jun,Sunday
-1958,Sweden,Örebro,Group 2,France,Scotland,0.2,0.1,H,no win conditions,France,Scotland,1958-06-15,Jun,Sunday
-1958,Sweden,Malmö,Group 1,West Germany,Northern Ireland,0.2,0.2,D,no win conditions,Draw match,Draw match,1958-06-15,Jun,Sunday
-1958,Sweden,Sandviken,Group 3,Hungary,Mexico,0.4,0.0,H,no win conditions,Hungary,Mexico,1958-06-15,Jun,Sunday
-1958,Sweden,Eskilstuna,Group 2,Paraguay,Yugoslavia,0.3,0.3,D,no win conditions,Draw match,Draw match,1958-06-15,Jun,Sunday
-1958,Sweden,Solna,Group 3,Sweden,Wales,0.0,0.0,D,no win conditions,Draw match,Draw match,1958-06-15,Jun,Sunday
-1958,Sweden,Malmö,Group 1,Czechoslovakia,Northern Ireland,0.1,0.2,A,Northern Ireland won in AET,Northern Ireland,Czechoslovakia,1958-06-17,Jun,Tuesday
-1958,Sweden,Gothenburg,Group 4,England,Soviet Union,0.0,0.1,A,no win conditions,Soviet Union,England,1958-06-17,Jun,Tuesday
-1958,Sweden,Solna,Group 3,Hungary,Wales,0.1,0.2,A,no win conditions,Wales,Hungary,1958-06-17,Jun,Tuesday
-1958,Sweden,Gothenburg,Quarterfinals,Brazil,Wales,0.1,0.0,H,no win conditions,Brazil,Wales,1958-06-19,Jun,Thursday
-1958,Sweden,Norrköping,Quarterfinals,France,Northern Ireland,0.4,0.0,H,no win conditions,France,Northern Ireland,1958-06-19,Jun,Thursday
-1958,Sweden,Malmö,Quarterfinals,West Germany,Yugoslavia,0.1,0.0,H,no win conditions,West Germany,Yugoslavia,1958-06-19,Jun,Thursday
-1958,Sweden,Solna,Quarterfinals,Sweden,Soviet Union,0.2,0.0,H,no win conditions,Sweden,Soviet Union,1958-06-19,Jun,Thursday
-1958,Sweden,Solna,Semifinals,Brazil,France,0.5,0.2,H,no win conditions,Brazil,France,1958-06-24,Jun,Tuesday
-1958,Sweden,Gothenburg,Semifinals,Sweden,West Germany,0.3,0.1,H,no win conditions,Sweden,West Germany,1958-06-24,Jun,Tuesday
-1958,Sweden,Gothenburg,Third place,France,West Germany,0.5,0.3,H,no win conditions,France,West Germany,1958-06-28,Jun,Saturday
-1958,Sweden,Solna,Final,Sweden,Brazil,0.2,0.5,A,no win conditions,Brazil,Sweden,1958-06-29,Jun,Sunday
-1962,Chile,Rancagua,Group 4,Argentina,Bulgaria,0.1,0.0,H,no win conditions,Argentina,Bulgaria,1962-05-30,May,Wednesday
-1962,Chile,Viña del Mar,Group 3,Brazil,Mexico,0.2,0.0,H,no win conditions,Brazil,Mexico,1962-05-30,May,Wednesday
-1962,Chile,Santiago,Group 2,Chile,Switzerland,0.3,0.1,H,no win conditions,Chile,Switzerland,1962-05-30,May,Wednesday
-1962,Chile,Arica,Group 1,Colombia,Uruguay,0.1,0.2,A,no win conditions,Uruguay,Colombia,1962-05-30,May,Wednesday
-1962,Chile,Viña del Mar,Group 3,Czechoslovakia,Spain,0.1,0.0,H,no win conditions,Czechoslovakia,Spain,1962-05-31,May,Thursday
-1962,Chile,Rancagua,Group 4,England,Hungary,0.1,0.2,A,no win conditions,Hungary,England,1962-05-31,May,Thursday
-1962,Chile,Santiago,Group 2,West Germany,Italy,0.0,0.0,D,no win conditions,Draw match,Draw match,1962-05-31,May,Thursday
-1962,Chile,Arica,Group 1,Soviet Union,Yugoslavia,0.2,0.0,H,no win conditions,Soviet Union,Yugoslavia,1962-05-31,May,Thursday
-1962,Chile,Rancagua,Group 4,Argentina,England,0.1,0.3,A,no win conditions,England,Argentina,1962-06-02,Jun,Saturday
-1962,Chile,Viña del Mar,Group 3,Brazil,Czechoslovakia,0.0,0.0,D,no win conditions,Draw match,Draw match,1962-06-02,Jun,Saturday
-1962,Chile,Santiago,Group 2,Chile,Italy,0.2,0.0,H,no win conditions,Chile,Italy,1962-06-02,Jun,Saturday
-1962,Chile,Arica,Group 1,Uruguay,Yugoslavia,0.1,0.3,A,no win conditions,Yugoslavia,Uruguay,1962-06-02,Jun,Saturday
-1962,Chile,Rancagua,Group 4,Bulgaria,Hungary,0.1,0.5,A,no win conditions,Hungary,Bulgaria,1962-06-03,Jun,Sunday
-1962,Chile,Arica,Group 1,Colombia,Soviet Union,0.4,0.4,D,no win conditions,Draw match,Draw match,1962-06-03,Jun,Sunday
-1962,Chile,Santiago,Group 2,West Germany,Switzerland,0.2,0.1,H,no win conditions,West Germany,Switzerland,1962-06-03,Jun,Sunday
-1962,Chile,Viña del Mar,Group 3,Mexico,Spain,0.0,0.1,A,no win conditions,Spain,Mexico,1962-06-03,Jun,Sunday
-1962,Chile,Rancagua,Group 4,Argentina,Hungary,0.0,0.0,D,no win conditions,Draw match,Draw match,1962-06-06,Jun,Wednesday
-1962,Chile,Viña del Mar,Group 3,Brazil,Spain,0.2,0.1,H,no win conditions,Brazil,Spain,1962-06-06,Jun,Wednesday
-1962,Chile,Santiago,Group 2,Chile,West Germany,0.0,0.2,A,no win conditions,West Germany,Chile,1962-06-06,Jun,Wednesday
-1962,Chile,Arica,Group 1,Soviet Union,Uruguay,0.2,0.1,H,no win conditions,Soviet Union,Uruguay,1962-06-06,Jun,Wednesday
-1962,Chile,Rancagua,Group 4,Bulgaria,England,0.0,0.0,D,no win conditions,Draw match,Draw match,1962-06-07,Jun,Thursday
-1962,Chile,Arica,Group 1,Colombia,Yugoslavia,0.0,0.5,A,no win conditions,Yugoslavia,Colombia,1962-06-07,Jun,Thursday
-1962,Chile,Viña del Mar,Group 3,Czechoslovakia,Mexico,0.1,0.3,A,no win conditions,Mexico,Czechoslovakia,1962-06-07,Jun,Thursday
-1962,Chile,Santiago,Group 2,Italy,Switzerland,0.3,0.0,H,no win conditions,Italy,Switzerland,1962-06-07,Jun,Thursday
-1962,Chile,Viña del Mar,Quarterfinals,Brazil,England,0.3,0.1,H,no win conditions,Brazil,England,1962-06-10,Jun,Sunday
-1962,Chile,Arica,Quarterfinals,Chile,Soviet Union,0.2,0.1,H,no win conditions,Chile,Soviet Union,1962-06-10,Jun,Sunday
-1962,Chile,Rancagua,Quarterfinals,Czechoslovakia,Hungary,0.1,0.0,H,no win conditions,Czechoslovakia,Hungary,1962-06-10,Jun,Sunday
-1962,Chile,Santiago,Quarterfinals,West Germany,Yugoslavia,0.0,0.1,A,no win conditions,Yugoslavia,West Germany,1962-06-10,Jun,Sunday
-1962,Chile,Santiago,Semifinals,Chile,Brazil,0.2,0.4,A,no win conditions,Brazil,Chile,1962-06-13,Jun,Wednesday
-1962,Chile,Viña del Mar,Semifinals,Czechoslovakia,Yugoslavia,0.3,0.1,H,no win conditions,Czechoslovakia,Yugoslavia,1962-06-13,Jun,Wednesday
-1962,Chile,Santiago,Third place,Chile,Yugoslavia,0.1,0.0,H,no win conditions,Chile,Yugoslavia,1962-06-16,Jun,Saturday
-1962,Chile,Santiago,Final,Brazil,Czechoslovakia,0.3,0.1,H,no win conditions,Brazil,Czechoslovakia,1962-06-17,Jun,Sunday
-1966,England,London,Group 1,England,Uruguay,0.0,0.0,D,no win conditions,Draw match,Draw match,1966-07-11,Jul,Monday
-1966,England,Liverpool,Group 3,Brazil,Bulgaria,0.2,0.0,H,no win conditions,Brazil,Bulgaria,1966-07-12,Jul,Tuesday
-1966,England,Sheffield,Group 2,West Germany,Switzerland,0.5,0.0,H,no win conditions,West Germany,Switzerland,1966-07-12,Jul,Tuesday
-1966,England,Middlesbrough,Group 4,North Korea,Soviet Union,0.0,0.3,A,no win conditions,Soviet Union,North Korea,1966-07-12,Jul,Tuesday
-1966,England,Birmingham,Group 2,Argentina,Spain,0.2,0.1,H,no win conditions,Argentina,Spain,1966-07-13,Jul,Wednesday
-1966,England,Sunderland,Group 4,Chile,Italy,0.0,0.2,A,no win conditions,Italy,Chile,1966-07-13,Jul,Wednesday
-1966,England,London,Group 1,France,Mexico,0.1,0.1,D,no win conditions,Draw match,Draw match,1966-07-13,Jul,Wednesday
-1966,England,Manchester,Group 3,Hungary,Portugal,0.1,0.3,A,no win conditions,Portugal,Hungary,1966-07-13,Jul,Wednesday
-1966,England,Liverpool,Group 3,Brazil,Hungary,0.1,0.3,A,no win conditions,Hungary,Brazil,1966-07-15,Jul,Friday
-1966,England,Middlesbrough,Group 4,Chile,North Korea,0.1,0.1,D,no win conditions,Draw match,Draw match,1966-07-15,Jul,Friday
-1966,England,London,Group 1,France,Uruguay,0.1,0.2,A,no win conditions,Uruguay,France,1966-07-15,Jul,Friday
-1966,England,Sheffield,Group 2,Spain,Switzerland,0.2,0.1,H,no win conditions,Spain,Switzerland,1966-07-15,Jul,Friday
-1966,England,Birmingham,Group 2,Argentina,West Germany,0.0,0.0,D,no win conditions,Draw match,Draw match,1966-07-16,Jul,Saturday
-1966,England,Manchester,Group 3,Bulgaria,Portugal,0.0,0.3,A,no win conditions,Portugal,Bulgaria,1966-07-16,Jul,Saturday
-1966,England,London,Group 1,England,Mexico,0.2,0.0,H,no win conditions,England,Mexico,1966-07-16,Jul,Saturday
-1966,England,Sunderland,Group 4,Italy,Soviet Union,0.0,0.1,A,no win conditions,Soviet Union,Italy,1966-07-16,Jul,Saturday
-1966,England,Sheffield,Group 2,Argentina,Switzerland,0.2,0.0,H,no win conditions,Argentina,Switzerland,1966-07-19,Jul,Tuesday
-1966,England,Liverpool,Group 3,Brazil,Portugal,0.1,0.3,A,no win conditions,Portugal,Brazil,1966-07-19,Jul,Tuesday
-1966,England,Middlesbrough,Group 4,Italy,North Korea,0.0,0.1,A,no win conditions,North Korea,Italy,1966-07-19,Jul,Tuesday
-1966,England,London,Group 1,Mexico,Uruguay,0.0,0.0,D,no win conditions,Draw match,Draw match,1966-07-19,Jul,Tuesday
-1966,England,Manchester,Group 3,Bulgaria,Hungary,0.1,0.3,A,no win conditions,Hungary,Bulgaria,1966-07-20,Jul,Wednesday
-1966,England,Sunderland,Group 4,Chile,Soviet Union,0.1,0.2,A,no win conditions,Soviet Union,Chile,1966-07-20,Jul,Wednesday
-1966,England,London,Group 1,England,France,0.2,0.0,H,no win conditions,England,France,1966-07-20,Jul,Wednesday
-1966,England,Birmingham,Group 2,West Germany,Spain,0.2,0.1,H,no win conditions,West Germany,Spain,1966-07-20,Jul,Wednesday
-1966,England,London,Quarterfinals,England,Argentina,0.1,0.0,H,no win conditions,England,Argentina,1966-07-23,Jul,Saturday
-1966,England,Sheffield,Quarterfinals,West Germany,Uruguay,0.4,0.0,H,no win conditions,West Germany,Uruguay,1966-07-23,Jul,Saturday
-1966,England,Sunderland,Quarterfinals,Hungary,Soviet Union,0.1,0.2,A,no win conditions,Soviet Union,Hungary,1966-07-23,Jul,Saturday
-1966,England,Liverpool,Quarterfinals,North Korea,Portugal,0.3,0.5,A,no win conditions,Portugal,North Korea,1966-07-23,Jul,Saturday
-1966,England,Liverpool,Semifinals,West Germany,Soviet Union,0.2,0.1,H,no win conditions,West Germany,Soviet Union,1966-07-25,Jul,Monday
-1966,England,London,Semifinals,England,Portugal,0.2,0.1,H,no win conditions,England,Portugal,1966-07-26,Jul,Tuesday
-1966,England,London,Third place,Portugal,Soviet Union,0.2,0.1,H,no win conditions,Portugal,Soviet Union,1966-07-28,Jul,Thursday
-1966,England,London,Final,England,West Germany,0.4,0.2,H,England won in AET,England,West Germany,1966-07-30,Jul,Saturday
-1970,Mexico,Mexico City,Group 1,Mexico,Soviet Union,0.0,0.0,D,no win conditions,Draw match,Draw match,1970-05-31,May,Sunday
-1970,Mexico,León,Group 4,Bulgaria,Peru,0.2,0.3,A,no win conditions,Peru,Bulgaria,1970-06-02,Jun,Tuesday
-1970,Mexico,Guadalajara,Group 3,England,Romania,0.1,0.0,H,no win conditions,England,Romania,1970-06-02,Jun,Tuesday
-1970,Mexico,Puebla,Group 2,Israel,Uruguay,0.0,0.2,A,no win conditions,Uruguay,Israel,1970-06-02,Jun,Tuesday
-1970,Mexico,Mexico City,Group 1,Belgium,El Salvador,0.3,0.0,H,no win conditions,Belgium,El Salvador,1970-06-03,Jun,Wednesday
-1970,Mexico,Guadalajara,Group 3,Brazil,Czechoslovakia,0.4,0.1,H,no win conditions,Brazil,Czechoslovakia,1970-06-03,Jun,Wednesday
-1970,Mexico,León,Group 4,West Germany,Morocco,0.2,0.1,H,no win conditions,West Germany,Morocco,1970-06-03,Jun,Wednesday
-1970,Mexico,Toluca,Group 2,Italy,Sweden,0.1,0.0,H,no win conditions,Italy,Sweden,1970-06-03,Jun,Wednesday
-1970,Mexico,Mexico City,Group 1,Belgium,Soviet Union,0.1,0.4,A,no win conditions,Soviet Union,Belgium,1970-06-06,Jun,Saturday
-1970,Mexico,Guadalajara,Group 3,Czechoslovakia,Romania,0.1,0.2,A,no win conditions,Romania,Czechoslovakia,1970-06-06,Jun,Saturday
-1970,Mexico,Puebla,Group 2,Italy,Uruguay,0.0,0.0,D,no win conditions,Draw match,Draw match,1970-06-06,Jun,Saturday
-1970,Mexico,León,Group 4,Morocco,Peru,0.0,0.3,A,no win conditions,Peru,Morocco,1970-06-06,Jun,Saturday
-1970,Mexico,Guadalajara,Group 3,Brazil,England,0.1,0.0,H,no win conditions,Brazil,England,1970-06-07,Jun,Sunday
-1970,Mexico,León,Group 4,Bulgaria,West Germany,0.2,0.5,A,no win conditions,West Germany,Bulgaria,1970-06-07,Jun,Sunday
-1970,Mexico,Toluca,Group 2,Israel,Sweden,0.1,0.1,D,no win conditions,Draw match,Draw match,1970-06-07,Jun,Sunday
-1970,Mexico,Mexico City,Group 1,Mexico,El Salvador,0.4,0.0,H,no win conditions,Mexico,El Salvador,1970-06-07,Jun,Sunday
-1970,Mexico,Guadalajara,Group 3,Brazil,Romania,0.3,0.2,H,no win conditions,Brazil,Romania,1970-06-10,Jun,Wednesday
-1970,Mexico,Mexico City,Group 1,El Salvador,Soviet Union,0.0,0.2,A,no win conditions,Soviet Union,El Salvador,1970-06-10,Jun,Wednesday
-1970,Mexico,León,Group 4,West Germany,Peru,0.3,0.1,H,no win conditions,West Germany,Peru,1970-06-10,Jun,Wednesday
-1970,Mexico,Puebla,Group 2,Sweden,Uruguay,0.1,0.0,H,no win conditions,Sweden,Uruguay,1970-06-10,Jun,Wednesday
-1970,Mexico,León,Group 4,Bulgaria,Morocco,0.1,0.1,D,no win conditions,Draw match,Draw match,1970-06-11,Jun,Thursday
-1970,Mexico,Guadalajara,Group 3,Czechoslovakia,England,0.0,0.1,A,no win conditions,England,Czechoslovakia,1970-06-11,Jun,Thursday
-1970,Mexico,Toluca,Group 2,Israel,Italy,0.0,0.0,D,no win conditions,Draw match,Draw match,1970-06-11,Jun,Thursday
-1970,Mexico,Mexico City,Group 1,Mexico,Belgium,0.1,0.0,H,no win conditions,Mexico,Belgium,1970-06-11,Jun,Thursday
-1970,Mexico,Guadalajara,Quarterfinals,Brazil,Peru,0.4,0.2,H,no win conditions,Brazil,Peru,1970-06-14,Jun,Sunday
-1970,Mexico,León,Quarterfinals,England,West Germany,0.2,0.3,A,West Germany won in AET,West Germany,England,1970-06-14,Jun,Sunday
-1970,Mexico,Toluca,Quarterfinals,Mexico,Italy,0.1,0.4,A,no win conditions,Italy,Mexico,1970-06-14,Jun,Sunday
-1970,Mexico,Mexico City,Quarterfinals,Soviet Union,Uruguay,0.0,0.1,A,Uruguay won in AET,Uruguay,Soviet Union,1970-06-14,Jun,Sunday
-1970,Mexico,Guadalajara,Semifinals,Brazil,Uruguay,0.3,0.1,H,no win conditions,Brazil,Uruguay,1970-06-17,Jun,Wednesday
-1970,Mexico,Mexico City,Semifinals,West Germany,Italy,0.3,0.4,A,Italy won in AET,Italy,West Germany,1970-06-17,Jun,Wednesday
-1970,Mexico,Mexico City,Third place,West Germany,Uruguay,0.1,0.0,H,no win conditions,West Germany,Uruguay,1970-06-20,Jun,Saturday
-1970,Mexico,Mexico City,Final,Brazil,Italy,0.4,0.1,H,no win conditions,Brazil,Italy,1970-06-21,Jun,Sunday
-1974,Germany,Frankfurt am Main,Group 2,Brazil,Yugoslavia,0.0,0.0,D,no win conditions,Draw match,Draw match,1974-06-13,Jun,Thursday
-1974,Germany,Dortmund,Group 2,Zaire,Scotland,0.0,0.2,A,no win conditions,Scotland,Zaire,1974-06-14,Jun,Friday
-1974,Germany,Hamburg,Group 1,East Germany,Australia,0.2,0.0,H,no win conditions,East Germany,Australia,1974-06-14,Jun,Friday
-1974,Germany,Berlin,Group 1,West Germany,Chile,0.1,0.0,H,no win conditions,West Germany,Chile,1974-06-14,Jun,Friday
-1974,Germany,Munich,Group 4,Italy,Haiti,0.3,0.1,H,no win conditions,Italy,Haiti,1974-06-15,Jun,Saturday
-1974,Germany,Stuttgart,Group 4,Poland,Argentina,0.3,0.2,H,no win conditions,Poland,Argentina,1974-06-15,Jun,Saturday
-1974,Germany,Düsseldorf,Group 3,Sweden,Bulgaria,0.0,0.0,D,no win conditions,Draw match,Draw match,1974-06-15,Jun,Saturday
-1974,Germany,Hanover,Group 3,Uruguay,Netherlands,0.0,0.2,A,no win conditions,Netherlands,Uruguay,1974-06-15,Jun,Saturday
-1974,Germany,Berlin,Group 1,Chile,East Germany,0.1,0.1,D,no win conditions,Draw match,Draw match,1974-06-18,Jun,Tuesday
-1974,Germany,Hamburg,Group 1,West Germany,Australia,0.3,0.0,H,no win conditions,West Germany,Australia,1974-06-18,Jun,Tuesday
-1974,Germany,Frankfurt am Main,Group 2,Scotland,Brazil,0.0,0.0,D,no win conditions,Draw match,Draw match,1974-06-18,Jun,Tuesday
-1974,Germany,Gelsenkirchen,Group 2,Yugoslavia,Zaire,0.5,0.0,H,no win conditions,Yugoslavia,Zaire,1974-06-18,Jun,Tuesday
-1974,Germany,Stuttgart,Group 4,Argentina,Italy,0.1,0.1,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
-1974,Germany,Hanover,Group 3,Bulgaria,Uruguay,0.1,0.1,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
-1974,Germany,Munich,Group 4,Haiti,Poland,0.0,0.5,A,no win conditions,Poland,Haiti,1974-06-19,Jun,Wednesday
-1974,Germany,Dortmund,Group 3,Netherlands,Sweden,0.0,0.0,D,no win conditions,Draw match,Draw match,1974-06-19,Jun,Wednesday
-1974,Germany,Berlin,Group 1,Australia,Chile,0.0,0.0,D,no win conditions,Draw match,Draw match,1974-06-22,Jun,Saturday
-1974,Germany,Gelsenkirchen,Group 2,Zaire,Brazil,0.0,0.3,A,no win conditions,Brazil,Zaire,1974-06-22,Jun,Saturday
-1974,Germany,Hamburg,Group 1,West Germany,East Germany,0.0,0.1,A,no win conditions,East Germany,West Germany,1974-06-22,Jun,Saturday
-1974,Germany,Frankfurt am Main,Group 2,Scotland,Yugoslavia,0.1,0.1,D,no win conditions,Draw match,Draw match,1974-06-22,Jun,Saturday
-1974,Germany,Munich,Group 4,Argentina,Haiti,0.4,0.1,H,no win conditions,Argentina,Haiti,1974-06-23,Jun,Sunday
-1974,Germany,Dortmund,Group 3,Bulgaria,Netherlands,0.1,0.4,A,no win conditions,Netherlands,Bulgaria,1974-06-23,Jun,Sunday
-1974,Germany,Stuttgart,Group 4,Poland,Italy,0.2,0.1,H,no win conditions,Poland,Italy,1974-06-23,Jun,Sunday
-1974,Germany,Düsseldorf,Group 3,Sweden,Uruguay,0.3,0.0,H,no win conditions,Sweden,Uruguay,1974-06-23,Jun,Sunday
-1974,Germany,Hanover,Group A,Brazil,East Germany,0.1,0.0,H,no win conditions,Brazil,East Germany,1974-06-26,Jun,Wednesday
-1974,Germany,Düsseldorf,Group B,West Germany,Yugoslavia,0.2,0.0,H,no win conditions,West Germany,Yugoslavia,1974-06-26,Jun,Wednesday
-1974,Germany,Gelsenkirchen,Group A,Netherlands,Argentina,0.4,0.0,H,no win conditions,Netherlands,Argentina,1974-06-26,Jun,Wednesday
-1974,Germany,Stuttgart,Group B,Sweden,Poland,0.0,0.1,A,no win conditions,Poland,Sweden,1974-06-26,Jun,Wednesday
-1974,Germany,Hanover,Group A,Argentina,Brazil,0.1,0.2,A,no win conditions,Brazil,Argentina,1974-06-30,Jun,Sunday
-1974,Germany,Gelsenkirchen,Group A,East Germany,Netherlands,0.0,0.2,A,no win conditions,Netherlands,West Germany,1974-06-30,Jun,Sunday
-1974,Germany,Düsseldorf,Group B,West Germany,Sweden,0.4,0.2,H,no win conditions,West Germany,Sweden,1974-06-30,Jun,Sunday
-1974,Germany,Frankfurt am Main,Group B,Poland,Yugoslavia,0.2,0.1,H,no win conditions,Poland,Yugoslavia,1974-06-30,Jun,Sunday
-1974,Germany,Gelsenkirchen,Group A,Argentina,East Germany,0.1,0.1,D,no win conditions,Draw match,Draw match,1974-07-03,Jul,Wednesday
-1974,Germany,Frankfurt am Main,Group B,West Germany,Poland,0.1,0.0,H,no win conditions,West Germany,Poland,1974-07-03,Jul,Wednesday
-1974,Germany,Dortmund,Group A,Netherlands,Brazil,0.2,0.0,H,no win conditions,Netherlands,Brazil,1974-07-03,Jul,Wednesday
-1974,Germany,Düsseldorf,Group B,Sweden,Yugoslavia,0.2,0.1,H,no win conditions,Sweden,Yugoslavia,1974-07-03,Jul,Wednesday
-1974,Germany,Munich,Third place,Brazil,Poland,0.0,0.1,A,no win conditions,Poland,Brazil,1974-07-06,Jul,Saturday
-1974,Germany,Munich,Final,West Germany,Netherlands,0.2,0.1,H,no win conditions,West Germany,Netherlands,1974-07-07,Jul,Sunday
-1978,Argentina,Buenos Aires,Group 2,West Germany,Poland,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-01,Jun,Thursday
-1978,Argentina,Buenos Aires,Group 1,Argentina,Hungary,0.2,0.1,H,no win conditions,Argentina,Hungary,1978-06-02,Jun,Friday
-1978,Argentina,Mar del Plata,Group 1,France,Italy,0.1,0.2,A,no win conditions,Italy,France,1978-06-02,Jun,Friday
-1978,Argentina,Rosario,Group 2,Mexico,Tunisia,0.1,0.3,A,no win conditions,Tunisia,Mexico,1978-06-02,Jun,Friday
-1978,Argentina,Buenos Aires,Group 3,Austria,Spain,0.2,0.1,H,no win conditions,Austria,Spain,1978-06-03,Jun,Saturday
-1978,Argentina,Mar del Plata,Group 3,Brazil,Sweden,0.1,0.1,D,no win conditions,Draw match,Draw match,1978-06-03,Jun,Saturday
-1978,Argentina,Mendoza,Group 4,Iran,Netherlands,0.0,0.3,A,no win conditions,Netherlands,Iran,1978-06-03,Jun,Saturday
-1978,Argentina,Córdoba,Group 4,Peru,Scotland,0.3,0.1,H,no win conditions,Peru,Scotland,1978-06-03,Jun,Saturday
-1978,Argentina,Buenos Aires,Group 1,Argentina,France,0.2,0.1,H,no win conditions,Argentina,France,1978-06-06,Jun,Tuesday
-1978,Argentina,Córdoba,Group 2,West Germany,Mexico,0.5,0.0,H,no win conditions,West Germany,Mexico,1978-06-06,Jun,Tuesday
-1978,Argentina,Mar del Plata,Group 1,Hungary,Italy,0.1,0.3,A,no win conditions,Italy,Hungary,1978-06-06,Jun,Tuesday
-1978,Argentina,Rosario,Group 2,Poland,Tunisia,0.1,0.0,H,no win conditions,Poland,Tunisia,1978-06-06,Jun,Tuesday
-1978,Argentina,Buenos Aires,Group 3,Austria,Sweden,0.1,0.0,H,no win conditions,Austria,Sweden,1978-06-07,Jun,Wednesday
-1978,Argentina,Mar del Plata,Group 3,Brazil,Spain,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-07,Jun,Wednesday
-1978,Argentina,Córdoba,Group 4,Iran,Scotland,0.1,0.1,D,no win conditions,Draw match,Draw match,1978-06-07,Jun,Wednesday
-1978,Argentina,Mendoza,Group 4,Netherlands,Peru,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-07,Jun,Wednesday
-1978,Argentina,Buenos Aires,Group 1,Argentina,Italy,0.0,0.1,A,no win conditions,Italy,Argentina,1978-06-10,Jun,Saturday
-1978,Argentina,Mar del Plata,Group 1,France,Hungary,0.3,0.1,H,no win conditions,France,Hungary,1978-06-10,Jun,Saturday
-1978,Argentina,Córdoba,Group 2,West Germany,Tunisia,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-10,Jun,Saturday
-1978,Argentina,Rosario,Group 2,Mexico,Poland,0.1,0.3,A,no win conditions,Poland,Mexico,1978-06-10,Jun,Saturday
-1978,Argentina,Mar del Plata,Group 3,Austria,Brazil,0.0,0.1,A,no win conditions,Brazil,Austria,1978-06-11,Jun,Sunday
-1978,Argentina,Córdoba,Group 4,Iran,Peru,0.1,0.4,A,no win conditions,Peru,Iran,1978-06-11,Jun,Sunday
-1978,Argentina,Mendoza,Group 4,Netherlands,Scotland,0.2,0.3,A,no win conditions,Scotland,Netherlands,1978-06-11,Jun,Sunday
-1978,Argentina,Buenos Aires,Group 3,Spain,Sweden,0.1,0.0,H,no win conditions,Spain,Sweden,1978-06-11,Jun,Sunday
-1978,Argentina,Rosario,Group B,Argentina,Poland,0.2,0.0,H,no win conditions,Argentina,Poland,1978-06-14,Jun,Wednesday
-1978,Argentina,Córdoba,Group A,Austria,Netherlands,0.1,0.5,A,no win conditions,Netherlands,Austria,1978-06-14,Jun,Wednesday
-1978,Argentina,Mendoza,Group B,Brazil,Peru,0.3,0.0,H,no win conditions,Brazil,Peru,1978-06-14,Jun,Wednesday
-1978,Argentina,Buenos Aires,Group A,West Germany,Italy,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-14,Jun,Wednesday
-1978,Argentina,Rosario,Group B,Argentina,Brazil,0.0,0.0,D,no win conditions,Draw match,Draw match,1978-06-18,Jun,Sunday
-1978,Argentina,Buenos Aires,Group A,Austria,Italy,0.0,0.1,A,no win conditions,Italy,Austria,1978-06-18,Jun,Sunday
-1978,Argentina,Córdoba,Group A,West Germany,Netherlands,0.2,0.2,D,no win conditions,Draw match,Draw match,1978-06-18,Jun,Sunday
-1978,Argentina,Mendoza,Group B,Peru,Poland,0.0,0.1,A,no win conditions,Poland,Peru,1978-06-18,Jun,Sunday
-1978,Argentina,Rosario,Group B,Argentina,Peru,0.5,0.0,H,no win conditions,Argentina,Peru,1978-06-21,Jun,Wednesday
-1978,Argentina,Córdoba,Group A,Austria,West Germany,0.3,0.2,H,no win conditions,Austria,West Germany,1978-06-21,Jun,Wednesday
-1978,Argentina,Mendoza,Group B,Brazil,Poland,0.3,0.1,H,no win conditions,Brazil,Poland,1978-06-21,Jun,Wednesday
-1978,Argentina,Buenos Aires,Group A,Italy,Netherlands,0.1,0.2,A,no win conditions,Netherlands,Italy,1978-06-21,Jun,Wednesday
-1978,Argentina,Buenos Aires,Third place,Brazil,Italy,0.2,0.1,H,no win conditions,Brazil,Italy,1978-06-24,Jun,Saturday
-1978,Argentina,Buenos Aires,Final,Argentina,Netherlands,0.3,0.1,H,Argentina won in AET,Argentina,Netherlands,1978-06-25,Jun,Sunday
-1982,Spain,Barcelona,Group 3,Argentina,Belgium,0.0,0.1,A,no win conditions,Belgium,Argentina,1982-06-13,Jun,Sunday
-1982,Spain,Seville,Group 6,Brazil,Soviet Union,0.2,0.1,H,no win conditions,Brazil,Soviet Union,1982-06-14,Jun,Monday
-1982,Spain,Vigo,Group 1,Italy,Poland,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-06-14,Jun,Monday
-1982,Spain,Elche,Group 3,Hungary,El Salvador,0.5,0.1,H,no win conditions,Hungary,El Salvador,1982-06-15,Jun,Tuesday
-1982,Spain,La Coruña,Group 1,Peru,Cameroon,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-06-15,Jun,Tuesday
-1982,Spain,Málaga,Group 6,Scotland,New Zealand,0.5,0.2,H,no win conditions,Scotland,New Zealand,1982-06-15,Jun,Tuesday
-1982,Spain,Bilbao,Group 4,England,France,0.3,0.1,H,no win conditions,England,France,1982-06-16,Jun,Wednesday
-1982,Spain,Gijón,Group 2,West Germany,Algeria,0.1,0.2,A,no win conditions,Algeria,West Germany,1982-06-16,Jun,Wednesday
-1982,Spain,Valencia,Group 5,Spain,Honduras,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-16,Jun,Wednesday
-1982,Spain,Oviedo,Group 2,Chile,Austria,0.0,0.1,A,no win conditions,Austria,Chile,1982-06-17,Jun,Thursday
-1982,Spain,Valladolid,Group 4,Czechoslovakia,Kuwait,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-17,Jun,Thursday
-1982,Spain,Zaragoza,Group 5,Yugoslavia,Northern Ireland,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-06-17,Jun,Thursday
-1982,Spain,Alicante,Group 3,Argentina,Hungary,0.4,0.1,H,no win conditions,Argentina,Hungary,1982-06-18,Jun,Friday
-1982,Spain,Seville,Group 6,Brazil,Scotland,0.4,0.1,H,no win conditions,Brazil,Scotland,1982-06-18,Jun,Friday
-1982,Spain,Vigo,Group 1,Italy,Peru,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-18,Jun,Friday
-1982,Spain,Elche,Group 3,Belgium,El Salvador,0.1,0.0,H,no win conditions,Belgium,El Salvador,1982-06-19,Jun,Saturday
-1982,Spain,La Coruña,Group 1,Poland,Cameroon,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-06-19,Jun,Saturday
-1982,Spain,Málaga,Group 6,Soviet Union,New Zealand,0.3,0.0,H,no win conditions,Soviet Union,New Zealand,1982-06-19,Jun,Saturday
-1982,Spain,Bilbao,Group 4,England,Czechoslovakia,0.2,0.0,H,no win conditions,England,Czechoslovakia,1982-06-20,Jun,Sunday
-1982,Spain,Gijón,Group 2,West Germany,Chile,0.4,0.1,H,no win conditions,West Germany,Chile,1982-06-20,Jun,Sunday
-1982,Spain,Valencia,Group 5,Spain,Yugoslavia,0.2,0.1,H,no win conditions,Spain,Yugoslavia,1982-06-20,Jun,Sunday
-1982,Spain,Oviedo,Group 2,Algeria,Austria,0.0,0.2,A,no win conditions,Austria,Algeria,1982-06-21,Jun,Monday
-1982,Spain,Valladolid,Group 4,France,Kuwait,0.4,0.1,H,no win conditions,France,Kuwait,1982-06-21,Jun,Monday
-1982,Spain,Zaragoza,Group 5,Honduras,Northern Ireland,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-21,Jun,Monday
-1982,Spain,Elche,Group 3,Belgium,Hungary,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-22,Jun,Tuesday
-1982,Spain,La Coruña,Group 1,Poland,Peru,0.5,0.1,H,no win conditions,Poland,Peru,1982-06-22,Jun,Tuesday
-1982,Spain,Málaga,Group 6,Soviet Union,Scotland,0.2,0.2,D,no win conditions,Draw match,Draw match,1982-06-22,Jun,Tuesday
-1982,Spain,Alicante,Group 3,Argentina,El Salvador,0.2,0.0,H,no win conditions,Argentina,El Salvador,1982-06-23,Jun,Wednesday
-1982,Spain,Seville,Group 6,Brazil,New Zealand,0.4,0.0,H,no win conditions,Brazil,New Zealand,1982-06-23,Jun,Wednesday
-1982,Spain,Vigo,Group 1,Italy,Cameroon,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-23,Jun,Wednesday
-1982,Spain,Oviedo,Group 2,Algeria,Chile,0.3,0.2,H,no win conditions,Algeria,Chile,1982-06-24,Jun,Thursday
-1982,Spain,Valladolid,Group 4,France,Czechoslovakia,0.1,0.1,D,no win conditions,Draw match,Draw match,1982-06-24,Jun,Thursday
-1982,Spain,Zaragoza,Group 5,Honduras,Yugoslavia,0.0,0.1,A,no win conditions,Yugoslavia,Honduras,1982-06-24,Jun,Thursday
-1982,Spain,Bilbao,Group 4,England,Kuwait,0.1,0.0,H,no win conditions,England,Kuwait,1982-06-25,Jun,Friday
-1982,Spain,Gijón,Group 2,West Germany,Austria,0.1,0.0,H,no win conditions,West Germany,Austria,1982-06-25,Jun,Friday
-1982,Spain,Valencia,Group 5,Spain,Northern Ireland,0.0,0.1,A,no win conditions,Northern Ireland,Spain,1982-06-25,Jun,Friday
-1982,Spain,Madrid,Group D,Austria,France,0.0,0.1,A,no win conditions,France,Austria,1982-06-28,Jun,Monday
-1982,Spain,Barcelona,Group A,Poland,Belgium,0.3,0.0,H,no win conditions,Poland,Belgium,1982-06-28,Jun,Monday
-1982,Spain,Madrid,Group B,West Germany,England,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-06-29,Jun,Tuesday
-1982,Spain,Barcelona,Group C,Italy,Argentina,0.2,0.1,H,no win conditions,Italy,Argentina,1982-06-29,Jun,Tuesday
-1982,Spain,Madrid,Group D,Austria,Northern Ireland,0.2,0.2,D,no win conditions,Draw match,Draw match,1982-07-01,Jul,Thursday
-1982,Spain,Barcelona,Group A,Belgium,Soviet Union,0.0,0.1,A,no win conditions,Soviet Union,Belgium,1982-07-01,Jul,Thursday
-1982,Spain,Barcelona,Group C,Argentina,Brazil,0.1,0.3,A,no win conditions,Brazil,Argentina,1982-07-02,Jul,Friday
-1982,Spain,Madrid,Group B,Spain,West Germany,0.1,0.2,A,no win conditions,West Germany,Spain,1982-07-02,Jul,Friday
-1982,Spain,Madrid,Group D,France,Northern Ireland,0.4,0.1,H,no win conditions,France,Northern Ireland,1982-07-04,Jul,Sunday
-1982,Spain,Barcelona,Group A,Poland,Soviet Union,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-07-04,Jul,Sunday
-1982,Spain,Barcelona,Group C,Italy,Brazil,0.3,0.2,H,no win conditions,Italy,Brazil,1982-07-05,Jul,Monday
-1982,Spain,Madrid,Group B,Spain,England,0.0,0.0,D,no win conditions,Draw match,Draw match,1982-07-05,Jul,Monday
-1982,Spain,Seville,Semifinals,West Germany,France,0.3,0.3,H,West Germany won in penalties (5 - 4),West Germany,France,1982-07-08,Jul,Thursday
-1982,Spain,Barcelona,Semifinals,Poland,Italy,0.0,0.2,A,no win conditions,Italy,Poland,1982-07-08,Jul,Thursday
-1982,Spain,Alicante,Third place,Poland,France,0.3,0.2,H,no win conditions,Poland,France,1982-07-10,Jul,Saturday
-1982,Spain,Madrid,Final,Italy,West Germany,0.3,0.1,H,no win conditions,Italy,West Germany,1982-07-11,Jul,Sunday
-1986,Mexico,Mexico City,Group A,Bulgaria,Italy,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-05-31,May,Saturday
-1986,Mexico,León,Group C,Canada,France,0.0,0.1,A,no win conditions,France,Canada,1986-06-01,Jun,Sunday
-1986,Mexico,Guadalajara,Group D,Spain,Brazil,0.0,0.1,A,no win conditions,Brazil,Spain,1986-06-01,Jun,Sunday
-1986,Mexico,Mexico City,Group A,Argentina,South Korea,0.3,0.1,H,no win conditions,Argentina,South Korea,1986-06-02,Jun,Monday
-1986,Mexico,Monterrey,Group F,Morocco,Poland,0.0,0.0,D,no win conditions,Draw match,Draw match,1986-06-02,Jun,Monday
-1986,Mexico,Irapuato,Group C,Soviet Union,Hungary,0.5,0.0,H,no win conditions,Soviet Union,Hungary,1986-06-02,Jun,Monday
-1986,Mexico,Guadalajara,Group D,Algeria,Northern Ireland,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-03,Jun,Tuesday
-1986,Mexico,Mexico City,Group B,Mexico,Belgium,0.2,0.1,H,no win conditions,Mexico,Belgium,1986-06-03,Jun,Tuesday
-1986,Mexico,Monterrey,Group F,Portugal,England,0.1,0.0,H,no win conditions,Portugal,England,1986-06-03,Jun,Tuesday
-1986,Mexico,Toluca,Group B,Paraguay,Iraq,0.1,0.0,H,no win conditions,Paraguay,Iraq,1986-06-04,Jun,Wednesday
-1986,Mexico,Nezahualcóyotl,Group E,Scotland,Denmark,0.0,0.1,A,no win conditions,Denmark,Scotland,1986-06-04,Jun,Wednesday
-1986,Mexico,Querétaro,Group E,Uruguay,West Germany,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-04,Jun,Wednesday
-1986,Mexico,León,Group C,France,Soviet Union,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-05,Jun,Thursday
-1986,Mexico,Puebla,Group A,Italy,Argentina,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-05,Jun,Thursday
-1986,Mexico,Mexico City,Group A,South Korea,Bulgaria,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-05,Jun,Thursday
-1986,Mexico,Guadalajara,Group D,Brazil,Algeria,0.1,0.0,H,no win conditions,Brazil,Algeria,1986-06-06,Jun,Friday
-1986,Mexico,Monterrey,Group F,England,Morocco,0.0,0.0,D,no win conditions,Draw match,Draw match,1986-06-06,Jun,Friday
-1986,Mexico,Irapuato,Group C,Hungary,Canada,0.2,0.0,H,no win conditions,Hungary,Canada,1986-06-06,Jun,Friday
-1986,Mexico,Mexico City,Group B,Mexico,Paraguay,0.1,0.1,D,no win conditions,Draw match,Draw match,1986-06-07,Jun,Saturday
-1986,Mexico,Guadalajara,Group D,Northern Ireland,Spain,0.1,0.2,A,no win conditions,Spain,Northern Ireland,1986-06-07,Jun,Saturday
-1986,Mexico,Monterrey,Group F,Poland,Portugal,0.1,0.0,H,no win conditions,Poland,Portugal,1986-06-07,Jun,Saturday
-1986,Mexico,Nezahualcóyotl,Group E,Denmark,Uruguay,0.5,0.1,H,no win conditions,Denmark,Uruguay,1986-06-08,Jun,Sunday
-1986,Mexico,Querétaro,Group E,West Germany,Scotland,0.2,0.1,H,no win conditions,West Germany,Scotland,1986-06-08,Jun,Sunday
-1986,Mexico,Toluca,Group B,Iraq,Belgium,0.1,0.2,A,no win conditions,Belgium,Iraq,1986-06-08,Jun,Sunday
-1986,Mexico,León,Group C,Hungary,France,0.0,0.3,A,no win conditions,France,Hungary,1986-06-09,Jun,Monday
-1986,Mexico,Irapuato,Group C,Soviet Union,Canada,0.2,0.0,H,no win conditions,Soviet Union,Canada,1986-06-09,Jun,Monday
-1986,Mexico,Mexico City,Group A,Argentina,Bulgaria,0.2,0.0,H,no win conditions,Argentina,Bulgaria,1986-06-10,Jun,Tuesday
-1986,Mexico,Puebla,Group A,South Korea,Italy,0.2,0.3,A,no win conditions,Italy,South Korea,1986-06-10,Jun,Tuesday
-1986,Mexico,Monterrey,Group F,England,Poland,0.3,0.0,H,no win conditions,England,Poland,1986-06-11,Jun,Wednesday
-1986,Mexico,Mexico City,Group B,Mexico,Iraq,0.1,0.0,H,no win conditions,Mexico,Iraq,1986-06-11,Jun,Wednesday
-1986,Mexico,Toluca,Group B,Paraguay,Belgium,0.2,0.2,D,no win conditions,Draw match,Draw match,1986-06-11,Jun,Wednesday
-1986,Mexico,Guadalajara,Group F,Portugal,Morocco,0.1,0.3,A,no win conditions,Morocco,Portugal,1986-06-11,Jun,Wednesday
-1986,Mexico,Monterrey,Group D,Algeria,Spain,0.0,0.3,A,no win conditions,Spain,Algeria,1986-06-12,Jun,Thursday
-1986,Mexico,Guadalajara,Group D,Northern Ireland,Brazil,0.0,0.3,A,no win conditions,Brazil,Northern Ireland,1986-06-12,Jun,Thursday
-1986,Mexico,Querétaro,Group E,Denmark,West Germany,0.2,0.0,H,no win conditions,Denmark,West Germany,1986-06-13,Jun,Friday
-1986,Mexico,Nezahualcóyotl,Group E,Scotland,Uruguay,0.0,0.0,D,no win conditions,Draw match,Draw match,1986-06-13,Jun,Friday
-1986,Mexico,Mexico City,Round of 16,Mexico,Bulgaria,0.2,0.0,H,no win conditions,Mexico,Bulgaria,1986-06-15,Jun,Sunday
-1986,Mexico,León,Round of 16,Soviet Union,Belgium,0.3,0.4,A,Belgium won in AET,Belgium,Soviet Union,1986-06-15,Jun,Sunday
-1986,Mexico,Puebla,Round of 16,Argentina,Uruguay,0.1,0.0,H,no win conditions,Argentina,Uruguay,1986-06-16,Jun,Monday
-1986,Mexico,Guadalajara,Round of 16,Brazil,Poland,0.4,0.0,H,no win conditions,Brazil,Poland,1986-06-16,Jun,Monday
-1986,Mexico,Mexico City,Round of 16,Italy,France,0.0,0.2,A,no win conditions,France,Italy,1986-06-17,Jun,Tuesday
-1986,Mexico,Monterrey,Round of 16,Morocco,West Germany,0.0,0.1,A,no win conditions,West Germany,Morocco,1986-06-17,Jun,Tuesday
-1986,Mexico,Querétaro,Round of 16,Denmark,Spain,0.1,0.5,A,no win conditions,Spain,Denmark,1986-06-18,Jun,Wednesday
-1986,Mexico,Mexico City,Round of 16,England,Paraguay,0.3,0.0,H,no win conditions,England,Paraguay,1986-06-18,Jun,Wednesday
-1986,Mexico,Guadalajara,Quarterfinals,Brazil,France,0.1,0.1,A,France won in penalties (4 - 3),France,Brazil,1986-06-21,Jun,Saturday
-1986,Mexico,Monterrey,Quarterfinals,Mexico,West Germany,0.0,0.0,A,West Germany won in penalties (4 - 1),West Germany,Mexico,1986-06-21,Jun,Saturday
-1986,Mexico,Mexico City,Quarterfinals,Argentina,England,0.2,0.1,H,no win conditions,Argentina,England,1986-06-22,Jun,Sunday
-1986,Mexico,Puebla,Quarterfinals,Spain,Belgium,0.1,0.1,A,Belgium won in penalties (5 - 4),Belgium,Spain,1986-06-22,Jun,Sunday
-1986,Mexico,Mexico City,Semifinals,Argentina,Belgium,0.2,0.0,H,no win conditions,Argentina,Belgium,1986-06-25,Jun,Wednesday
-1986,Mexico,Guadalajara,Semifinals,France,West Germany,0.0,0.2,A,no win conditions,West Germany,France,1986-06-25,Jun,Wednesday
-1986,Mexico,Puebla,Third place,France,Belgium,0.4,0.2,H,France won in AET,France,Belgium,1986-06-28,Jun,Saturday
-1986,Mexico,Mexico City,Final,Argentina,West Germany,0.3,0.2,H,no win conditions,Argentina,West Germany,1986-06-29,Jun,Sunday
-1990,Italy,Milan,Group B,Argentina,Cameroon,0.0,0.1,A,no win conditions,Cameroon,Argentina,1990-06-08,Jun,Friday
-1990,Italy,Rome,Group A,Italy,Austria,0.1,0.0,H,no win conditions,Italy,Austria,1990-06-09,Jun,Saturday
-1990,Italy,Bari,Group B,Soviet Union,Romania,0.0,0.2,A,no win conditions,Romania,Soviet Union,1990-06-09,Jun,Saturday
-1990,Italy,Bologna,Group D,United Arab Emirates,Colombia,0.0,0.2,A,no win conditions,Colombia,United Arab Emirates,1990-06-09,Jun,Saturday
-1990,Italy,Turin,Group C,Brazil,Sweden,0.2,0.1,H,no win conditions,Brazil,Sweden,1990-06-10,Jun,Sunday
-1990,Italy,Milan,Group D,West Germany,Yugoslavia,0.4,0.1,H,no win conditions,West Germany,Yugoslavia,1990-06-10,Jun,Sunday
-1990,Italy,Florence,Group A,United States,Czechoslovakia,0.1,0.5,A,no win conditions,Czechoslovakia,United States,1990-06-10,Jun,Sunday
-1990,Italy,Genoa,Group C,Costa Rica,Scotland,0.1,0.0,H,no win conditions,Costa Rica,Scotland,1990-06-11,Jun,Monday
-1990,Italy,Cagliari,Group F,England,Republic of Ireland,0.1,0.1,D,no win conditions,Draw match,Draw match,1990-06-11,Jun,Monday
-1990,Italy,Verona,Group E,Belgium,South Korea,0.2,0.0,H,no win conditions,Belgium,South Korea,1990-06-12,Jun,Tuesday
-1990,Italy,Palermo,Group F,Netherlands,Egypt,0.1,0.1,D,no win conditions,Draw match,Draw match,1990-06-12,Jun,Tuesday
-1990,Italy,Naples,Group B,Argentina,Soviet Union,0.2,0.0,H,no win conditions,Argentina,Soviet Union,1990-06-13,Jun,Wednesday
-1990,Italy,Udine,Group E,Uruguay,Spain,0.0,0.0,D,no win conditions,Draw match,Draw match,1990-06-13,Jun,Wednesday
-1990,Italy,Bari,Group B,Cameroon,Romania,0.2,0.1,H,no win conditions,Cameroon,Romania,1990-06-14,Jun,Thursday
-1990,Italy,Rome,Group A,Italy,United States,0.1,0.0,H,no win conditions,Italy,United States,1990-06-14,Jun,Thursday
-1990,Italy,Bologna,Group D,Yugoslavia,Colombia,0.1,0.0,H,no win conditions,Yugoslavia,Colombia,1990-06-14,Jun,Thursday
-1990,Italy,Florence,Group A,Austria,Czechoslovakia,0.0,0.1,A,no win conditions,Czechoslovakia,Austria,1990-06-15,Jun,Friday
-1990,Italy,Milan,Group D,West Germany,United Arab Emirates,0.5,0.1,H,no win conditions,West Germany,United Arab Emirates,1990-06-15,Jun,Friday
-1990,Italy,Turin,Group C,Brazil,Costa Rica,0.1,0.0,H,no win conditions,Brazil,Costa Rica,1990-06-16,Jun,Saturday
-1990,Italy,Cagliari,Group F,England,Netherlands,0.0,0.0,D,no win conditions,Draw match,Draw match,1990-06-16,Jun,Saturday
-1990,Italy,Genoa,Group C,Sweden,Scotland,0.1,0.2,A,no win conditions,Scotland,Sweden,1990-06-16,Jun,Saturday
-1990,Italy,Verona,Group E,Belgium,Uruguay,0.3,0.1,H,no win conditions,Belgium,Uruguay,1990-06-17,Jun,Sunday
-1990,Italy,Palermo,Group F,Republic of Ireland,Egypt,0.0,0.0,D,no win conditions,Draw match,Draw match,1990-06-17,Jun,Sunday
-1990,Italy,Udine,Group E,South Korea,Spain,0.1,0.3,A,no win conditions,Spain,South Korea,1990-06-17,Jun,Sunday
-1990,Italy,Naples,Group B,Argentina,Romania,0.1,0.1,D,no win conditions,Draw match,Draw match,1990-06-18,Jun,Monday
-1990,Italy,Bari,Group B,Cameroon,Soviet Union,0.0,0.4,A,no win conditions,Soviet Union,Cameroon,1990-06-18,Jun,Monday
-1990,Italy,Florence,Group A,Austria,United States,0.2,0.1,H,no win conditions,Austria,United States,1990-06-19,Jun,Tuesday
-1990,Italy,Milan,Group D,West Germany,Colombia,0.1,0.1,D,no win conditions,Draw match,Draw match,1990-06-19,Jun,Tuesday
-1990,Italy,Rome,Group A,Italy,Czechoslovakia,0.2,0.0,H,no win conditions,Italy,Czechoslovakia,1990-06-19,Jun,Tuesday
-1990,Italy,Bologna,Group D,Yugoslavia,United Arab Emirates,0.4,0.1,H,no win conditions,Yugoslavia,United Arab Emirates,1990-06-19,Jun,Tuesday
-1990,Italy,Turin,Group C,Brazil,Scotland,0.1,0.0,H,no win conditions,Brazil,Scotland,1990-06-20,Jun,Wednesday
-1990,Italy,Genoa,Group C,Sweden,Costa Rica,0.1,0.2,A,no win conditions,Costa Rica,Sweden,1990-06-20,Jun,Wednesday
-1990,Italy,Verona,Group E,Belgium,Spain,0.1,0.2,A,no win conditions,Spain,Belgium,1990-06-21,Jun,Thursday
-1990,Italy,Cagliari,Group F,England,Egypt,0.1,0.0,H,no win conditions,England,Egypt,1990-06-21,Jun,Thursday
-1990,Italy,Palermo,Group F,Republic of Ireland,Netherlands,0.1,0.1,D,no win conditions,Draw match,Draw match,1990-06-21,Jun,Thursday
-1990,Italy,Udine,Group E,South Korea,Uruguay,0.0,0.1,A,no win conditions,Uruguay,South Korea,1990-06-21,Jun,Thursday
-1990,Italy,Naples,Round of 16,Cameroon,Colombia,0.2,0.1,H,Cameroon won in AET,Cameroon,Colombia,1990-06-23,Jun,Saturday
-1990,Italy,Bari,Round of 16,Czechoslovakia,Costa Rica,0.4,0.1,H,no win conditions,Czechoslovakia,Costa Rica,1990-06-23,Jun,Saturday
-1990,Italy,Turin,Round of 16,Brazil,Argentina,0.0,0.1,A,no win conditions,Argentina,Brazil,1990-06-24,Jun,Sunday
-1990,Italy,Milan,Round of 16,West Germany,Netherlands,0.2,0.1,H,no win conditions,West Germany,Netherlands,1990-06-24,Jun,Sunday
-1990,Italy,Genoa,Round of 16,Republic of Ireland,Romania,0.0,0.0,H,Republic of Ireland won in penalties (5 - 4),Republic of Ireland,Romania,1990-06-25,Jun,Monday
-1990,Italy,Rome,Round of 16,Italy,Uruguay,0.2,0.0,H,no win conditions,Italy,Uruguay,1990-06-25,Jun,Monday
-1990,Italy,Bologna,Round of 16,England,Belgium,0.1,0.0,H,England won in AET,England,Belgium,1990-06-26,Jun,Tuesday
-1990,Italy,Verona,Round of 16,Spain,Yugoslavia,0.1,0.2,A,Yugoslavia won in AET,Yugoslavia,Spain,1990-06-26,Jun,Tuesday
-1990,Italy,Rome,Quarterfinals,Italy,Republic of Ireland,0.1,0.0,H,no win conditions,Italy,Republic of Ireland,1990-06-30,Jun,Saturday
-1990,Italy,Florence,Quarterfinals,Yugoslavia,Argentina,0.0,0.0,A,Argentina won in penalties (3 - 2),Argentina,Yugoslavia,1990-06-30,Jun,Saturday
-1990,Italy,Naples,Quarterfinals,Cameroon,England,0.2,0.3,A,England won in AET,England,Cameroon,1990-07-01,Jul,Sunday
-1990,Italy,Milan,Quarterfinals,West Germany,Czechoslovakia,0.1,0.0,H,no win conditions,West Germany,Czechoslovakia,1990-07-01,Jul,Sunday
-1990,Italy,Naples,Semifinals,Italy,Argentina,0.1,0.1,A,Argentina won in penalties (4 - 3),Argentina,Italy,1990-07-03,Jul,Tuesday
-1990,Italy,Turin,Semifinals,West Germany,England,0.1,0.1,H,West Germany won in penalties (4 - 3),West Germany,England,1990-07-04,Jul,Wednesday
-1990,Italy,Bari,Third place,Italy,England,0.2,0.1,H,no win conditions,Italy,England,1990-07-07,Jul,Saturday
-1990,Italy,Rome,Final,West Germany,Argentina,0.1,0.0,H,no win conditions,West Germany,Argentina,1990-07-08,Jul,Sunday
-1994,United States,Chicago,Group C,Germany,Bolivia,0.1,0.0,H,no win conditions,Germany,Bolivia,1994-06-17,Jun,Friday
-1994,United States,Dallas,Group C,Spain,South Korea,0.2,0.2,D,no win conditions,Draw match,Draw match,1994-06-17,Jun,Friday
-1994,United States,Pasadena,Group A,Colombia,Romania,0.1,0.3,A,no win conditions,Romania,Colombia,1994-06-18,Jun,Saturday
-1994,United States,East Rutherford,Group E,Italy,Republic of Ireland,0.0,0.1,A,no win conditions,Republic of Ireland,Italy,1994-06-18,Jun,Saturday
-1994,United States,Pontiac,Group A,United States,Switzerland,0.1,0.1,D,no win conditions,Draw match,Draw match,1994-06-18,Jun,Saturday
-1994,United States,Orlando,Group F,Belgium,Morocco,0.1,0.0,H,no win conditions,Belgium,Morocco,1994-06-19,Jun,Sunday
-1994,United States,Pasadena,Group B,Cameroon,Sweden,0.2,0.2,D,no win conditions,Draw match,Draw match,1994-06-19,Jun,Sunday
-1994,United States,Washington,Group E,Norway,Mexico,0.1,0.0,H,no win conditions,Norway,Mexico,1994-06-19,Jun,Sunday
-1994,United States,Palo Alto,Group B,Brazil,Russia,0.2,0.0,H,no win conditions,Brazil,Russia,1994-06-20,Jun,Monday
-1994,United States,Washington,Group F,Netherlands,Saudi Arabia,0.2,0.1,H,no win conditions,Netherlands,Saudi Arabia,1994-06-20,Jun,Monday
-1994,United States,Foxborough,Group D,Argentina,Greece,0.4,0.0,H,no win conditions,Argentina,Greece,1994-06-21,Jun,Tuesday
-1994,United States,Chicago,Group C,Germany,Spain,0.1,0.1,D,no win conditions,Draw match,Draw match,1994-06-21,Jun,Tuesday
-1994,United States,Dallas,Group D,Nigeria,Bulgaria,0.3,0.0,H,no win conditions,Nigeria,Bulgaria,1994-06-21,Jun,Tuesday
-1994,United States,Pontiac,Group A,Romania,Switzerland,0.1,0.4,A,no win conditions,Switzerland,Romania,1994-06-22,Jun,Wednesday
-1994,United States,Pasadena, Group A,United States,Colombia,0.2,0.1,H,no win conditions,United States,Colombia,1994-06-22,Jun,Wednesday
-1994,United States,East Rutherford,Group E,Italy,Norway,0.1,0.0,H,no win conditions,Italy,Norway,1994-06-23,Jun,Thursday
-1994,United States,Foxborough,Group C,South Korea,Bolivia,0.0,0.0,D,no win conditions,Draw match,Draw match,1994-06-23,Jun,Thursday
-1994,United States,Palo Alto,Group B,Brazil,Cameroon,0.3,0.0,H,no win conditions,Brazil,Cameroon,1994-06-24,Jun,Friday
-1994,United States,Orlando,Group E,Mexico,Republic of Ireland,0.2,0.1,H,no win conditions,Mexico,Republic of Ireland,1994-06-24,Jun,Friday
-1994,United States,Pontiac,Group B,Sweden,Russia,0.3,0.1,H,no win conditions,Sweden,Russia,1994-06-24,Jun,Friday
-1994,United States,Foxborough,Group D,Argentina,Nigeria,0.2,0.1,H,no win conditions,Argentina,Nigeria,1994-06-25,Jun,Saturday
-1994,United States,Orlando,Group F,Belgium,Netherlands,0.1,0.0,H,no win conditions,Belgium,Netherlands,1994-06-25,Jun,Saturday
-1994,United States,East Rutherford,Group F,Saudi Arabia,Morocco,0.2,0.1,H,no win conditions,Saudi Arabia,Morocco,1994-06-25,Jun,Saturday
-1994,United States,Chicago,Group D,Bulgaria,Greece,0.4,0.0,H,no win conditions,Bulgaria,Greece,1994-06-26,Jun,Sunday
-1994,United States,Palo Alto,Group A,Switzerland,Colombia,0.0,0.2,A,no win conditions,Colombia,Switzerland,1994-06-26,Jun,Sunday
-1994,United States,Pasadena,Group A,United States,Romania,0.0,0.1,A,no win conditions,Romania,United States,1994-06-26,Jun,Sunday
-1994,United States,Chicago,Group C,Bolivia,Spain,0.1,0.3,A,no win conditions,Spain,Bolivia,1994-06-27,Jun,Monday
-1994,United States,Dallas,Group C,Germany,South Korea,0.3,0.2,H,no win conditions,Germany,South Korea,1994-06-27,Jun,Monday
-1994,United States,Pontiac,Group B,Brazil,Sweden,0.1,0.1,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
-1994,United States,East Rutherford,Group E,Republic of Ireland,Norway,0.0,0.0,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
-1994,United States,Washington,Group E,Italy,Mexico,0.1,0.1,D,no win conditions,Draw match,Draw match,1994-06-28,Jun,Tuesday
-1994,United States,Palo Alto,Group B,Russia,Cameroon,0.5,0.1,H,no win conditions,Russia,Cameroon,1994-06-28,Jun,Tuesday
-1994,United States,Washington,Group F,Belgium,Saudi Arabia,0.0,0.1,A,no win conditions,Saudi Arabia,Belgium,1994-06-29,Jun,Wednesday
-1994,United States,Orlando,Group F,Morocco,Netherlands,0.1,0.2,A,no win conditions,Netherlands,Morocco,1994-06-29,Jun,Wednesday
-1994,United States,Dallas,Group D,Argentina,Bulgaria,0.0,0.2,A,no win conditions,Bulgaria,Argentina,1994-06-30,Jun,Thursday
-1994,United States,Foxborough,Group D,Greece,Nigeria,0.0,0.2,A,no win conditions,Nigeria,Greece,1994-06-30,Jun,Thursday
-1994,United States,Chicago,Round of 16,Germany,Belgium,0.3,0.2,H,no win conditions,Germany,Belgium,1994-07-02,Jul,Saturday
-1994,United States,Washington,Round of 16,Spain,Switzerland,0.3,0.0,H,no win conditions,Spain,Switzerland,1994-07-02,Jul,Saturday
-1994,United States,Pasadena,Round of 16,Romania,Argentina,0.3,0.2,H,no win conditions,Romania,Argentina,1994-07-03,Jul,Sunday
-1994,United States,Dallas,Round of 16,Saudi Arabia,Sweden,0.1,0.3,A,no win conditions,Sweden,Saudi Arabia,1994-07-03,Jul,Sunday
-1994,United States,Orlando,Round of 16,Netherlands,Republic of Ireland,0.2,0.0,H,no win conditions,Netherlands,Republic of Ireland,1994-07-04,Jul,Monday
-1994,United States,Palo Alto,Round of 16,United States,Brazil,0.0,0.1,A,no win conditions,Brazil,United States,1994-07-04,Jul,Monday
-1994,United States,East Rutherford,Round of 16,Mexico,Bulgaria,0.1,0.1,A,Bulgaria won in penalties (3 - 1),Bulgaria,Mexico,1994-07-05,Jul,Tuesday
-1994,United States,Foxborough,Round of 16,Nigeria,Italy,0.1,0.2,A,Italy won in AET,Italy,Nigeria,1994-07-05,Jul,Tuesday
-1994,United States,Foxborough,Quarterfinals,Italy,Spain,0.2,0.1,H,no win conditions,Italy,Spain,1994-07-09,Jul,Saturday
-1994,United States,Dallas,Quarterfinals,Netherlands,Brazil,0.2,0.3,A,no win conditions,Brazil,Netherlands,1994-07-09,Jul,Saturday
-1994,United States,East Rutherford,Quarterfinals,Bulgaria,Germany,0.2,0.1,H,no win conditions,Bulgaria,Germany,1994-07-10,Jul,Sunday
-1994,United States,Palo Alto,Quarterfinals,Romania,Sweden,0.2,0.2,A,Sweden won in penalties (5 - 4),Sweden,Romania,1994-07-10,Jul,Sunday
-1994,United States,East Rutherford,Semifinals,Bulgaria,Italy,0.1,0.2,A,no win conditions,Italy,Bulgaria,1994-07-13,Jul,Wednesday
-1994,United States,Pasadena,Semifinals,Sweden,Brazil,0.0,0.1,A,no win conditions,Brazil,Sweden,1994-07-13,Jul,Wednesday
-1994,United States,Pasadena,Third place,Sweden,Bulgaria,0.4,0.0,H,no win conditions,Sweden,Bulgaria,1994-07-16,Jul,Saturday
-1994,United States,Pasadena,Final,Brazil,Italy,0.0,0.0,H,Brazil won in penalties (3 - 2),Brazil,Italy,1994-07-17,Jul,Sunday
-1998,France,Saint-Denis,Group A,Brazil,Scotland,0.2,0.1,H,no win conditions,Brazil,Scotland,1998-06-10,Jun,Wednesday
-1998,France,Montpellier,Group A,Morocco,Norway,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-10,Jun,Wednesday
-1998,France,Toulouse,Group B,Cameroon,Austria,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-11,Jun,Thursday
-1998,France,Bordeaux,Group B,Italy,Chile,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-11,Jun,Thursday
-1998,France,Marseille,Group C,France,South Africa,0.3,0.0,H,no win conditions,France,South Africa,1998-06-12,Jun,Friday
-1998,France,Montpellier,Group D,Paraguay,Bulgaria,0.0,0.0,D,no win conditions,Draw match,Draw match,1998-06-12,Jun,Friday
-1998,France,Lens,Group C,Saudi Arabia,Denmark,0.0,0.1,A,no win conditions,Denmark,Saudi Arabia,1998-06-12,Jun,Friday
-1998,France,Lyon,Group E,South Korea,Mexico,0.1,0.3,A,no win conditions,Mexico,South Korea,1998-06-13,Jun,Saturday
-1998,France,Saint-Denis,Group E,Netherlands,Belgium,0.0,0.0,D,no win conditions,Draw match,Draw match,1998-06-13,Jun,Saturday
-1998,France,Nantes,Group D,Spain,Nigeria,0.2,0.3,A,no win conditions,Nigeria,Spain,1998-06-13,Jun,Saturday
-1998,France,Toulouse,Group H,Argentina,Japan,0.1,0.0,H,no win conditions,Argentina,Japan,1998-06-14,Jun,Sunday
-1998,France,Lens,Group H,Jamaica,Croatia,0.1,0.3,A,no win conditions,Croatia,Jamaica,1998-06-14,Jun,Sunday
-1998,France,Saint-Étienne,Group F,FR Yugoslavia,Iran,0.1,0.0,H,no win conditions,FR Yugoslavia,Iran,1998-06-14,Jun,Sunday
-1998,France,Marseille,Group G,England,Tunisia,0.2,0.0,H,no win conditions,England,Tunisia,1998-06-15,Jun,Monday
-1998,France,Paris,Group F,Germany,United States,0.2,0.0,H,no win conditions,Germany,United States,1998-06-15,Jun,Monday
-1998,France,Lyon,Group G,Romania,Colombia,0.1,0.0,H,no win conditions,Romania,Colombia,1998-06-15,Jun,Monday
-1998,France,Nantes,Group A,Brazil,Morocco,0.3,0.0,H,no win conditions,Brazil,Morocco,1998-06-16,Jun,Tuesday
-1998,France,Bordeaux,Group A,Scotland,Norway,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-16,Jun,Tuesday
-1998,France,Saint-Étienne,Group B,Chile,Austria,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-17,Jun,Wednesday
-1998,France,Montpellier,Group B,Italy,Cameroon,0.3,0.0,H,no win conditions,Italy,Cameroon,1998-06-17,Jun,Wednesday
-1998,France,Saint-Denis,Group C,France,Saudi Arabia,0.4,0.0,H,no win conditions,France,Saudi Arabia,1998-06-18,Jun,Thursday
-1998,France,Toulouse,Group C,South Africa,Denmark,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-18,Jun,Thursday
-1998,France,Paris,Group D,Nigeria,Bulgaria,0.1,0.0,H,no win conditions,Nigeria,Bulgaria,1998-06-19,Jun,Friday
-1998,France,Saint-Étienne,Group D,Spain,Paraguay,0.0,0.0,D,no win conditions,Draw match,Draw match,1998-06-19,Jun,Friday
-1998,France,Bordeaux,Group E,Belgium,Mexico,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-20,Jun,Saturday
-1998,France,Nantes,Group H,Japan,Croatia,0.0,0.1,A,no win conditions,Croatia,Japan,1998-06-20,Jun,Saturday
-1998,France,Marseille,Group E,Netherlands,South Korea,0.5,0.0,H,no win conditions,Netherlands,South Korea,1998-06-20,Jun,Saturday
-1998,France,Paris,Group H,Argentina,Jamaica,0.5,0.0,H,no win conditions,Argentina,Jamaica,1998-06-21,Jun,Sunday
-1998,France,Lens,Group F,Germany,FR Yugoslavia,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-21,Jun,Sunday
-1998,France,Lyon,Group F,United States,Iran,0.1,0.2,A,no win conditions,Iran,United States,1998-06-21,Jun,Sunday
-1998,France,Montpellier,Group G,Colombia,Tunisia,0.1,0.0,H,no win conditions,Colombia,Tunisia,1998-06-22,Jun,Monday
-1998,France,Toulouse,Group G,Romania,England,0.2,0.1,H,no win conditions,Romania,England,1998-06-22,Jun,Monday
-1998,France,Marseille,Group A,Brazil,Norway,0.1,0.2,A,no win conditions,Norway,Brazil,1998-06-23,Jun,Tuesday
-1998,France,Nantes,Group B,Chile,Cameroon,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-23,Jun,Tuesday
-1998,France,Saint-Denis,Group B,Italy,Austria,0.2,0.1,H,no win conditions,Italy,Austria,1998-06-23,Jun,Tuesday
-1998,France,Saint-Étienne,Group A,Scotland,Morocco,0.0,0.3,A,no win conditions,Morocco,Scotland,1998-06-23,Jun,Tuesday
-1998,France,Lyon,Group C,France,Denmark,0.2,0.1,H,no win conditions,France,Denmark,1998-06-24,Jun,Wednesday
-1998,France,Toulouse,Group D,Nigeria,Paraguay,0.1,0.3,A,no win conditions,Paraguay,Nigeria,1998-06-24,Jun,Wednesday
-1998,France,Bordeaux,Group C,South Africa,Saudi Arabia,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-24,Jun,Wednesday
-1998,France,Lens,Group D,Spain,Bulgaria,0.5,0.1,H,no win conditions,Spain,Bulgaria,1998-06-24,Jun,Wednesday
-1998,France,Paris,Group E,Belgium,South Korea,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-25,Jun,Thursday
-1998,France,Montpellier,Group F,Germany,Iran,0.2,0.0,H,no win conditions,Germany,Iran,1998-06-25,Jun,Thursday
-1998,France,Saint-Étienne,Group E,Netherlands,Mexico,0.2,0.2,D,no win conditions,Draw match,Draw match,1998-06-25,Jun,Thursday
-1998,France,Nantes,Group F,United States,Serbia,0.0,0.1,A,no win conditions,Serbia,United States,1998-06-25,Jun,Thursday
-1998,France,Bordeaux,Group H,Argentina,Croatia,0.1,0.0,H,no win conditions,Argentina,Croatia,1998-06-26,Jun,Friday
-1998,France,Lens,Group G,Colombia,England,0.0,0.2,A,no win conditions,England,Colombia,1998-06-26,Jun,Friday
-1998,France,Lyon,Group H,Japan,Jamaica,0.1,0.2,A,no win conditions,Jamaica,Japan,1998-06-26,Jun,Friday
-1998,France,Saint-Denis,Group G,Romania,Tunisia,0.1,0.1,D,no win conditions,Draw match,Draw match,1998-06-26,Jun,Friday
-1998,France,Paris,Round of 16,Brazil,Chile,0.4,0.1,H,no win conditions,Brazil,Chile,1998-06-27,Jun,Saturday
-1998,France,Marseille,Round of 16,Italy,Norway,0.1,0.0,H,no win conditions,Italy,Norway,1998-06-27,Jun,Saturday
-1998,France,Lens,Round of 16,France,Paraguay,0.1,0.0,H,France won in AET,France,Paraguay,1998-06-28,Jun,Sunday
-1998,France,Saint-Denis,Round of 16,Nigeria,Denmark,0.1,0.4,A,no win conditions,Denmark,Nigeria,1998-06-28,Jun,Sunday
-1998,France,Montpellier,Round of 16,Germany,Mexico,0.2,0.1,H,no win conditions,Germany,Mexico,1998-06-29,Jun,Monday
-1998,France,Toulouse,Round of 16,Netherlands,FR Yugoslavia,0.2,0.1,H,no win conditions,Netherlands,FR Yugoslavia,1998-06-29,Jun,Monday
-1998,France,Saint-Étienne,Round of 16,Argentina,England,0.2,0.2,H,Argentina won in penalties (4 - 3),Argentina,England,1998-06-30,Jun,Tuesday
-1998,France,Bordeaux,Round of 16,Romania,Croatia,0.0,0.1,A,no win conditions,Croatia,Romania,1998-06-30,Jun,Tuesday
-1998,France,Nantes,Quarterfinals,Brazil,Denmark,0.3,0.2,H,no win conditions,Brazil,Denmark,1998-07-03,Jul,Friday
-1998,France,Saint-Denis,Quarterfinals,France,Italy,0.0,0.0,H,France won in penalties (4 - 3),France,Italy,1998-07-03,Jul,Friday
-1998,France,Lyon,Quarterfinals,Germany,Croatia,0.0,0.3,A,no win conditions,Croatia,Germany,1998-07-04,Jul,Saturday
-1998,France,Marseille,Quarterfinals,Netherlands,Argentina,0.2,0.1,H,no win conditions,Netherlands,Argentina,1998-07-04,Jul,Saturday
-1998,France,Marseille,Semifinals,Brazil,Netherlands,0.1,0.1,H,Brazil won in penalties (4 - 2),Brazil,Netherlands,1998-07-07,Jul,Tuesday
-1998,France,Saint-Denis,Semifinals,France,Croatia,0.2,0.1,H,no win conditions,France,Croatia,1998-07-08,Jul,Wednesday
-1998,France,Paris,Third place,Netherlands,Croatia,0.1,0.2,A,no win conditions,Croatia,Netherlands,1998-07-11,Jul,Saturday
-1998,France,Saint-Denis,Final,France,Brazil,0.3,0.0,H,no win conditions,France,Brazil,1998-07-12,Jul,Sunday
-2002,South Korea,Seoul,Group A,France,Senegal,0.0,0.1,A,no win conditions,Senegal,France,2002-05-31,May,Friday
-2002,Japan,Sapporo,Group E,Germany,Saudi Arabia,0.5,0.0,H,no win conditions,Germany,Saudi Arabia,2002-06-01,Jun,Saturday
-2002,Japan,Niigata,Group E,Republic of Ireland,Cameroon,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-01,Jun,Saturday
-2002,South Korea,Ulsan,Group A,Uruguay,Denmark,0.1,0.2,A,no win conditions,Denmark,Uruguay,2002-06-01,Jun,Saturday
-2002,Japan,Kashima,Group F,Argentina,Nigeria,0.1,0.0,H,no win conditions,Argentina,Nigeria,2002-06-02,Jun,Sunday
-2002,Japan,Saitama,Group F,England,Sweden,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-02,Jun,Sunday
-2002,South Korea,Busan,Group B,Paraguay,South Africa,0.2,0.2,D,no win conditions,Draw match,Draw match,2002-06-02,Jun,Sunday
-2002,South Korea,Gwangju,Group B,Spain,Slovenia,0.3,0.1,H,no win conditions,Spain,Slovenia,2002-06-02,Jun,Sunday
-2002,South Korea,Ulsan,Group C,Brazil,Turkey,0.2,0.1,H,no win conditions,Brazil,Turkey,2002-06-03,Jun,Monday
-2002,Japan,Niigata,Group G,Croatia,Mexico,0.0,0.1,A,no win conditions,Mexico,Croatia,2002-06-03,Jun,Monday
-2002,Japan,Sapporo,Group G,Italy,Ecuador,0.2,0.0,H,no win conditions,Italy,Ecuador,2002-06-03,Jun,Monday
-2002,South Korea,Gwangju,Group C,China PR,Costa Rica,0.0,0.2,A,no win conditions,Costa Rica,China PR,2002-06-04,Jun,Tuesday
-2002,Japan,Saitama,Group H,Japan,Belgium,0.2,0.2,D,no win conditions,Draw match,Draw match,2002-06-04,Jun,Tuesday
-2002,South Korea,Busan,Group D,South Korea,Poland,0.2,0.0,H,no win conditions,South Korea,Poland,2002-06-04,Jun,Tuesday
-2002,Japan,Kashima,Group E,Germany,Republic of Ireland,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-05,Jun,Wednesday
-2002,Japan,Kobe,Group H,Russia,Tunisia,0.2,0.0,H,no win conditions,Russia,Tunisia,2002-06-05,Jun,Wednesday
-2002,South Korea,Suwon,Group D,United States,Portugal,0.3,0.2,H,no win conditions,United States,Portugal,2002-06-05,Jun,Wednesday
-2002,Japan,Saitama,Group E,Cameroon,Saudi Arabia,0.1,0.0,H,no win conditions,Cameroon,Saudi Arabia,2002-06-06,Jun,Thursday
-2002,South Korea,Daegu,Group A,Denmark,Senegal,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-06,Jun,Thursday
-2002,South Korea,Busan,Group A,France,Uruguay,0.0,0.0,D,no win conditions,Draw match,Draw match,2002-06-06,Jun,Thursday
-2002,Japan,Sapporo,Group F,Argentina,England,0.0,0.1,A,no win conditions,England,Argentina,2002-06-07,Jun,Friday
-2002,South Korea,Jeonju,Group B,Spain,Paraguay,0.3,0.1,H,no win conditions,Spain,Paraguay,2002-06-07,Jun,Friday
-2002,Japan,Kobe,Group F,Sweden,Nigeria,0.2,0.1,H,no win conditions,Sweden,Nigeria,2002-06-07,Jun,Friday
-2002,South Korea,Seogwipo,Group C,Brazil,China PR,0.4,0.0,H,no win conditions,Brazil,China PR,2002-06-08,Jun,Saturday
-2002,Japan,Kashima,Group G,Italy,Croatia,0.1,0.2,A,no win conditions,Croatia,Italy,2002-06-08,Jun,Saturday
-2002,South Korea,Daegu,Group B,South Africa,Slovenia,0.1,0.0,H,no win conditions,South Africa,Slovenia,2002-06-08,Jun,Saturday
-2002,South Korea,Incheon,Group C,Costa Rica,Turkey,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-09,Jun,Sunday
-2002,Japan,Yokohama,Group H,Japan,Russia,0.1,0.0,H,no win conditions,Japan,Russia,2002-06-09,Jun,Sunday
-2002,Japan,Rifu,Group G,Mexico,Ecuador,0.2,0.1,H,no win conditions,Mexico,Ecuador,2002-06-09,Jun,Sunday
-2002,South Korea,Daegu,Group D,South Korea,United States,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-10,Jun,Monday
-2002,South Korea,Jeonju,Group D,Portugal,Poland,0.4,0.0,H,no win conditions,Portugal,Poland,2002-06-10,Jun,Monday
-2002,Japan,Ōita,Group H,Tunisia,Belgium,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-10,Jun,Monday
-2002,Japan,Fukuroi,Group E,Cameroon,Germany,0.0,0.2,A,no win conditions,Germany,Cameroon,2002-06-11,Jun,Tuesday
-2002,South Korea,Incheon,Group A,Denmark,France,0.2,0.0,H,no win conditions,Denmark,France,2002-06-11,Jun,Tuesday
-2002,Japan,Yokohama,Group E,Saudi Arabia,Republic of Ireland,0.0,0.3,A,no win conditions,Republic of Ireland,Saudi Arabia,2002-06-11,Jun,Tuesday
-2002,South Korea,Suwon,Group A,Senegal,Uruguay,0.3,0.3,D,no win conditions,Draw match,Draw match,2002-06-11,Jun,Tuesday
-2002,Japan,Osaka,Group F,Nigeria,England,0.0,0.0,D,no win conditions,Draw match,Draw match,2002-06-12,Jun,Wednesday
-2002,South Korea,Seogwipo,Group B,Slovenia,Paraguay,0.1,0.3,A,no win conditions,Paraguay,Slovenia,2002-06-12,Jun,Wednesday
-2002,South Korea,Daejeon,Group B,South Africa,Spain,0.2,0.3,A,no win conditions,Spain,South Africa,2002-06-12,Jun,Wednesday
-2002,Japan,Rifu,Group F,Sweden,Argentina,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-12,Jun,Wednesday
-2002,South Korea,Suwon,Group C,Costa Rica,Brazil,0.2,0.5,A,no win conditions,Brazil,Costa Rica,2002-06-13,Jun,Thursday
-2002,Japan,Yokohama,Group G,Ecuador,Croatia,0.1,0.0,H,no win conditions,Ecuador,Croatia,2002-06-13,Jun,Thursday
-2002,Japan,Ōita,Group G,Mexico,Italy,0.1,0.1,D,no win conditions,Draw match,Draw match,2002-06-13,Jun,Thursday
-2002,South Korea,Seoul,Group C,Turkey,China PR,0.3,0.0,H,no win conditions,Turkey,China PR,2002-06-13,Jun,Thursday
-2002,Japan,Fukuroi,Group H,Belgium,Russia,0.3,0.2,H,no win conditions,Belgium,Russia,2002-06-14,Jun,Friday
-2002,Japan,Osaka,Group H,Japan,Tunisia,0.2,0.0,H,no win conditions,Japan,Tunisia,2002-06-14,Jun,Friday
-2002,South Korea,Incheon,Group D,South Korea,Portugal,0.1,0.0,H,no win conditions,South Korea,Portugal,2002-06-14,Jun,Friday
-2002,South Korea,Daejeon,Group D,Poland,United States,0.3,0.1,H,no win conditions,Poland,United States,2002-06-14,Jun,Friday
-2002,Japan,Niigata,Round of 16,Denmark,England,0.0,0.3,A,no win conditions,England,Denmark,2002-06-15,Jun,Saturday
-2002,South Korea,Seogwipo,Round of 16,Germany,Paraguay,0.1,0.0,H,no win conditions,Germany,Paraguay,2002-06-15,Jun,Saturday
-2002,South Korea,Suwon,Round of 16,Spain,Republic of Ireland,0.1,0.1,H,Spain won in penalties (3 - 2),Spain,Republic of Ireland,2002-06-16,Jun,Sunday
-2002,Japan,Ōita,Round of 16,Sweden,Senegal,0.1,0.2,A,Senegal won in AET,Senegal,Sweden,2002-06-16,Jun,Sunday
-2002,Japan,Kobe,Round of 16,Brazil,Belgium,0.2,0.0,H,no win conditions,Brazil,Belgium,2002-06-17,Jun,Monday
-2002,South Korea,Jeonju,Round of 16,Mexico,United States,0.0,0.2,A,no win conditions,United States,Mexico,2002-06-17,Jun,Monday
-2002,Japan,Rifu,Round of 16,Japan,Turkey,0.0,0.1,A,no win conditions,Turkey,Japan,2002-06-18,Jun,Tuesday
-2002,South Korea,Daejeon,Round of 16,South Korea,Italy,0.2,0.1,H,South Korea won in AET,South Korea,Italy,2002-06-18,Jun,Tuesday
-2002,Japan,Fukuroi,Quarterfinals,England,Brazil,0.1,0.2,A,no win conditions,Brazil,England,2002-06-21,Jun,Friday
-2002,South Korea,Ulsan,Quarterfinals,Germany,United States,0.1,0.0,H,no win conditions,Germany,United States,2002-06-21,Jun,Friday
-2002,South Korea,Gwangju,Quarterfinals,South Korea,Spain,0.0,0.0,H,South Korea won in penalties (5 - 3),South Korea,Spain,2002-06-22,Jun,Saturday
-2002,Japan,Osaka,Quarterfinals,Senegal,Turkey,0.0,0.1,A,Turkey won in AET,Turkey,Senegal,2002-06-22,Jun,Saturday
-2002,South Korea,Seoul,Semifinals,South Korea,Germany,0.0,0.1,A,no win conditions,Germany,South Korea,2002-06-25,Jun,Tuesday
-2002,Japan,Saitama,Semifinals,Brazil,Turkey,0.1,0.0,H,no win conditions,Brazil,Turkey,2002-06-26,Jun,Wednesday
-2002,South Korea,Daegu,Third place,South Korea,Turkey,0.2,0.3,A,no win conditions,Turkey,South Korea,2002-06-29,Jun,Saturday
-2002,Japan,Yokohama,Final,Germany,Brazil,0.0,0.2,A,no win conditions,Brazil,Germany,2002-06-30,Jun,Sunday
-2006,Germany,Munich,Group A,Germany,Costa Rica,0.4,0.2,H,no win conditions,Germany,Costa Rica,2006-06-09,Jun,Friday
-2006,Germany,Gelsenkirchen,Group A,Poland,Ecuador,0.0,0.2,A,no win conditions,Ecuador,Poland,2006-06-09,Jun,Friday
-2006,Germany,Hamburg,Group C,Argentina,Ivory Coast,0.2,0.1,H,no win conditions,Argentina,Ivory Coast,2006-06-10,Jun,Saturday
-2006,Germany,Frankfurt am Main,Group B,England,Paraguay,0.1,0.0,H,no win conditions,England,Paraguay,2006-06-10,Jun,Saturday
-2006,Germany,Dortmund,Group B,Trinidad and Tobago,Sweden,0.0,0.0,D,no win conditions,Draw match,Draw match,2006-06-10,Jun,Saturday
-2006,Germany,Cologne,Group D,Angola,Portugal,0.0,0.1,A,no win conditions,Portugal,Angola,2006-06-11,Jun,Sunday
-2006,Germany,Nuremberg,Group D,Mexico,Iran,0.3,0.1,H,no win conditions,Mexico,Iran,2006-06-11,Jun,Sunday
-2006,Germany,Leipzig,Group C,Serbia,Netherlands,0.0,0.1,A,no win conditions,Netherlands,Serbia,2006-06-11,Jun,Sunday
-2006,Germany,Kaiserslautern,Group F,Australia,Japan,0.3,0.1,H,no win conditions,Australia,Japan,2006-06-12,Jun,Monday
-2006,Germany,Hanover,Group E,Italy,Ghana,0.2,0.0,H,no win conditions,Italy,Ghana,2006-06-12,Jun,Monday
-2006,Germany,Gelsenkirchen,Group E,United States,Czech Republic,0.0,0.3,A,no win conditions,Czech Republic,United States,2006-06-12,Jun,Monday
-2006,Germany,Berlin,Group F,Brazil,Croatia,0.1,0.0,H,no win conditions,Brazil,Croatia,2006-06-13,Jun,Tuesday
-2006,Germany,Stuttgart,Group G,France,Switzerland,0.0,0.0,D,no win conditions,Draw match,Draw match,2006-06-13,Jun,Tuesday
-2006,Germany,Frankfurt am Main,Group G,South Korea,Togo,0.2,0.1,H,no win conditions,South Korea,Togo,2006-06-13,Jun,Tuesday
-2006,Germany,Dortmund,Group A,Germany,Poland,0.1,0.0,H,no win conditions,Germany,Poland,2006-06-14,Jun,Wednesday
-2006,Germany,Leipzig,Group H,Spain,Ukraine,0.4,0.0,H,no win conditions,Spain,Ukraine,2006-06-14,Jun,Wednesday
-2006,Germany,Munich,Group H,Tunisia,Saudi Arabia,0.2,0.2,D,no win conditions,Draw match,Draw match,2006-06-14,Jun,Wednesday
-2006,Germany,Hamburg,Group A,Ecuador,Costa Rica,0.3,0.0,H,no win conditions,Ecuador,Costa Rica,2006-06-15,Jun,Thursday
-2006,Germany,Nuremberg,Group B,England,Trinidad and Tobago,0.2,0.0,H,no win conditions,England,Trinidad and Tobago,2006-06-15,Jun,Thursday
-2006,Germany,Berlin,Group B,Sweden,Paraguay,0.1,0.0,H,no win conditions,Sweden,Paraguay,2006-06-15,Jun,Thursday
-2006,Germany,Gelsenkirchen,Group C,Argentina,Serbia,0.5,0.0,H,no win conditions,Argentina,Serbia,2006-06-16,Jun,Friday
-2006,Germany,Hanover,Group D,Mexico,Angola,0.0,0.0,D,no win conditions,Draw match,Draw match,2006-06-16,Jun,Friday
-2006,Germany,Stuttgart,Group C,Netherlands,Ivory Coast,0.2,0.1,H,no win conditions,Netherlands,Ivory Coast,2006-06-16,Jun,Friday
-2006,Germany,Cologne,Group E,Czech Republic,Ghana,0.0,0.2,A,no win conditions,Ghana,Czech Republic,2006-06-17,Jun,Saturday
-2006,Germany,Kaiserslautern,Group E,Italy,United States,0.1,0.1,D,no win conditions,Draw match,Draw match,2006-06-17,Jun,Saturday
-2006,Germany,Frankfurt am Main,Group D,Portugal,Iran,0.2,0.0,H,no win conditions,Portugal,Iran,2006-06-17,Jun,Saturday
-2006,Germany,Munich,Group F,Brazil,Australia,0.2,0.0,H,no win conditions,Brazil,Australia,2006-06-18,Jun,Sunday
-2006,Germany,Leipzig,Group G,France,South Korea,0.1,0.1,D,no win conditions,Draw match,Draw match,2006-06-18,Jun,Sunday
-2006,Germany,Nuremberg,Group F,Japan,Croatia,0.0,0.0,D,no win conditions,Draw match,Draw match,2006-06-18,Jun,Sunday
-2006,Germany,Hamburg,Group H,Saudi Arabia,Ukraine,0.0,0.4,A,no win conditions,Ukraine,Saudi Arabia,2006-06-19,Jun,Monday
-2006,Germany,Stuttgart,Group H,Spain,Tunisia,0.3,0.1,H,no win conditions,Spain,Tunisia,2006-06-19,Jun,Monday
-2006,Germany,Dortmund,Group G,Togo,Switzerland,0.0,0.2,A,no win conditions,Switzerland,Togo,2006-06-19,Jun,Monday
-2006,Germany,Hanover,Group A,Costa Rica,Poland,0.1,0.2,A,no win conditions,Poland,Costa Rica,2006-06-20,Jun,Tuesday
-2006,Germany,Berlin,Group A,Germany,Ecuador,0.3,0.0,H,no win conditions,Germany,Ecuador,2006-06-20,Jun,Tuesday
-2006,Germany,Kaiserslautern,Group B,Paraguay,Trinidad and Tobago,0.2,0.0,H,no win conditions,Paraguay,Trinidad and Tobago,2006-06-20,Jun,Tuesday
-2006,Germany,Cologne,Group B,Sweden,England,0.2,0.2,D,no win conditions,Draw match,Draw match,2006-06-20,Jun,Tuesday
-2006,Germany,Leipzig,Group D,Iran,Angola,0.1,0.1,D,no win conditions,Draw match,Draw match,2006-06-21,Jun,Wednesday
-2006,Germany,Munich,Group C,Ivory Coast,Serbia,0.3,0.2,H,no win conditions,Ivory Coast,Serbia,2006-06-21,Jun,Wednesday
-2006,Germany,Frankfurt am Main,Group C,Netherlands,Argentina,0.0,0.0,D,no win conditions,Draw match,Draw match,2006-06-21,Jun,Wednesday
-2006,Germany,Gelsenkirchen,Group D,Portugal,Mexico,0.2,0.1,H,no win conditions,Portugal,Mexico,2006-06-21,Jun,Wednesday
-2006,Germany,Stuttgart,Group F,Croatia,Australia,0.2,0.2,D,no win conditions,Draw match,Draw match,2006-06-22,Jun,Thursday
-2006,Germany,Hamburg,Group E,Czech Republic,Italy,0.0,0.2,A,no win conditions,Italy,Czech Republic,2006-06-22,Jun,Thursday
-2006,Germany,Nuremberg,Group E,Ghana,United States,0.2,0.1,H,no win conditions,Ghana,United States,2006-06-22,Jun,Thursday
-2006,Germany,Dortmund,Group F,Japan,Brazil,0.1,0.4,A,no win conditions,Brazil,Japan,2006-06-22,Jun,Thursday
-2006,Germany,Kaiserslautern,Group H,Saudi Arabia,Spain,0.0,0.1,A,no win conditions,Spain,Saudi Arabia,2006-06-23,Jun,Friday
-2006,Germany,Hanover,Group H,Switzerland,South Korea,0.2,0.0,H,no win conditions,Switzerland,South Korea,2006-06-23,Jun,Friday
-2006,Germany,Cologne,Group G,Togo,France,0.0,0.2,A,no win conditions,France,Togo,2006-06-23,Jun,Friday
-2006,Germany,Berlin,Group G,Ukraine,Tunisia,0.1,0.0,H,no win conditions,Ukraine,Tunisia,2006-06-23,Jun,Friday
-2006,Germany,Leipzig,Round of 16,Argentina,Mexico,0.2,0.1,H,Argentina won in AET,Argentina,Mexico,2006-06-24,Jun,Saturday
-2006,Germany,Munich,Round of 16,Germany,Sweden,0.2,0.0,H,no win conditions,Germany,Sweden,2006-06-24,Jun,Saturday
-2006,Germany,Stuttgart,Round of 16,England,Ecuador,0.1,0.0,H,no win conditions,England,Ecuador,2006-06-25,Jun,Sunday
-2006,Germany,Nuremberg,Round of 16,Portugal,Netherlands,0.1,0.0,H,no win conditions,Portugal,Netherlands,2006-06-25,Jun,Sunday
-2006,Germany,Kaiserslautern,Round of 16,Italy,Australia,0.1,0.0,H,no win conditions,Italy,Australia,2006-06-26,Jun,Monday
-2006,Germany,Cologne,Round of 16,Switzerland,Ukraine,0.0,0.0,A,Ukraine won in penalties (3- 0),Ukraine,Switzerland,2006-06-26,Jun,Monday
-2006,Germany,Dortmund,Round of 16,Brazil,Ghana,0.3,0.0,H,no win conditions,Brazil,Ghana,2006-06-27,Jun,Tuesday
-2006,Germany,Hanover,Round of 16,Spain,France,0.1,0.3,A,no win conditions,France,Spain,2006-06-27,Jun,Tuesday
-2006,Germany,Berlin,Quarterfinals,Germany,Argentina,0.1,0.1,H,Germany won in penalties (4 - 2),Germany,Argentina,2006-06-30,Jun,Friday
-2006,Germany,Hamburg,Quarterfinals,Italy,Ukraine,0.3,0.0,H,no win conditions,Italy,Ukraine,2006-06-30,Jun,Friday
-2006,Germany,Frankfurt am Main,Quarterfinals,Brazil,France,0.0,0.1,A,no win conditions,France,Brazil,2006-07-01,Jul,Saturday
-2006,Germany,Gelsenkirchen,Quarterfinals,England,Portugal,0.0,0.0,A,Portugal won in penalties (3 - 1),Portagul,England,2006-07-01,Jul,Saturday
-2006,Germany,Dortmund,Semifinals,Germany,Italy,0.0,0.2,A,Italy won in AET,Italy,Germany,2006-07-04,Jul,Tuesday
-2006,Germany,Munich,Semifinals,Portugal,France,0.0,0.1,A,no win conditions,France,Portugal,2006-07-05,Jul,Wednesday
-2006,Germany,Stuttgart,Third place,Germany,Portugal,0.3,0.1,H,no win conditions,Germany,Portugal,2006-07-08,Jul,Saturday
-2006,Germany,Berlin,Final,Italy,France,0.1,0.1,H,Italy won in penalties (5 - 3),Italy,France,2006-07-09,Jul,Sunday
-2010,South Africa,Johannesburg,Group A,South Africa,Mexico,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-11,Jun,Friday
-2010,South Africa,Cape Town,Group A,Uruguay,France,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-11,Jun,Friday
-2010,South Africa,Johannesburg,Group B,Argentina,Nigeria,0.1,0.0,H,no win conditions,Argentina,Nigeria,2010-06-12,Jun,Saturday
-2010,South Africa,Rustenburg,Group C,England,United States,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-12,Jun,Saturday
-2010,South Africa,Port Elizabeth,Group B,South Korea,Greece,0.2,0.0,H,no win conditions,South Korea,Greece,2010-06-12,Jun,Saturday
-2010,South Africa,Polokwane,Group C,Algeria,Slovenia,0.0,0.1,A,no win conditions,Slovenia,Algeria,2010-06-13,Jun,Sunday
-2010,South Africa,Durban,Group D,Germany,Australia,0.4,0.0,H,no win conditions,Germany,Australia,2010-06-13,Jun,Sunday
-2010,South Africa,Pretoria,Group D,Serbia,Ghana,0.0,0.1,A,no win conditions,Ghana,Serbia,2010-06-13,Jun,Sunday
-2010,South Africa,Cape Town,Group F,Italy,Paraguay,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-14,Jun,Monday
-2010,South Africa,Bloemfontein,Group E,Japan,Cameroon,0.1,0.0,H,no win conditions,Japan,Cameroon,2010-06-14,Jun,Monday
-2010,South Africa,Johannesburg,Group E,Netherlands,Denmark,0.2,0.0,H,no win conditions,Netherlands,Denmark,2010-06-14,Jun,Monday
-2010,South Africa,Johannesburg,Group G,Brazil,North Korea,0.2,0.1,H,no win conditions,Brazil,North Korea,2010-06-15,Jun,Tuesday
-2010,South Africa,Port Elizabeth,Group G,Ivory Coast,Portugal,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-15,Jun,Tuesday
-2010,South Africa,Rustenburg,Group F,New Zealand,Slovakia,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-15,Jun,Tuesday
-2010,South Africa,Nelspruit,Group H,Honduras,Chile,0.0,0.1,A,no win conditions,Chile,Honduras,2010-06-16,Jun,Wednesday
-2010,South Africa,Pretoria,Group A,South Africa,Uruguay,0.0,0.3,A,no win conditions,Uruguay,South Africa,2010-06-16,Jun,Wednesday
-2010,South Africa,Durban,Group H,Spain,Switzerland,0.0,0.1,A,no win conditions,Switzerland,Spain,2010-06-16,Jun,Wednesday
-2010,South Africa,Johannesburg,Group B,Argentina,South Korea,0.4,0.1,H,no win conditions,Argentina,South Korea,2010-06-17,Jun,Thursday
-2010,South Africa,Polokwane,Group A,France,Mexico,0.0,0.2,A,no win conditions,Mexico,France,2010-06-17,Jun,Thursday
-2010,South Africa,Bloemfontein,Group B,Greece,Nigeria,0.2,0.1,H,no win conditions,Greece,Nigeria,2010-06-17,Jun,Thursday
-2010,South Africa,Cape Town,Group C,England,Algeria,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-18,Jun,Friday
-2010,South Africa,Port Elizabeth,Group D,Germany,Serbia,0.0,0.1,A,no win conditions,Serbia,Germany,2010-06-18,Jun,Friday
-2010,South Africa,Johannesburg,Group C,Slovenia,United States,0.2,0.2,D,no win conditions,Draw match,Draw match,2010-06-18,Jun,Friday
-2010,South Africa,Pretoria,Group E,Cameroon,Denmark,0.1,0.2,A,no win conditions,Denmark,Cameroon,2010-06-19,Jun,Saturday
-2010,South Africa,Rustenburg,Group D,Ghana,Australia,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-19,Jun,Saturday
-2010,South Africa,Durban,Group E,Netherlands,Japan,0.1,0.0,H,no win conditions,Netherlands,Japan,2010-06-19,Jun,Saturday
-2010,South Africa,Johannesburg,Group G,Brazil,Ivory Coast,0.3,0.1,H,no win conditions,Brazil,Ivory Coast,2010-06-20,Jun,Sunday
-2010,South Africa,Nelspruit,Group F,Italy,New Zealand,0.1,0.1,D,no win conditions,Draw match,Draw match,2010-06-20,Jun,Sunday
-2010,South Africa,Bloemfontein,Group F,Slovakia,Paraguay,0.0,0.2,A,no win conditions,Paraguay,Slovakia,2010-06-20,Jun,Sunday
-2010,South Africa,Port Elizabeth,Group H,Chile,Switzerland,0.1,0.0,H,no win conditions,Chile,Switzerland,2010-06-21,Jun,Monday
-2010,South Africa,Cape Town,Group G,Portugal,North Korea,0.5,0.0,H,no win conditions,Portugal,North Korea,2010-06-21,Jun,Monday
-2010,South Africa,Johannesburg,Group H,Spain,Honduras,0.2,0.0,H,no win conditions,Spain,Honduras,2010-06-21,Jun,Monday
-2010,South Africa,Polokwane,Group B,Greece,Argentina,0.0,0.2,A,no win conditions,Argentina,Greece,2010-06-22,Jun,Tuesday
-2010,South Africa,Rustenburg,Group A,Mexico,Uruguay,0.0,0.1,A,no win conditions,Uruguay,Mexico,2010-06-22,Jun,Tuesday
-2010,South Africa,Durban,Group B,Nigeria,South Korea,0.2,0.2,D,no win conditions,Draw match,Draw match,2010-06-22,Jun,Tuesday
-2010,South Africa,Bloemfontein,Group A,South Africa,France,0.2,0.1,H,no win conditions,South Africa,France,2010-06-22,Jun,Tuesday
-2010,South Africa,Nelspruit,Group D,Australia,Serbia,0.2,0.1,H,no win conditions,Australia,Serbia,2010-06-23,Jun,Wednesday
-2010,South Africa,Johannesburg,Group D,Ghana,Germany,0.0,0.1,A,no win conditions,Germany,Ghana,2010-06-23,Jun,Wednesday
-2010,South Africa,Port Elizabeth,Group C,Slovenia,England,0.0,0.1,A,no win conditions,England,Slovenia,2010-06-23,Jun,Wednesday
-2010,South Africa,Pretoria,Group C,United States,Algeria,0.1,0.0,H,no win conditions,United States,Algeria,2010-06-23,Jun,Wednesday
-2010,South Africa,Cape Town,Group E,Cameroon,Netherlands,0.1,0.2,A,no win conditions,Netherlands,Cameroon,2010-06-24,Jun,Thursday
-2010,South Africa,Rustenburg,Group E,Denmark,Japan,0.1,0.3,A,no win conditions,Japan,Denmark,2010-06-24,Jun,Thursday
-2010,South Africa,Polokwane,Group F,Paraguay,New Zealand,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-24,Jun,Thursday
-2010,South Africa,Johannesburg,Group F,Slovakia,Italy,0.3,0.2,H,no win conditions,Slovakia,Italy,2010-06-24,Jun,Thursday
-2010,South Africa,Pretoria,Group H,Chile,Spain,0.1,0.2,A,no win conditions,Spain,Chile,2010-06-25,Jun,Friday
-2010,South Africa,Nelspruit,Group G,North Korea,Ivory Coast,0.0,0.3,A,no win conditions,Ivory Coast,North Korea,2010-06-25,Jun,Friday
-2010,South Africa,Durban,Group G,Portugal,Brazil,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-25,Jun,Friday
-2010,South Africa,Bloemfontein,Group H,Switzerland,Honduras,0.0,0.0,D,no win conditions,Draw match,Draw match,2010-06-25,Jun,Friday
-2010,South Africa,Port Elizabeth,Round of 16,Uruguay,South Korea,0.2,0.1,H,no win conditions,Uruguay,South Korea,2010-06-26,Jun,Saturday
-2010,South Africa,Rustenburg,Round of 16,United States,Ghana,0.1,0.2,A,Ghana won in AET,Ghana,United States,2010-06-26,Jun,Saturday
-2010,South Africa,Johannesburg,Round of 16,Argentina,Mexico,0.3,0.1,H,no win conditions,Argentina,Mexico,2010-06-27,Jun,Sunday
-2010,South Africa,Bloemfontein,Round of 16,Germany,England,0.4,0.1,H,no win conditions,Germany,England,2010-06-27,Jun,Sunday
-2010,South Africa,Johannesburg,Round of 16,Brazil,Chile,0.3,0.0,H,no win conditions,Brazil,Chile,2010-06-28,Jun,Monday
-2010,South Africa,Durban,Round of 16,Netherlands,Slovakia,0.2,0.1,H,no win conditions,Netherlands,Slovakia,2010-06-28,Jun,Monday
-2010,South Africa,Pretoria,Round of 16,Paraguay,Japan,0.0,0.0,H,Paraguay won in penalties (5 - 3),Paraguay,Japan,2010-06-29,Jun,Tuesday
-2010,South Africa,Cape Town,Round of 16,Spain,Portugal,0.1,0.0,H,no win conditions,Spain,Portugal,2010-06-29,Jun,Tuesday
-2010,South Africa,Port Elizabeth,Quarterfinals,Netherlands,Brazil,0.2,0.1,H,no win conditions,Netherlands,Brazil,2010-07-02,Jul,Friday
-2010,South Africa,Johannesburg,Quarterfinals,Uruguay,Ghana,0.1,0.1,H,Uruguay won in penalties (4 - 2),Uruguay,Ghana,2010-07-02,Jul,Friday
-2010,South Africa,Cape Town,Quarterfinals,Argentina,Germany,0.0,0.4,A,no win conditions,Germany,Argentina,2010-07-03,Jul,Saturday
-2010,South Africa,Johannesburg,Quarterfinals,Paraguay,Spain,0.0,0.1,A,no win conditions,Spain,Paraguay,2010-07-03,Jul,Saturday
-2010,South Africa,Cape Town,Semifinals,Uruguay,Netherlands,0.2,0.3,A,no win conditions,Netherlands,Uruguay,2010-07-06,Jul,Tuesday
-2010,South Africa,Durban,Semifinals,Germany,Spain,0.0,0.1,A,no win conditions,Spain,Germany,2010-07-07,Jul,Wednesday
-2010,South Africa,Port Elizabeth,Third place,Uruguay,Germany,0.2,0.3,A,no win conditions,Germany,Uruguay,2010-07-10,Jul,Saturday
-2010,South Africa,Johannesburg,Final,Netherlands,Spain,0.0,0.1,A,Spain won in AET,Spain,Netherlands,2010-07-11,Jul,Sunday
-2014,Brazil,São Paulo,Group A,Brazil,Croatia,0.3,0.1,H,no win conditions,Brazil,Croatia,2014-06-12,Jun,Thursday
-2014,Brazil,Cuiabá,Group B,Chile,Australia,0.3,0.1,H,no win conditions,Chile,Australia,2014-06-13,Jun,Friday
-2014,Brazil,Natal,Group A,Mexico,Cameroon,0.1,0.0,H,no win conditions,Mexico,Cameroon,2014-06-13,Jun,Friday
-2014,Brazil,Salvador,Group B,Spain,Netherlands,0.1,0.5,A,no win conditions,Netherlands,Spain,2014-06-13,Jun,Friday
-2014,Brazil,Belo Horizonte,Group C,Colombia,Greece,0.3,0.0,H,no win conditions,Colombia,Greece,2014-06-14,Jun,Saturday
-2014,Brazil,Manaus,Group D,England,Italy,0.1,0.2,A,no win conditions,Italy,England,2014-06-14,Jun,Saturday
-2014,Brazil,Recife,Group C,Ivory Coast,Japan,0.2,0.1,H,no win conditions,Ivory Coast,Japan,2014-06-14,Jun,Saturday
-2014,Brazil,Fortaleza,Group D,Uruguay,Costa Rica,0.1,0.3,A,no win conditions,Costa Rica,Uruguay,2014-06-14,Jun,Saturday
-2014,Brazil,Rio de Janeiro,Group F,Argentina,Bosnia and Herzegovina,0.2,0.1,H,no win conditions,Argentina,Bosnia and Herzegovina,2014-06-15,Jun,Sunday
-2014,Brazil,Porto Alegre,Group E,France,Honduras,0.3,0.0,H,no win conditions,France,Honduras,2014-06-15,Jun,Sunday
-2014,Brazil,Brasília,Group E,Switzerland,Ecuador,0.2,0.1,H,no win conditions,Switzerland,Ecuador,2014-06-15,Jun,Sunday
-2014,Brazil,Salvador,Group G,Germany,Portugal,0.4,0.0,H,no win conditions,Germany,Portugal,2014-06-16,Jun,Monday
-2014,Brazil,Natal,Group G,Ghana,United States,0.1,0.2,A,no win conditions,United States,Ghana,2014-06-16,Jun,Monday
-2014,Brazil,Curitiba,Group F,Iran,Nigeria,0.0,0.0,D,no win conditions,Draw match,Draw match,2014-06-16,Jun,Monday
-2014,Brazil,Belo Horizonte,Group H,Belgium,Algeria,0.2,0.1,H,no win conditions,Belgium,Algeria,2014-06-17,Jun,Tuesday
-2014,Brazil,Fortaleza,Group A,Brazil,Mexico,0.0,0.0,D,no win conditions,Draw match,Draw match,2014-06-17,Jun,Tuesday
-2014,Brazil,Cuiabá,Group H,Russia,South Korea,0.1,0.1,D,no win conditions,Draw match,Draw match,2014-06-17,Jun,Tuesday
-2014,Brazil,Curitiba,Group B,Australia,Netherlands,0.2,0.3,A,no win conditions,Netherlands,Australia,2014-06-18,Jun,Wednesday
-2014,Brazil,Manaus,Group A,Cameroon,Croatia,0.0,0.4,A,no win conditions,Croatia,Cameroon,2014-06-18,Jun,Wednesday
-2014,Brazil,Rio de Janeiro,Group B,Spain,Chile,0.0,0.2,A,no win conditions,Chile,Spain,2014-06-18,Jun,Wednesday
-2014,Brazil,Brasília,Group C,Colombia,Ivory Coast,0.2,0.1,H,no win conditions,Colombia,Ivory Coast,2014-06-19,Jun,Thursday
-2014,Brazil,Natal,Group C,Japan,Greece,0.0,0.0,D,no win conditions,Draw match,Draw match,2014-06-19,Jun,Thursday
-2014,Brazil,São Paulo,Group D,Uruguay,England,0.2,0.1,H,no win conditions,Uruguay,England,2014-06-19,Jun,Thursday
-2014,Brazil,Curitiba,Group E,Honduras,Ecuador,0.1,0.2,A,no win conditions,Ecuador,Honduras,2014-06-20,Jun,Friday
-2014,Brazil,Recife,Group D,Italy,Costa Rica,0.0,0.1,A,no win conditions,Costa Rica,Italy,2014-06-20,Jun,Friday
-2014,Brazil,Salvador,Group E,Switzerland,France,0.2,0.5,A,no win conditions,France,Switzerland,2014-06-20,Jun,Friday
-2014,Brazil,Belo Horizonte,Group F,Argentina,Iran,0.1,0.0,H,no win conditions,Argentina,Iran,2014-06-21,Jun,Saturday
-2014,Brazil,Fortaleza,Group G,Germany,Ghana,0.2,0.2,D,no win conditions,Draw match,Draw match,2014-06-21,Jun,Saturday
-2014,Brazil,Cuiabá,Group F,Nigeria,Bosnia and Herzegovina,0.1,0.0,H,no win conditions,Nigeria,Bosnia and Herzegovina,2014-06-21,Jun,Saturday
-2014,Brazil,Rio de Janeiro,Group H,Belgium,Russia,0.1,0.0,H,no win conditions,Belgium,Russia,2014-06-22,Jun,Sunday
-2014,Brazil,Porto Alegre,Group H,South Korea,Algeria,0.2,0.4,A,no win conditions,Algeria,South Korea,2014-06-22,Jun,Sunday
-2014,Brazil,Manaus,Group G,United States,Portugal,0.2,0.2,D,no win conditions,Draw match,Draw match,2014-06-22,Jun,Sunday
-2014,Brazil,Curitiba,Group B,Australia,Spain,0.0,0.3,A,no win conditions,Spain,Australia,2014-06-23,Jun,Monday
-2014,Brazil,Brasília,Group A,Brazil,Cameroon,0.4,0.1,H,no win conditions,Brazil,Cameroon,2014-06-23,Jun,Monday
-2014,Brazil,Recife,Group A,Croatia,Mexico,0.1,0.3,A,no win conditions,Mexico,Croatia,2014-06-23,Jun,Monday
-2014,Brazil,São Paulo,Group B,Netherlands,Chile,0.2,0.0,H,no win conditions,Netherlands,Chile,2014-06-23,Jun,Monday
-2014,Brazil,Belo Horizonte,Group D,Costa Rica,England,0.0,0.0,D,no win conditions,Draw match,Draw match,2014-06-24,Jun,Tuesday
-2014,Brazil,Fortaleza,Group C,Greece,Ivory Coast,0.2,0.1,H,no win conditions,Greece,Ivory Coast,2014-06-24,Jun,Tuesday
-2014,Brazil,Natal,Group D,Italy,Uruguay,0.0,0.1,A,no win conditions,Uruguay,Italy,2014-06-24,Jun,Tuesday
-2014,Brazil,Cuiabá,Group C,Japan,Colombia,0.1,0.4,A,no win conditions,Colombia,Japan,2014-06-24,Jun,Tuesday
-2014,Brazil,Salvador,Group F,Bosnia and Herzegovina,Iran,0.3,0.1,H,no win conditions,Bosnia and Herzegovina,Iran,2014-06-25,Jun,Wednesday
-2014,Brazil,Rio de Janeiro,Group E,Ecuador,France,0.0,0.0,D,no win conditions,Draw match,Draw match,2014-06-25,Jun,Wednesday
-2014,Brazil,Manaus,Group E,Honduras,Switzerland,0.0,0.3,A,no win conditions,Switzerland,Honduras,2014-06-25,Jun,Wednesday
-2014,Brazil,Porto Alegre,Group F,Nigeria,Argentina,0.2,0.3,A,no win conditions,Argentina,Nigeria,2014-06-25,Jun,Wednesday
-2014,Brazil,Curitiba,Group H,Algeria,Russia,0.1,0.1,D,no win conditions,Draw match,Draw match,2014-06-26,Jun,Thursday
-2014,Brazil,São Paulo,Group H,South Korea,Belgium,0.0,0.1,A,no win conditions,Belgium,South Korea,2014-06-26,Jun,Thursday
-2014,Brazil,Brasília,Group G,Portugal,Ghana,0.2,0.1,H,no win conditions,Portugal,Ghana,2014-06-26,Jun,Thursday
-2014,Brazil,Recife,Group G,United States,Germany,0.0,0.1,A,no win conditions,Germany,United States,2014-06-26,Jun,Thursday
-2014,Brazil,Belo Horizonte,Round of 16,Brazil,Chile,0.1,0.1,H,Brazil won in penalties (3 - 2),Brazil,Chile,2014-06-28,Jun,Saturday
-2014,Brazil,Rio de Janeiro,Round of 16,Colombia,Uruguay,0.2,0.0,H,no win conditions,Colombia,Uruguay,2014-06-28,Jun,Saturday
-2014,Brazil,Recife,Round of 16,Costa Rica,Greece,0.1,0.1,H,Costa Rica won in penalties (5 - 3),Costa Rica,Greece,2014-06-29,Jun,Sunday
-2014,Brazil,Fortaleza,Round of 16,Netherlands,Mexico,0.2,0.1,H,no win conditions,Netherlands,Mexico,2014-06-29,Jun,Sunday
-2014,Brazil,Brasília,Round of 16,France,Nigeria,0.2,0.0,H,no win conditions,France,Nigeria,2014-06-30,Jun,Monday
-2014,Brazil,Porto Alegre,Round of 16,Germany,Algeria,0.2,0.1,H,Germany won in AET,Germany,Algeria,2014-06-30,Jun,Monday
-2014,Brazil,São Paulo,Round of 16,Argentina,Switzerland,0.1,0.0,H,Argentina won in AET,Argentina,Switzerland,2014-07-01,Jul,Tuesday
-2014,Brazil,Salvador,Round of 16,Belgium,United States,0.2,0.1,H,Belgium won in AET,Belgium,United States,2014-07-01,Jul,Tuesday
-2014,Brazil,Fortaleza,Quarterfinals,Brazil,Colombia,0.2,0.1,H,no win conditions,Brazil,Colombia,2014-07-04,Jul,Friday
-2014,Brazil,Rio de Janeiro,Quarterfinals,France,Germany,0.0,0.1,A,no win conditions,Germany,France,2014-07-04,Jul,Friday
-2014,Brazil,Brasília,Quarterfinals,Argentina,Belgium,0.1,0.0,H,no win conditions,Argentina,Belgium,2014-07-05,Jul,Saturday
-2014,Brazil,Salvador,Quarterfinals,Netherlands,Costa Rica,0.0,0.0,H,Netherlands won in penalties (4 - 3),Netherlands,Costa Rica,2014-07-05,Jul,Saturday
-2014,Brazil,Belo Horizonte,Semifinals,Brazil,Germany,0.1,0.5,A,no win conditions,Germany,Brazil,2014-07-08,Jul,Tuesday
-2014,Brazil,São Paulo,Semifinals,Netherlands,Argentina,0.0,0.0,A,Argentina won in penalties (4 - 2),Argentina,Netherlands,2014-07-09,Jul,Wednesday
-2014,Brazil,Brasília,Third place,Brazil,Netherlands,0.0,0.3,A,no win conditions,Netherlands,Brazil,2014-07-12,Jul,Saturday
-2014,Brazil,Rio de Janeiro,Final,Germany,Argentina,0.1,0.0,H,Germany won in AET,Germany,Argentina,2014-07-13,Jul,Sunday
-2018,Russia,Moscow,Group A,Russia,Saudi Arabia,0.5,0.0,H,no win conditions,Russia,Saudi Arabia,2018-06-14,Jun,Thursday
-2018,Russia,Ekaterinburg,Group A,Egypt,Uruguay,0.0,0.1,A,no win conditions,Uruguay,Egypt,2018-06-15,Jun,Friday
-2018,Russia,Saint Petersburg,Group B,Morocco,Iran,0.0,0.1,A,no win conditions,Iran,Morocco,2018-06-15,Jun,Friday
-2018,Russia,Sochi,Group B,Portugal,Spain,0.3,0.3,D,no win conditions,Draw match,Draw match,2018-06-15,Jun,Friday
-2018,Russia,Kazan,Group C,France,Australia,0.2,0.1,H,no win conditions,France,Australia,2018-06-16,Jun,Saturday
-2018,Russia,Moscow,Group D,Argentina,Iceland,0.1,0.1,D,no win conditions,Draw match,Draw match,2018-06-16,Jun,Saturday
-2018,Russia,Saransk,Group C,Peru,Denmark,0.0,0.1,A,no win conditions,Denmark,Peru,2018-06-16,Jun,Saturday
-2018,Russia,Kaliningrad,Group D,Croatia,Nigeria,0.2,0.0,H,no win conditions,Croatia,Nigeria,2018-06-16,Jun,Saturday
-2018,Russia,Samara,Group E,Costa Rica,Serbia,0.0,0.1,A,no win conditions,Serbia,Costa Rica,2018-06-17,Jun,Sunday
-2018,Russia,Moscow,Group F,Germany,Mexico,0.0,0.1,A,no win conditions,Mexico,Germany,2018-06-17,Jun,Sunday
-2018,Russia,Rostov-on-Don,Group E,Brazil,Switzerland,0.1,0.1,D,no win conditions,Draw match,Draw match,2018-06-17,Jun,Sunday
-2018,Russia,Nizhny Novgorod,Group F,Sweden,South Korea,0.1,0.0,H,no win conditions,Sweden,South Korea,2018-06-18,Jun,Monday
-2018,Russia,Sochi,Group G,Belgium,Panama,0.3,0.0,H,no win conditions,Belgium,Panama,2018-06-18,Jun,Monday
-2018,Russia,Volgograd,Group G,Tunisia,England,0.1,0.2,A,no win conditions,England,Tunisia,2018-06-18,Jun,Monday
-2018,Russia,Saransk,Group H,Colombia,Japan,0.1,0.2,A,no win conditions,Japan,Colombia,2018-06-19,Jun,Tuesday
-2018,Russia,Moscow,Group H,Poland,Senegal,0.1,0.2,A,no win conditions,Senegal,Poland,2018-06-19,Jun,Tuesday
-2018,Russia,Saint Petersburg,Group A,Russia,Egypt,0.3,0.1,H,no win conditions,Russia,Egypt,2018-06-19,Jun,Tuesday
-2018,Russia,Moscow,Group B,Portugal,Morocco,0.1,0.0,H,no win conditions,Portugal,Morocco,2018-06-20,Jun,Wednesday
-2018,Russia,Rostov-on-Don,Group A,Uruguay,Saudi Arabia,0.1,0.0,H,no win conditions,Uruguay,Saudi Arabia,2018-06-20,Jun,Wednesday
-2018,Russia,Kazan,Group B,Iran,Spain,0.0,0.1,A,no win conditions,Spain,Iran,2018-06-20,Jun,Wednesday
-2018,Russia,Samara,Group C,Denmark,Australia,0.1,0.1,D,no win conditions,Draw match,Draw match,2018-06-21,Jun,Thursday
-2018,Russia,Ekaterinburg,Group C,France,Peru,0.1,0.0,H,no win conditions,France,Peru,2018-06-21,Jun,Thursday
-2018,Russia,Nizhny Novgorod,Group D,Argentina,Croatia,0.0,0.3,A,no win conditions,Croatia,Argentina,2018-06-21,Jun,Thursday
-2018,Russia,Saint Petersburg,Group E,Brazil,Costa Rica,0.2,0.0,H,no win conditions,Brazil,Costa Rica,2018-06-22,Jun,Friday
-2018,Russia,Volgograd,Group D,Nigeria,Iceland,0.2,0.0,H,no win conditions,Nigeria,Iceland,2018-06-22,Jun,Friday
-2018,Russia,Kaliningrad,Group E,Serbia,Switzerland,0.1,0.2,A,no win conditions,Switzerland,Serbia,2018-06-22,Jun,Friday
-2018,Russia,Moscow,Group G,Belgium,Tunisia,0.5,0.2,H,no win conditions,Belgium,Tunisia,2018-06-23,Jun,Saturday
-2018,Russia,Rostov-on-Don,Group F,South Korea,Mexico,0.1,0.2,A,no win conditions,Mexico,South Korea,2018-06-23,Jun,Saturday
-2018,Russia,Sochi,Group F,Germany,Sweden,0.2,0.1,H,no win conditions,Germany,Sweden,2018-06-23,Jun,Saturday
-2018,Russia,Nizhny Novgorod,Group G,England,Panama,0.5,0.1,H,no win conditions,England,Panama,2018-06-24,Jun,Sunday
-2018,Russia,Ekaterinburg,Group H,Japan,Senegal,0.2,0.2,D,no win conditions,Draw match,Draw match,2018-06-24,Jun,Sunday
-2018,Russia,Kazan,Group H,Poland,Colombia,0.0,0.3,A,no win conditions,Colombia,Poland,2018-06-24,Jun,Sunday
-2018,Russia,Samara,Group A,Russia,Uruguay,0.0,0.3,A,no win conditions,Uruguay,Russia,2018-06-25,Jun,Monday
-2018,Russia,Volgograd,Group A,Saudi Arabia,Egypt,0.2,0.1,H,no win conditions,Saudi Arabia,Egypt,2018-06-25,Jun,Monday
-2018,Russia,Kaliningrad,Group B,Spain,Morocco,0.2,0.2,D,no win conditions,Draw match,Draw match,2018-06-25,Jun,Monday
-2018,Russia,Saransk,Group B,Iran,Portugal,0.1,0.1,D,no win conditions,Draw match,Draw match,2018-06-25,Jun,Monday
-2018,Russia,Sochi,Group C,Australia,Peru,0.0,0.2,A,no win conditions,Peru,Australia,2018-06-26,Jun,Tuesday
-2018,Russia,Moscow,Group C,Denmark,France,0.0,0.0,D,no win conditions,Draw match,Draw match,2018-06-26,Jun,Tuesday
-2018,Russia,Saint Petersburg,Group D,Nigeria,Argentina,0.1,0.2,A,no win conditions,Argentina,Nigeria,2018-06-26,Jun,Tuesday
-2018,Russia,Rostov-on-Don,Group D ,Iceland,Croatia,0.1,0.2,A,no win conditions,Croatia,Iceland,2018-06-26,Jun,Tuesday
-2018,Russia,Kazan,Group F,South Korea,Germany,0.2,0.0,H,no win conditions,South Korea,Germany,2018-06-27,Jun,Wednesday
-2018,Russia,Ekaterinburg,Group F,Mexico,Sweden,0.0,0.3,A,no win conditions,Sweden,Mexico,2018-06-27,Jun,Wednesday
-2018,Russia,Moscow,Group E,Serbia,Brazil,0.0,0.2,A,no win conditions,Brazil,Serbia,2018-06-27,Jun,Wednesday
-2018,Russia,Nizhny Novgorod,Group E,Switzerland,Costa Rica,0.2,0.2,D,no win conditions,Draw match,Draw match,2018-06-27,Jun,Wednesday
-2018,Russia,Volgograd,Group H,Japan,Poland,0.0,0.1,A,no win conditions,Poland,Japan,2018-06-28,Jun,Thursday
-2018,Russia,Samara,Group H,Senegal,Colombia,0.0,0.1,A,no win conditions,Colombia,Senegal,2018-06-28,Jun,Thursday
-2018,Russia,Saransk,Group G,Panama,Tunisia,0.1,0.2,A,no win conditions,Tunisia,Panama,2018-06-28,Jun,Thursday
-2018,Russia,Kaliningrad,Group G,England,Belgium,0.0,0.1,A,no win conditions,Belgium,England,2018-06-28,Jun,Thursday
-2018,Russia,Kazan,Round of 16,France,Argentina,0.4,0.3,H,no win conditions,France,Argentina,2018-06-30,Jun,Saturday
-2018,Russia,Sochi,Round of 16,Uruguay,Portugal,0.2,0.1,H,no win conditions,Uruguay,Portugal,2018-06-30,Jun,Saturday
-2018,Russia,Moscow,Round of 16,Russia,Spain,0.1,0.1,H,Russia won in penalties (4 - 3),Russia,Spain,2018-07-01,Jul,Sunday
-2018,Russia,Nizhny Novgorod,Round of 16,Croatia,Denmark,0.1,0.1,H,Croatia won in penalties (3- 2),Croatia,Denmark,2018-07-01,Jul,Sunday
-2018,Russia,Samara,Round of 16,Brazil,Mexico,0.2,0.0,H,no win conditions,Brazil,Mexico,2018-07-02,Jul,Monday
-2018,Russia,Rostov-on-Don,Round of 16,Belgium,Japan,0.3,0.2,H,no win conditions,Belgium,Japan,2018-07-02,Jul,Monday
-2018,Russia,Saint Petersburg,Round of 16,Sweden,Switzerland,0.1,0.0,H,no win conditions,Sweden,Switzerland,2018-07-03,Jul,Tuesday
-2018,Russia,Moscow,Round of 16,Colombia,England,0.1,0.1,A,England won in penalties (4 -3),England,Columbia,2018-07-03,Jul,Tuesday
-2018,Russia,Nizhny Novgorod,Quarterfinals,Uruguay,France,0.0,0.2,A,no win conditions,France,Uruguay,2018-07-06,Jul,Friday
-2018,Russia,Kazan,Quarterfinals,Brazil,Belgium,0.1,0.2,A,no win conditions,Belgium,Brazil,2018-07-06,Jul,Friday
-2018,Russia,Samara,Quarterfinals,Sweden,England,0.0,0.2,A,no win conditions,England,Sweden,2018-07-07,Jul,Saturday
-2018,Russia,Sochi,Quarterfinals,Russia,Croatia,0.2,0.2,A,Croatia won in penalties (4 - 3),Croatia,Russia,2018-07-07,Jul,Saturday
-2018,Russia,Saint Petersburg,Semifinals,France,Belgium,0.1,0.0,H,no win conditions,France,Belgium,2018-07-10,Jul,Tuesday
-2018,Russia,Moscow,Semifinals,Croatia,England,0.2,0.1,H,Croatia won in AET,Croatia,England,2018-07-11,Jul,Wednesday
-2018,Russia,Saint Petersburg,Third place,Belgium,England,0.2,0.0,H,no win conditions,Belgium,England,2018-07-14,Jul,Saturday
-2018,Russia,Moscow,Final,France,Croatia,0.4,0.2,H,no win conditions,France,Croatia,2018-07-15,Jul,Sunday
+1930,16,83,3,27,42,4,1,H,no win conditions,22,46,1930-07-13,0,3
+1930,16,83,6,5,76,0,3,A,no win conditions,62,5,1930-07-13,0,3
+1930,16,83,4,8,80,1,2,A,no win conditions,66,8,1930-07-14,0,1
+1930,16,83,5,52,56,1,3,A,no win conditions,45,56,1930-07-14,0,1
+1930,16,83,3,2,27,1,0,H,no win conditions,1,30,1930-07-15,0,5
+1930,16,83,3,12,42,3,0,H,no win conditions,9,46,1930-07-16,0,6
+1930,16,83,4,6,80,0,4,A,no win conditions,66,6,1930-07-17,0,4
+1930,16,83,6,51,76,0,3,A,no win conditions,62,55,1930-07-17,0,4
+1930,16,83,5,77,52,1,0,H,no win conditions,63,56,1930-07-18,0,0
+1930,16,83,3,2,42,5,3,H,no win conditions,1,46,1930-07-19,0,2
+1930,16,83,3,12,27,1,0,H,no win conditions,9,30,1930-07-19,0,2
+1930,16,83,6,5,51,0,1,A,no win conditions,39,5,1930-07-20,0,3
+1930,16,83,4,6,8,0,4,A,no win conditions,6,6,1930-07-20,0,3
+1930,16,83,5,77,56,4,0,H,no win conditions,63,60,1930-07-21,0,1
+1930,16,83,3,2,12,3,1,H,no win conditions,1,12,1930-07-22,0,5
+1930,16,83,20,2,76,5,1,H,no win conditions,1,80,1930-07-26,0,2
+1930,16,83,20,77,80,5,1,H,no win conditions,63,84,1930-07-27,0,3
+1930,16,83,1,77,2,4,2,H,no win conditions,63,2,1930-07-30,0,6
+1934,6,12,19,2,68,2,3,A,no win conditions,57,2,1934-05-27,2,3
+1934,6,144,19,4,27,3,2,H,Austria won in AET,3,30,1934-05-27,2,3
+1934,6,36,19,5,28,2,5,A,no win conditions,23,5,1934-05-27,2,3
+1934,6,43,19,8,67,1,3,A,no win conditions,56,8,1934-05-27,2,3
+1934,6,143,19,19,56,2,1,H,no win conditions,15,60,1934-05-27,2,3
+1934,6,89,19,23,33,2,4,A,no win conditions,26,26,1934-05-27,2,3
+1934,6,116,19,38,76,5,1,H,no win conditions,28,80,1934-05-27,2,3
+1934,6,81,19,44,69,2,3,A,no win conditions,58,48,1934-05-27,2,3
+1934,6,12,18,4,33,2,1,H,no win conditions,3,36,1934-05-31,2,4
+1934,6,144,18,19,69,3,2,H,no win conditions,15,73,1934-05-31,2,4
+1934,6,81,18,28,68,2,1,H,no win conditions,23,72,1934-05-31,2,4
+1934,6,36,18,38,67,1,1,D,no win conditions,17,22,1934-05-31,2,4
+1934,6,36,18,38,67,1,0,H,no win conditions,28,71,1934-06-01,1,0
+1934,6,116,20,19,28,3,1,H,no win conditions,15,31,1934-06-03,1,3
+1934,6,81,20,38,4,1,0,H,no win conditions,28,4,1934-06-03,1,3
+1934,6,89,21,4,28,2,3,A,no win conditions,65,4,1934-06-07,1,4
+1934,6,116,1,38,18,2,1,H,Italy won in AET,28,20,1934-06-10,1,3
+1938,4,102,19,28,69,1,1,D,no win conditions,17,22,1938-06-04,1,2
+1938,4,136,19,8,53,5,5,H,Brazil won in AET,6,57,1938-06-05,1,3
+1938,4,142,19,17,56,3,3,D,no win conditions,17,22,1938-06-05,1,3
+1938,4,63,19,19,44,3,0,H,Czechoslovakia won in AET,15,48,1938-06-05,1,3
+1938,4,22,19,27,5,3,1,H,no win conditions,22,5,1938-06-05,1,3
+1938,4,113,19,33,20,5,0,H,no win conditions,26,23,1938-06-05,1,3
+1938,4,77,19,38,49,2,1,H,Italy won in AET,28,53,1938-06-05,1,3
+1938,4,142,19,17,56,2,1,H,no win conditions,13,60,1938-06-09,1,4
+1938,4,102,19,28,69,2,4,A,no win conditions,58,31,1938-06-09,1,4
+1938,4,13,18,8,18,1,1,D,no win conditions,17,22,1938-06-12,1,3
+1938,4,1,18,17,68,0,5,A,no win conditions,57,18,1938-06-12,1,3
+1938,4,22,18,27,37,1,3,A,no win conditions,28,30,1938-06-12,1,3
+1938,4,67,18,33,69,2,0,H,no win conditions,26,73,1938-06-12,1,3
+1938,4,13,18,8,18,2,1,H,no win conditions,6,20,1938-06-14,1,5
+1938,4,77,20,8,37,1,2,A,no win conditions,28,8,1938-06-16,1,4
+1938,4,102,20,33,68,5,1,H,no win conditions,26,72,1938-06-16,1,4
+1938,4,13,21,8,68,4,2,H,no win conditions,6,72,1938-06-19,1,3
+1938,4,22,1,33,37,2,4,A,no win conditions,28,36,1938-06-19,1,3
+1950,1,115,3,8,42,4,0,H,no win conditions,6,46,1950-06-24,1,2
+1950,1,115,4,12,25,0,2,A,no win conditions,20,12,1950-06-25,1,3
+1950,1,140,5,38,68,2,3,A,no win conditions,57,41,1950-06-25,1,3
+1950,1,24,4,67,76,3,1,H,no win conditions,56,80,1950-06-25,1,3
+1950,1,6,3,69,80,0,3,A,no win conditions,66,73,1950-06-25,1,3
+1950,1,140,3,8,69,2,2,D,no win conditions,17,22,1950-06-28,1,6
+1950,1,107,3,42,80,1,4,A,no win conditions,66,46,1950-06-28,1,6
+1950,1,115,4,12,67,0,2,A,no win conditions,56,12,1950-06-29,1,4
+1950,1,6,4,25,76,0,1,A,no win conditions,62,28,1950-06-29,1,4
+1950,1,24,5,51,68,2,2,D,no win conditions,17,22,1950-06-29,1,4
+1950,1,115,3,8,80,2,0,H,no win conditions,6,84,1950-07-01,0,2
+1950,1,6,6,6,77,0,5,A,no win conditions,63,6,1950-07-02,0,3
+1950,1,112,4,12,76,5,2,H,no win conditions,9,80,1950-07-02,0,3
+1950,1,115,4,25,67,0,1,A,no win conditions,56,28,1950-07-02,0,3
+1950,1,140,5,38,51,2,0,H,no win conditions,28,55,1950-07-02,0,3
+1950,1,107,3,42,69,1,2,A,no win conditions,58,46,1950-07-02,0,3
+1950,1,115,2,8,68,5,1,H,no win conditions,6,72,1950-07-09,0,3
+1950,1,140,2,67,77,2,2,D,no win conditions,17,22,1950-07-09,0,3
+1950,1,115,2,8,67,5,1,H,no win conditions,6,71,1950-07-13,0,4
+1950,1,140,2,68,77,2,3,A,no win conditions,63,72,1950-07-13,0,4
+1950,1,115,2,8,77,1,2,A,no win conditions,63,8,1950-07-16,0,3
+1950,1,140,2,67,68,1,3,A,no win conditions,57,71,1950-07-16,0,3
+1954,14,158,5,4,59,1,0,H,no win conditions,3,63,1954-06-16,1,6
+1954,14,42,3,8,42,5,0,H,no win conditions,6,46,1954-06-16,1,6
+1954,14,8,5,19,77,0,2,A,no win conditions,63,20,1954-06-16,1,6
+1954,14,62,3,27,80,0,1,A,no win conditions,66,30,1954-06-16,1,6
+1954,14,5,6,5,25,4,4,D,no win conditions,17,22,1954-06-17,1,4
+1954,14,8,4,78,73,4,1,H,no win conditions,65,77,1954-06-17,1,4
+1954,14,158,4,33,65,5,0,H,no win conditions,26,69,1954-06-17,1,4
+1954,14,62,6,69,37,2,1,H,no win conditions,58,41,1954-06-17,1,4
+1954,14,158,5,4,18,5,0,H,no win conditions,3,20,1954-06-19,1,2
+1954,14,62,3,8,80,1,1,D,no win conditions,17,22,1954-06-19,1,2
+1954,14,42,3,27,42,3,2,H,no win conditions,22,46,1954-06-19,1,2
+1954,14,5,5,59,77,0,5,A,no win conditions,63,63,1954-06-19,1,2
+1954,14,70,6,5,37,1,4,A,no win conditions,28,5,1954-06-20,1,3
+1954,14,5,4,78,33,3,5,A,no win conditions,26,83,1954-06-20,1,3
+1954,14,42,4,65,73,0,5,A,no win conditions,60,69,1954-06-20,1,3
+1954,14,8,6,69,25,0,2,A,no win conditions,20,73,1954-06-20,1,3
+1954,14,158,4,78,73,5,2,H,no win conditions,65,77,1954-06-23,1,6
+1954,14,5,6,69,37,4,1,H,no win conditions,58,41,1954-06-23,1,6
+1954,14,5,18,25,77,2,4,A,no win conditions,63,28,1954-06-26,1,2
+1954,14,62,18,69,4,5,5,A,no win conditions,3,73,1954-06-26,1,2
+1954,14,8,18,8,33,2,4,A,no win conditions,26,8,1954-06-27,1,3
+1954,14,42,18,78,80,2,0,H,no win conditions,65,84,1954-06-27,1,3
+1954,14,5,20,4,79,1,5,A,no win conditions,65,4,1954-06-30,1,6
+1954,14,62,20,33,77,4,2,H,Hungary won in AET,26,81,1954-06-30,1,6
+1954,14,158,21,4,77,3,1,H,no win conditions,3,81,1954-07-03,0,2
+1954,14,8,1,78,33,3,2,H,no win conditions,65,36,1954-07-04,0,3
+1958,13,73,3,2,79,1,3,A,no win conditions,65,2,1958-06-08,1,3
+1958,13,145,6,4,8,0,3,A,no win conditions,6,4,1958-06-08,1,3
+1958,13,48,3,19,48,0,1,A,no win conditions,37,20,1958-06-08,1,3
+1958,13,45,6,25,66,2,2,D,no win conditions,17,22,1958-06-08,1,3
+1958,13,95,4,27,51,5,3,H,no win conditions,22,55,1958-06-08,1,3
+1958,13,126,5,33,78,1,1,D,no win conditions,17,22,1958-06-08,1,3
+1958,13,154,4,59,80,1,1,D,no win conditions,17,22,1958-06-08,1,3
+1958,13,135,5,68,42,3,0,H,no win conditions,57,46,1958-06-08,1,3
+1958,13,48,3,2,48,3,1,H,no win conditions,1,52,1958-06-11,1,6
+1958,13,14,6,4,66,0,2,A,no win conditions,55,4,1958-06-11,1,6
+1958,13,45,6,8,25,0,0,D,no win conditions,17,22,1958-06-11,1,6
+1958,13,51,3,19,79,2,2,D,no win conditions,17,22,1958-06-11,1,6
+1958,13,154,4,27,80,2,3,A,no win conditions,66,30,1958-06-11,1,6
+1958,13,135,5,42,78,1,1,D,no win conditions,17,22,1958-06-11,1,6
+1958,13,95,4,51,59,3,2,H,no win conditions,39,63,1958-06-11,1,6
+1958,13,135,5,68,33,2,1,H,no win conditions,57,36,1958-06-12,1,4
+1958,13,51,3,2,18,1,5,A,no win conditions,15,2,1958-06-15,1,3
+1958,13,14,6,4,25,2,2,D,no win conditions,17,22,1958-06-15,1,3
+1958,13,45,6,8,66,2,0,H,no win conditions,6,70,1958-06-15,1,3
+1958,13,159,4,27,59,2,1,H,no win conditions,22,63,1958-06-15,1,3
+1958,13,73,3,78,48,2,2,D,no win conditions,17,22,1958-06-15,1,3
+1958,13,126,5,33,42,4,0,H,no win conditions,26,46,1958-06-15,1,3
+1958,13,35,4,51,80,3,3,D,no win conditions,17,22,1958-06-15,1,3
+1958,13,135,5,68,78,0,0,D,no win conditions,17,22,1958-06-15,1,3
+1958,13,73,3,19,48,1,2,A,Northern Ireland won in AET,37,20,1958-06-17,1,5
+1958,13,45,6,25,66,0,1,A,no win conditions,55,28,1958-06-17,1,5
+1958,13,135,5,33,78,1,2,A,no win conditions,64,36,1958-06-17,1,5
+1958,13,45,18,8,78,1,0,H,no win conditions,6,82,1958-06-19,1,4
+1958,13,95,18,27,48,4,0,H,no win conditions,22,52,1958-06-19,1,4
+1958,13,73,18,78,80,1,0,H,no win conditions,65,84,1958-06-19,1,4
+1958,13,135,18,68,66,2,0,H,no win conditions,57,70,1958-06-19,1,4
+1958,13,135,20,8,27,5,2,H,no win conditions,6,30,1958-06-24,1,5
+1958,13,45,20,68,79,3,1,H,no win conditions,57,83,1958-06-24,1,5
+1958,13,45,21,27,79,5,3,H,no win conditions,22,83,1958-06-28,1,2
+1958,13,135,1,68,8,2,5,A,no win conditions,6,72,1958-06-29,1,3
+1962,2,111,6,2,9,1,0,H,no win conditions,1,9,1962-05-30,2,6
+1962,2,152,5,8,42,2,0,H,no win conditions,6,46,1962-05-30,2,6
+1962,2,127,4,12,69,3,1,H,no win conditions,9,73,1962-05-30,2,6
+1962,2,2,3,14,77,1,2,A,no win conditions,63,14,1962-05-30,2,6
+1962,2,152,5,19,67,1,0,H,no win conditions,15,71,1962-05-31,2,4
+1962,2,111,6,25,33,1,2,A,no win conditions,26,28,1962-05-31,2,4
+1962,2,127,4,78,37,0,0,D,no win conditions,17,22,1962-05-31,2,4
+1962,2,2,3,66,80,2,0,H,no win conditions,55,84,1962-05-31,2,4
+1962,2,111,6,2,25,1,3,A,no win conditions,20,2,1962-06-02,1,2
+1962,2,152,5,8,18,0,0,D,no win conditions,17,22,1962-06-02,1,2
+1962,2,127,4,12,37,2,0,H,no win conditions,9,41,1962-06-02,1,2
+1962,2,2,3,77,80,1,3,A,no win conditions,66,81,1962-06-02,1,2
+1962,2,111,6,9,33,1,5,A,no win conditions,26,9,1962-06-03,1,3
+1962,2,2,3,14,66,4,4,D,no win conditions,17,22,1962-06-03,1,3
+1962,2,127,4,78,69,2,1,H,no win conditions,65,73,1962-06-03,1,3
+1962,2,152,5,42,67,0,1,A,no win conditions,56,46,1962-06-03,1,3
+1962,2,111,6,2,33,0,0,D,no win conditions,17,22,1962-06-06,1,6
+1962,2,152,5,8,67,2,1,H,no win conditions,6,71,1962-06-06,1,6
+1962,2,127,4,12,79,0,2,A,no win conditions,65,12,1962-06-06,1,6
+1962,2,2,3,66,77,2,1,H,no win conditions,55,81,1962-06-06,1,6
+1962,2,111,6,9,25,0,0,D,no win conditions,17,22,1962-06-07,1,4
+1962,2,2,3,14,80,0,5,A,no win conditions,66,14,1962-06-07,1,4
+1962,2,152,5,19,42,1,3,A,no win conditions,32,20,1962-06-07,1,4
+1962,2,127,4,38,69,3,0,H,no win conditions,28,73,1962-06-07,1,4
+1962,2,152,18,8,25,3,1,H,no win conditions,6,28,1962-06-10,1,3
+1962,2,2,18,12,66,2,1,H,no win conditions,9,70,1962-06-10,1,3
+1962,2,111,18,19,33,1,0,H,no win conditions,15,36,1962-06-10,1,3
+1962,2,127,18,78,80,0,1,A,no win conditions,66,83,1962-06-10,1,3
+1962,2,127,20,12,8,2,4,A,no win conditions,6,12,1962-06-13,1,6
+1962,2,152,20,19,80,3,1,H,no win conditions,15,84,1962-06-13,1,6
+1962,2,127,21,12,80,1,0,H,no win conditions,9,84,1962-06-16,1,2
+1962,2,127,1,8,18,3,1,H,no win conditions,6,20,1962-06-17,1,3
+1966,3,69,3,25,77,0,0,D,no win conditions,17,22,1966-07-11,0,1
+1966,3,68,5,8,9,2,0,H,no win conditions,6,9,1966-07-12,0,5
+1966,3,133,4,78,69,5,0,H,no win conditions,65,73,1966-07-12,0,5
+1966,3,80,6,47,66,0,3,A,no win conditions,55,51,1966-07-12,0,5
+1966,3,10,4,2,67,2,1,H,no win conditions,1,71,1966-07-13,0,6
+1966,3,138,6,12,37,0,2,A,no win conditions,28,12,1966-07-13,0,6
+1966,3,69,3,27,42,1,1,D,no win conditions,17,22,1966-07-13,0,6
+1966,3,75,5,33,54,1,3,A,no win conditions,43,36,1966-07-13,0,6
+1966,3,68,5,8,33,1,3,A,no win conditions,26,8,1966-07-15,0,0
+1966,3,80,6,12,47,1,1,D,no win conditions,17,22,1966-07-15,0,0
+1966,3,69,3,27,77,1,2,A,no win conditions,63,30,1966-07-15,0,0
+1966,3,133,4,67,69,2,1,H,no win conditions,56,73,1966-07-15,0,0
+1966,3,10,4,2,79,0,0,D,no win conditions,17,22,1966-07-16,0,2
+1966,3,75,5,9,54,0,3,A,no win conditions,43,9,1966-07-16,0,2
+1966,3,69,3,25,42,2,0,H,no win conditions,20,46,1966-07-16,0,2
+1966,3,138,6,38,66,0,1,A,no win conditions,55,41,1966-07-16,0,2
+1966,3,133,4,2,69,2,0,H,no win conditions,1,73,1966-07-19,0,5
+1966,3,68,5,8,54,1,3,A,no win conditions,43,8,1966-07-19,0,5
+1966,3,80,6,38,47,0,1,A,no win conditions,36,41,1966-07-19,0,5
+1966,3,69,3,42,77,0,0,D,no win conditions,17,22,1966-07-19,0,5
+1966,3,75,5,9,33,1,3,A,no win conditions,26,9,1966-07-20,0,6
+1966,3,138,6,12,66,1,2,A,no win conditions,55,12,1966-07-20,0,6
+1966,3,69,3,25,27,2,0,H,no win conditions,20,30,1966-07-20,0,6
+1966,3,10,4,78,67,2,1,H,no win conditions,65,71,1966-07-20,0,6
+1966,3,69,18,25,2,1,0,H,no win conditions,20,2,1966-07-23,0,2
+1966,3,133,18,78,77,4,0,H,no win conditions,65,81,1966-07-23,0,2
+1966,3,138,18,33,66,1,2,A,no win conditions,55,36,1966-07-23,0,2
+1966,3,68,18,47,54,3,5,A,no win conditions,43,51,1966-07-23,0,2
+1966,3,68,20,78,66,2,1,H,no win conditions,65,70,1966-07-25,0,1
+1966,3,69,20,25,54,2,1,H,no win conditions,20,58,1966-07-26,0,5
+1966,3,69,21,54,66,2,1,H,no win conditions,43,70,1966-07-28,0,4
+1966,3,69,1,25,79,4,2,H,England won in AET,20,83,1966-07-30,0,2
+1970,8,79,3,42,66,0,0,D,no win conditions,17,22,1970-05-31,2,3
+1970,8,66,6,9,52,2,3,A,no win conditions,40,9,1970-06-02,1,5
+1970,8,46,5,25,56,1,0,H,no win conditions,20,60,1970-06-02,1,5
+1970,8,109,4,37,77,0,2,A,no win conditions,63,40,1970-06-02,1,5
+1970,8,79,3,5,24,3,0,H,no win conditions,4,27,1970-06-03,1,6
+1970,8,46,5,8,18,4,1,H,no win conditions,6,20,1970-06-03,1,6
+1970,8,66,6,78,43,2,1,H,no win conditions,65,47,1970-06-03,1,6
+1970,8,141,4,38,68,1,0,H,no win conditions,28,72,1970-06-03,1,6
+1970,8,79,3,5,66,1,4,A,no win conditions,55,5,1970-06-06,1,2
+1970,8,46,5,19,56,1,2,A,no win conditions,45,20,1970-06-06,1,2
+1970,8,109,4,38,77,0,0,D,no win conditions,17,22,1970-06-06,1,2
+1970,8,66,6,43,52,0,3,A,no win conditions,40,47,1970-06-06,1,2
+1970,8,46,5,8,25,1,0,H,no win conditions,6,28,1970-06-07,1,3
+1970,8,66,6,9,79,2,5,A,no win conditions,65,9,1970-06-07,1,3
+1970,8,141,4,37,68,1,1,D,no win conditions,17,22,1970-06-07,1,3
+1970,8,79,3,42,24,4,0,H,no win conditions,32,27,1970-06-07,1,3
+1970,8,46,5,8,56,3,2,H,no win conditions,6,60,1970-06-10,1,6
+1970,8,79,3,24,66,0,2,A,no win conditions,55,27,1970-06-10,1,6
+1970,8,66,6,78,52,3,1,H,no win conditions,65,56,1970-06-10,1,6
+1970,8,109,4,68,77,1,0,H,no win conditions,57,81,1970-06-10,1,6
+1970,8,66,6,9,43,1,1,D,no win conditions,17,22,1970-06-11,1,4
+1970,8,46,5,19,25,0,1,A,no win conditions,20,20,1970-06-11,1,4
+1970,8,141,4,37,37,0,0,D,no win conditions,17,22,1970-06-11,1,4
+1970,8,79,3,42,5,1,0,H,no win conditions,32,5,1970-06-11,1,4
+1970,8,46,18,8,52,4,2,H,no win conditions,6,56,1970-06-14,1,3
+1970,8,66,18,25,79,2,3,A,West Germany won in AET,65,28,1970-06-14,1,3
+1970,8,141,18,42,37,1,4,A,no win conditions,28,46,1970-06-14,1,3
+1970,8,79,18,66,77,0,1,A,Uruguay won in AET,63,70,1970-06-14,1,3
+1970,8,46,20,8,77,3,1,H,no win conditions,6,81,1970-06-17,1,6
+1970,8,79,20,78,37,3,4,A,Italy won in AET,28,83,1970-06-17,1,6
+1970,8,79,21,78,77,1,0,H,no win conditions,65,81,1970-06-20,1,2
+1970,8,79,1,8,37,4,1,H,no win conditions,6,41,1970-06-21,1,3
+1974,5,39,4,8,80,0,0,D,no win conditions,17,22,1974-06-13,1,4
+1974,5,29,4,80,59,0,2,A,no win conditions,48,85,1974-06-14,1,0
+1974,5,49,3,21,3,2,0,H,no win conditions,18,3,1974-06-14,1,0
+1974,5,7,3,78,12,1,0,H,no win conditions,65,12,1974-06-14,1,0
+1974,5,86,6,38,31,3,1,H,no win conditions,28,34,1974-06-15,1,2
+1974,5,137,6,53,2,3,2,H,no win conditions,41,2,1974-06-15,1,2
+1974,5,31,5,68,9,0,0,D,no win conditions,17,22,1974-06-15,1,2
+1974,5,50,5,77,44,0,2,A,no win conditions,34,81,1974-06-15,1,2
+1974,5,7,3,12,21,1,1,D,no win conditions,17,22,1974-06-18,1,5
+1974,5,49,3,78,3,3,0,H,no win conditions,65,3,1974-06-18,1,5
+1974,5,39,4,59,8,0,0,D,no win conditions,17,22,1974-06-18,1,5
+1974,5,41,4,79,81,5,0,H,no win conditions,66,85,1974-06-18,1,5
+1974,5,137,6,2,37,1,1,D,no win conditions,17,22,1974-06-19,1,6
+1974,5,50,5,9,77,1,1,D,no win conditions,17,22,1974-06-19,1,6
+1974,5,86,6,31,53,0,5,A,no win conditions,41,34,1974-06-19,1,6
+1974,5,29,5,44,68,0,0,D,no win conditions,17,22,1974-06-19,1,6
+1974,5,7,3,3,12,0,0,D,no win conditions,17,22,1974-06-22,1,2
+1974,5,41,4,80,8,0,3,A,no win conditions,6,85,1974-06-22,1,2
+1974,5,49,3,78,21,0,1,A,no win conditions,18,83,1974-06-22,1,2
+1974,5,39,4,59,80,1,1,D,no win conditions,17,22,1974-06-22,1,2
+1974,5,86,6,2,31,4,1,H,no win conditions,1,34,1974-06-23,1,3
+1974,5,29,5,9,44,1,4,A,no win conditions,34,9,1974-06-23,1,3
+1974,5,137,6,53,37,2,1,H,no win conditions,41,41,1974-06-23,1,3
+1974,5,31,5,68,77,3,0,H,no win conditions,57,81,1974-06-23,1,3
+1974,5,50,9,8,21,1,0,H,no win conditions,6,24,1974-06-26,1,6
+1974,5,31,10,78,80,2,0,H,no win conditions,65,84,1974-06-26,1,6
+1974,5,41,9,44,2,4,0,H,no win conditions,34,2,1974-06-26,1,6
+1974,5,137,10,68,53,0,1,A,no win conditions,41,72,1974-06-26,1,6
+1974,5,50,9,2,8,1,2,A,no win conditions,6,2,1974-06-30,1,3
+1974,5,41,9,21,44,0,2,A,no win conditions,34,83,1974-06-30,1,3
+1974,5,31,10,78,68,4,2,H,no win conditions,65,72,1974-06-30,1,3
+1974,5,39,10,53,80,2,1,H,no win conditions,41,84,1974-06-30,1,3
+1974,5,41,9,2,21,1,1,D,no win conditions,17,22,1974-07-03,0,6
+1974,5,39,10,78,53,1,0,H,no win conditions,65,57,1974-07-03,0,6
+1974,5,29,9,44,8,2,0,H,no win conditions,34,8,1974-07-03,0,6
+1974,5,31,10,68,80,2,1,H,no win conditions,57,84,1974-07-03,0,6
+1974,5,86,21,8,53,0,1,A,no win conditions,41,8,1974-07-06,0,2
+1974,5,86,1,78,44,2,1,H,no win conditions,65,48,1974-07-07,0,3
+1978,0,16,4,78,53,0,0,D,no win conditions,17,22,1978-06-01,1,4
+1978,0,16,3,2,33,2,1,H,no win conditions,1,36,1978-06-02,1,0
+1978,0,76,3,27,37,1,2,A,no win conditions,28,30,1978-06-02,1,0
+1978,0,117,4,42,72,1,3,A,no win conditions,59,46,1978-06-02,1,0
+1978,0,16,5,4,67,2,1,H,no win conditions,3,71,1978-06-03,1,2
+1978,0,76,5,8,68,1,1,D,no win conditions,17,22,1978-06-03,1,2
+1978,0,78,6,35,44,0,3,A,no win conditions,34,38,1978-06-03,1,2
+1978,0,25,6,52,59,3,1,H,no win conditions,40,63,1978-06-03,1,2
+1978,0,16,3,2,27,2,1,H,no win conditions,1,30,1978-06-06,1,5
+1978,0,25,4,78,42,5,0,H,no win conditions,65,46,1978-06-06,1,5
+1978,0,76,3,33,37,1,3,A,no win conditions,28,36,1978-06-06,1,5
+1978,0,117,4,53,72,1,0,H,no win conditions,41,76,1978-06-06,1,5
+1978,0,16,5,4,68,1,0,H,no win conditions,3,72,1978-06-07,1,6
+1978,0,76,5,8,67,0,0,D,no win conditions,17,22,1978-06-07,1,6
+1978,0,25,6,35,59,1,1,D,no win conditions,17,22,1978-06-07,1,6
+1978,0,78,6,44,52,0,0,D,no win conditions,17,22,1978-06-07,1,6
+1978,0,16,3,2,37,0,1,A,no win conditions,28,2,1978-06-10,1,2
+1978,0,76,3,27,33,3,1,H,no win conditions,22,36,1978-06-10,1,2
+1978,0,25,4,78,72,0,0,D,no win conditions,17,22,1978-06-10,1,2
+1978,0,117,4,42,53,1,3,A,no win conditions,41,46,1978-06-10,1,2
+1978,0,76,5,4,8,0,1,A,no win conditions,6,4,1978-06-11,1,3
+1978,0,25,6,35,52,1,4,A,no win conditions,40,38,1978-06-11,1,3
+1978,0,78,6,44,59,2,3,A,no win conditions,48,48,1978-06-11,1,3
+1978,0,16,5,67,68,1,0,H,no win conditions,56,72,1978-06-11,1,3
+1978,0,117,10,2,53,2,0,H,no win conditions,1,57,1978-06-14,1,6
+1978,0,25,9,4,44,1,5,A,no win conditions,34,4,1978-06-14,1,6
+1978,0,78,10,8,52,3,0,H,no win conditions,6,56,1978-06-14,1,6
+1978,0,16,9,78,37,0,0,D,no win conditions,17,22,1978-06-14,1,6
+1978,0,117,10,2,8,0,0,D,no win conditions,17,22,1978-06-18,1,3
+1978,0,16,9,4,37,0,1,A,no win conditions,28,4,1978-06-18,1,3
+1978,0,25,9,78,44,2,2,D,no win conditions,17,22,1978-06-18,1,3
+1978,0,78,10,52,53,0,1,A,no win conditions,41,56,1978-06-18,1,3
+1978,0,117,10,2,52,5,0,H,no win conditions,1,56,1978-06-21,1,6
+1978,0,25,9,4,79,3,2,H,no win conditions,3,83,1978-06-21,1,6
+1978,0,78,10,8,53,3,1,H,no win conditions,6,57,1978-06-21,1,6
+1978,0,16,9,38,44,1,2,A,no win conditions,34,41,1978-06-21,1,6
+1978,0,16,21,8,37,2,1,H,no win conditions,6,41,1978-06-24,1,2
+1978,0,16,1,2,44,3,1,H,Argentina won in AET,1,48,1978-06-25,1,3
+1982,12,3,5,2,5,0,1,A,no win conditions,4,2,1982-06-13,1,3
+1982,12,132,8,8,66,2,1,H,no win conditions,6,70,1982-06-14,1,1
+1982,12,151,3,38,53,0,0,D,no win conditions,17,22,1982-06-14,1,1
+1982,12,34,5,33,24,5,1,H,no win conditions,26,27,1982-06-15,1,5
+1982,12,61,3,52,10,0,0,D,no win conditions,17,22,1982-06-15,1,5
+1982,12,87,8,59,45,5,2,H,no win conditions,48,49,1982-06-15,1,5
+1982,12,9,6,25,27,3,1,H,no win conditions,20,30,1982-06-16,1,6
+1982,12,44,4,78,0,1,2,A,no win conditions,0,83,1982-06-16,1,6
+1982,12,148,7,67,32,1,1,D,no win conditions,17,22,1982-06-16,1,6
+1982,12,99,4,12,4,0,1,A,no win conditions,3,12,1982-06-17,1,4
+1982,12,149,6,19,41,1,1,D,no win conditions,17,22,1982-06-17,1,4
+1982,12,157,7,79,48,0,0,D,no win conditions,17,22,1982-06-17,1,4
+1982,12,0,5,2,33,4,1,H,no win conditions,1,36,1982-06-18,1,0
+1982,12,132,8,8,59,4,1,H,no win conditions,6,63,1982-06-18,1,0
+1982,12,151,3,38,52,1,1,D,no win conditions,17,22,1982-06-18,1,0
+1982,12,34,5,5,24,1,0,H,no win conditions,4,27,1982-06-19,1,2
+1982,12,61,3,53,10,0,0,D,no win conditions,17,22,1982-06-19,1,2
+1982,12,87,8,66,45,3,0,H,no win conditions,55,49,1982-06-19,1,2
+1982,12,9,6,25,18,2,0,H,no win conditions,20,20,1982-06-20,1,3
+1982,12,44,4,78,12,4,1,H,no win conditions,65,12,1982-06-20,1,3
+1982,12,148,7,67,80,2,1,H,no win conditions,56,84,1982-06-20,1,3
+1982,12,99,4,0,4,0,2,A,no win conditions,3,0,1982-06-21,1,1
+1982,12,149,6,27,41,4,1,H,no win conditions,22,45,1982-06-21,1,1
+1982,12,157,7,32,48,1,1,D,no win conditions,17,22,1982-06-21,1,1
+1982,12,34,5,5,33,1,1,D,no win conditions,17,22,1982-06-22,1,5
+1982,12,61,3,53,52,5,1,H,no win conditions,41,56,1982-06-22,1,5
+1982,12,87,8,66,59,2,2,D,no win conditions,17,22,1982-06-22,1,5
+1982,12,0,5,2,24,2,0,H,no win conditions,1,27,1982-06-23,1,6
+1982,12,132,8,8,45,4,0,H,no win conditions,6,49,1982-06-23,1,6
+1982,12,151,3,38,10,1,1,D,no win conditions,17,22,1982-06-23,1,6
+1982,12,99,4,0,12,3,2,H,no win conditions,0,12,1982-06-24,1,4
+1982,12,149,6,27,18,1,1,D,no win conditions,17,22,1982-06-24,1,4
+1982,12,157,7,32,80,0,1,A,no win conditions,66,35,1982-06-24,1,4
+1982,12,9,6,25,41,1,0,H,no win conditions,20,45,1982-06-25,1,0
+1982,12,44,4,78,4,1,0,H,no win conditions,65,4,1982-06-25,1,0
+1982,12,148,7,67,48,0,1,A,no win conditions,37,71,1982-06-25,1,0
+1982,12,72,12,4,27,0,1,A,no win conditions,22,4,1982-06-28,1,1
+1982,12,3,9,53,5,3,0,H,no win conditions,41,5,1982-06-28,1,1
+1982,12,72,10,78,25,0,0,D,no win conditions,17,22,1982-06-29,1,5
+1982,12,3,11,38,2,2,1,H,no win conditions,28,2,1982-06-29,1,5
+1982,12,72,12,4,48,2,2,D,no win conditions,17,22,1982-07-01,0,4
+1982,12,3,9,5,66,0,1,A,no win conditions,55,5,1982-07-01,0,4
+1982,12,3,11,2,8,1,3,A,no win conditions,6,2,1982-07-02,0,0
+1982,12,72,10,67,79,1,2,A,no win conditions,65,71,1982-07-02,0,0
+1982,12,72,12,27,48,4,1,H,no win conditions,22,52,1982-07-04,0,3
+1982,12,3,9,53,66,0,0,D,no win conditions,17,22,1982-07-04,0,3
+1982,12,3,11,38,8,3,2,H,no win conditions,28,8,1982-07-05,0,1
+1982,12,72,10,67,25,0,0,D,no win conditions,17,22,1982-07-05,0,1
+1982,12,132,20,78,27,3,3,H,West Germany won in penalties (5 - 4),65,30,1982-07-08,0,4
+1982,12,3,20,53,37,0,2,A,no win conditions,28,57,1982-07-08,0,4
+1982,12,0,21,53,27,3,2,H,no win conditions,41,30,1982-07-10,0,2
+1982,12,72,1,38,79,3,1,H,no win conditions,28,83,1982-07-11,0,3
+1986,8,79,9,9,37,1,1,D,no win conditions,17,22,1986-05-31,2,2
+1986,8,66,11,11,27,0,1,A,no win conditions,22,11,1986-06-01,1,3
+1986,8,46,12,67,8,0,1,A,no win conditions,6,71,1986-06-01,1,3
+1986,8,79,9,2,65,3,1,H,no win conditions,1,69,1986-06-02,1,1
+1986,8,82,15,43,53,0,0,D,no win conditions,17,22,1986-06-02,1,1
+1986,8,53,11,66,33,5,0,H,no win conditions,55,36,1986-06-02,1,1
+1986,8,46,12,0,48,1,1,D,no win conditions,17,22,1986-06-03,1,5
+1986,8,79,10,42,5,2,1,H,no win conditions,32,5,1986-06-03,1,5
+1986,8,82,15,54,25,1,0,H,no win conditions,43,28,1986-06-03,1,5
+1986,8,141,10,51,36,1,0,H,no win conditions,39,39,1986-06-04,1,6
+1986,8,92,14,59,19,0,1,A,no win conditions,16,63,1986-06-04,1,6
+1986,8,110,14,77,79,1,1,D,no win conditions,17,22,1986-06-04,1,6
+1986,8,66,11,27,66,1,1,D,no win conditions,17,22,1986-06-05,1,4
+1986,8,109,9,38,2,1,1,D,no win conditions,17,22,1986-06-05,1,4
+1986,8,79,9,65,9,1,1,D,no win conditions,17,22,1986-06-05,1,4
+1986,8,46,12,8,0,1,0,H,no win conditions,6,0,1986-06-06,1,0
+1986,8,82,15,25,43,0,0,D,no win conditions,17,22,1986-06-06,1,0
+1986,8,53,11,33,11,2,0,H,no win conditions,26,11,1986-06-06,1,0
+1986,8,79,10,42,51,1,1,D,no win conditions,17,22,1986-06-07,1,2
+1986,8,46,12,48,67,1,2,A,no win conditions,56,52,1986-06-07,1,2
+1986,8,82,15,53,54,1,0,H,no win conditions,41,58,1986-06-07,1,2
+1986,8,92,14,20,77,5,1,H,no win conditions,16,81,1986-06-08,1,3
+1986,8,110,14,78,59,2,1,H,no win conditions,65,63,1986-06-08,1,3
+1986,8,141,10,36,5,1,2,A,no win conditions,4,39,1986-06-08,1,3
+1986,8,66,11,33,27,0,3,A,no win conditions,22,36,1986-06-09,1,1
+1986,8,53,11,66,11,2,0,H,no win conditions,55,11,1986-06-09,1,1
+1986,8,79,9,2,9,2,0,H,no win conditions,1,9,1986-06-10,1,5
+1986,8,109,9,65,37,2,3,A,no win conditions,28,69,1986-06-10,1,5
+1986,8,82,15,25,53,3,0,H,no win conditions,20,57,1986-06-11,1,6
+1986,8,79,10,42,36,1,0,H,no win conditions,32,39,1986-06-11,1,6
+1986,8,141,10,51,5,2,2,D,no win conditions,17,22,1986-06-11,1,6
+1986,8,46,15,54,43,1,3,A,no win conditions,33,58,1986-06-11,1,6
+1986,8,82,12,0,67,0,3,A,no win conditions,56,0,1986-06-12,1,4
+1986,8,46,12,48,8,0,3,A,no win conditions,6,52,1986-06-12,1,4
+1986,8,110,14,20,79,2,0,H,no win conditions,16,83,1986-06-13,1,0
+1986,8,92,14,59,77,0,0,D,no win conditions,17,22,1986-06-13,1,0
+1986,8,79,19,42,9,2,0,H,no win conditions,32,9,1986-06-15,1,3
+1986,8,66,19,66,5,3,4,A,Belgium won in AET,4,70,1986-06-15,1,3
+1986,8,109,19,2,77,1,0,H,no win conditions,1,81,1986-06-16,1,1
+1986,8,46,19,8,53,4,0,H,no win conditions,6,57,1986-06-16,1,1
+1986,8,79,19,38,27,0,2,A,no win conditions,22,41,1986-06-17,1,5
+1986,8,82,19,43,79,0,1,A,no win conditions,65,47,1986-06-17,1,5
+1986,8,110,19,20,67,1,5,A,no win conditions,56,21,1986-06-18,1,6
+1986,8,79,19,25,51,3,0,H,no win conditions,20,55,1986-06-18,1,6
+1986,8,46,18,8,27,1,1,A,France won in penalties (4 - 3),22,8,1986-06-21,1,2
+1986,8,82,18,42,79,0,0,A,West Germany won in penalties (4 - 1),65,46,1986-06-21,1,2
+1986,8,79,18,2,25,2,1,H,no win conditions,1,28,1986-06-22,1,3
+1986,8,109,18,67,5,1,1,A,Belgium won in penalties (5 - 4),4,71,1986-06-22,1,3
+1986,8,79,20,2,5,2,0,H,no win conditions,1,5,1986-06-25,1,6
+1986,8,46,20,27,79,0,2,A,no win conditions,65,30,1986-06-25,1,6
+1986,8,109,21,27,5,4,2,H,France won in AET,22,5,1986-06-28,1,2
+1986,8,79,1,2,79,3,2,H,no win conditions,1,83,1986-06-29,1,3
+1990,6,81,10,2,10,0,1,A,no win conditions,8,2,1990-06-08,1,0
+1990,6,116,9,38,4,1,0,H,no win conditions,28,4,1990-06-09,1,2
+1990,6,4,10,66,56,0,2,A,no win conditions,45,70,1990-06-09,1,2
+1990,6,12,12,75,14,0,2,A,no win conditions,10,79,1990-06-09,1,2
+1990,6,144,11,8,68,2,1,H,no win conditions,6,72,1990-06-10,1,3
+1990,6,81,12,78,80,4,1,H,no win conditions,65,84,1990-06-10,1,3
+1990,6,36,9,76,18,1,5,A,no win conditions,15,80,1990-06-10,1,3
+1990,6,43,11,15,59,1,0,H,no win conditions,11,63,1990-06-11,1,1
+1990,6,18,15,25,55,1,1,D,no win conditions,17,22,1990-06-11,1,1
+1990,6,150,14,5,65,2,0,H,no win conditions,4,69,1990-06-12,1,5
+1990,6,100,15,44,23,1,1,D,no win conditions,17,22,1990-06-12,1,5
+1990,6,89,10,2,66,2,0,H,no win conditions,1,70,1990-06-13,1,6
+1990,6,146,14,77,67,0,0,D,no win conditions,17,22,1990-06-13,1,6
+1990,6,4,10,10,56,2,1,H,no win conditions,8,60,1990-06-14,1,4
+1990,6,116,9,38,76,1,0,H,no win conditions,28,80,1990-06-14,1,4
+1990,6,12,12,79,14,1,0,H,no win conditions,66,14,1990-06-14,1,4
+1990,6,36,9,4,18,0,1,A,no win conditions,15,4,1990-06-15,1,0
+1990,6,81,12,78,75,5,1,H,no win conditions,65,79,1990-06-15,1,0
+1990,6,144,11,8,15,1,0,H,no win conditions,6,16,1990-06-16,1,2
+1990,6,18,15,25,44,0,0,D,no win conditions,17,22,1990-06-16,1,2
+1990,6,43,11,68,59,1,2,A,no win conditions,48,72,1990-06-16,1,2
+1990,6,150,14,5,77,3,1,H,no win conditions,4,81,1990-06-17,1,3
+1990,6,100,15,55,23,0,0,D,no win conditions,17,22,1990-06-17,1,3
+1990,6,146,14,65,67,1,3,A,no win conditions,56,69,1990-06-17,1,3
+1990,6,89,10,2,56,1,1,D,no win conditions,17,22,1990-06-18,1,1
+1990,6,4,10,10,66,0,4,A,no win conditions,55,10,1990-06-18,1,1
+1990,6,36,9,4,76,2,1,H,no win conditions,3,80,1990-06-19,1,5
+1990,6,81,12,78,14,1,1,D,no win conditions,17,22,1990-06-19,1,5
+1990,6,116,9,38,18,2,0,H,no win conditions,28,20,1990-06-19,1,5
+1990,6,12,12,79,75,4,1,H,no win conditions,66,79,1990-06-19,1,5
+1990,6,144,11,8,59,1,0,H,no win conditions,6,63,1990-06-20,1,6
+1990,6,43,11,68,15,1,2,A,no win conditions,11,72,1990-06-20,1,6
+1990,6,150,14,5,67,1,2,A,no win conditions,56,5,1990-06-21,1,4
+1990,6,18,15,25,23,1,0,H,no win conditions,20,26,1990-06-21,1,4
+1990,6,100,15,55,44,1,1,D,no win conditions,17,22,1990-06-21,1,4
+1990,6,146,14,65,77,0,1,A,no win conditions,63,69,1990-06-21,1,4
+1990,6,89,19,10,14,2,1,H,Cameroon won in AET,8,14,1990-06-23,1,2
+1990,6,4,19,19,15,4,1,H,no win conditions,15,16,1990-06-23,1,2
+1990,6,144,19,8,2,0,1,A,no win conditions,1,8,1990-06-24,1,3
+1990,6,81,19,78,44,2,1,H,no win conditions,65,48,1990-06-24,1,3
+1990,6,43,19,55,56,0,0,H,Republic of Ireland won in penalties (5 - 4),44,60,1990-06-25,1,1
+1990,6,116,19,38,77,2,0,H,no win conditions,28,81,1990-06-25,1,1
+1990,6,12,19,25,5,1,0,H,England won in AET,20,5,1990-06-26,1,5
+1990,6,150,19,67,80,1,2,A,Yugoslavia won in AET,66,71,1990-06-26,1,5
+1990,6,116,18,38,55,1,0,H,no win conditions,28,59,1990-06-30,1,2
+1990,6,36,18,79,2,0,0,A,Argentina won in penalties (3 - 2),1,84,1990-06-30,1,2
+1990,6,89,18,10,25,2,3,A,England won in AET,20,10,1990-07-01,0,3
+1990,6,81,18,78,18,1,0,H,no win conditions,65,20,1990-07-01,0,3
+1990,6,89,20,38,2,1,1,A,Argentina won in penalties (4 - 3),1,41,1990-07-03,0,5
+1990,6,144,20,78,25,1,1,H,West Germany won in penalties (4 - 3),65,28,1990-07-04,0,6
+1990,6,4,21,38,25,2,1,H,no win conditions,28,28,1990-07-07,0,2
+1990,6,116,1,78,2,1,0,H,no win conditions,65,2,1990-07-08,0,3
+1994,15,20,11,28,6,1,0,H,no win conditions,23,6,1994-06-17,1,0
+1994,15,28,11,67,65,2,2,D,no win conditions,17,22,1994-06-17,1,0
+1994,15,103,9,14,56,1,3,A,no win conditions,45,14,1994-06-18,1,2
+1994,15,32,14,38,55,0,1,A,no win conditions,44,41,1994-06-18,1,2
+1994,15,105,9,76,69,1,1,D,no win conditions,17,22,1994-06-18,1,2
+1994,15,97,15,5,43,1,0,H,no win conditions,4,47,1994-06-19,1,3
+1994,15,103,10,10,68,2,2,D,no win conditions,17,22,1994-06-19,1,3
+1994,15,155,14,49,42,1,0,H,no win conditions,38,46,1994-06-19,1,3
+1994,15,101,10,8,57,2,0,H,no win conditions,6,61,1994-06-20,1,1
+1994,15,155,15,44,58,2,1,H,no win conditions,34,62,1994-06-20,1,1
+1994,15,38,12,2,30,4,0,H,no win conditions,1,33,1994-06-21,1,5
+1994,15,20,11,28,67,1,1,D,no win conditions,17,22,1994-06-21,1,5
+1994,15,28,12,46,9,3,0,H,no win conditions,35,9,1994-06-21,1,5
+1994,15,105,9,56,69,1,4,A,no win conditions,58,60,1994-06-22,1,6
+1994,15,103,0,76,14,2,1,H,no win conditions,62,14,1994-06-22,1,6
+1994,15,32,14,38,49,1,0,H,no win conditions,28,53,1994-06-23,1,4
+1994,15,38,11,65,6,0,0,D,no win conditions,17,22,1994-06-23,1,4
+1994,15,101,10,8,10,3,0,H,no win conditions,6,10,1994-06-24,1,0
+1994,15,97,14,42,55,2,1,H,no win conditions,32,59,1994-06-24,1,0
+1994,15,105,10,68,57,3,1,H,no win conditions,57,61,1994-06-24,1,0
+1994,15,38,12,2,46,2,1,H,no win conditions,1,50,1994-06-25,1,2
+1994,15,97,15,5,44,1,0,H,no win conditions,4,48,1994-06-25,1,2
+1994,15,32,15,58,43,2,1,H,no win conditions,47,47,1994-06-25,1,2
+1994,15,20,12,9,30,4,0,H,no win conditions,7,33,1994-06-26,1,3
+1994,15,101,9,69,14,0,2,A,no win conditions,10,73,1994-06-26,1,3
+1994,15,103,9,76,56,0,1,A,no win conditions,45,80,1994-06-26,1,3
+1994,15,20,11,6,67,1,3,A,no win conditions,56,6,1994-06-27,1,1
+1994,15,28,11,28,65,3,2,H,no win conditions,23,69,1994-06-27,1,1
+1994,15,105,10,8,68,1,1,D,no win conditions,17,22,1994-06-28,1,5
+1994,15,32,14,55,49,0,0,D,no win conditions,17,22,1994-06-28,1,5
+1994,15,155,14,38,42,1,1,D,no win conditions,17,22,1994-06-28,1,5
+1994,15,101,10,57,10,5,1,H,no win conditions,46,10,1994-06-28,1,5
+1994,15,155,15,5,58,0,1,A,no win conditions,47,5,1994-06-29,1,6
+1994,15,97,15,43,44,1,2,A,no win conditions,34,47,1994-06-29,1,6
+1994,15,28,12,2,9,0,2,A,no win conditions,7,2,1994-06-30,1,4
+1994,15,38,12,30,46,0,2,A,no win conditions,35,33,1994-06-30,1,4
+1994,15,20,19,28,5,3,2,H,no win conditions,23,5,1994-07-02,0,2
+1994,15,155,19,67,69,3,0,H,no win conditions,56,73,1994-07-02,0,2
+1994,15,103,19,56,2,3,2,H,no win conditions,45,2,1994-07-03,0,3
+1994,15,28,19,58,68,1,3,A,no win conditions,57,62,1994-07-03,0,3
+1994,15,97,19,44,55,2,0,H,no win conditions,34,59,1994-07-04,0,1
+1994,15,101,19,76,8,0,1,A,no win conditions,6,80,1994-07-04,0,1
+1994,15,32,19,42,9,1,1,A,Bulgaria won in penalties (3 - 1),7,46,1994-07-05,0,5
+1994,15,38,19,46,37,1,2,A,Italy won in AET,28,50,1994-07-05,0,5
+1994,15,38,18,38,67,2,1,H,no win conditions,28,71,1994-07-09,0,2
+1994,15,28,18,44,8,2,3,A,no win conditions,6,48,1994-07-09,0,2
+1994,15,32,18,9,28,2,1,H,no win conditions,7,31,1994-07-10,0,3
+1994,15,101,18,56,68,2,2,A,Sweden won in penalties (5 - 4),57,60,1994-07-10,0,3
+1994,15,32,20,9,37,1,2,A,no win conditions,28,9,1994-07-13,0,6
+1994,15,103,20,68,8,0,1,A,no win conditions,6,72,1994-07-13,0,6
+1994,15,103,21,68,9,4,0,H,no win conditions,57,9,1994-07-16,0,2
+1994,15,103,1,8,37,0,0,H,Brazil won in penalties (3 - 2),6,41,1994-07-17,0,3
+1998,4,121,9,8,59,2,1,H,no win conditions,6,63,1998-06-10,1,6
+1998,4,84,9,43,49,2,2,D,no win conditions,17,22,1998-06-10,1,6
+1998,4,142,10,10,4,1,1,D,no win conditions,17,22,1998-06-11,1,4
+1998,4,13,10,38,12,2,2,D,no win conditions,17,22,1998-06-11,1,4
+1998,4,77,11,27,64,3,0,H,no win conditions,22,68,1998-06-12,1,0
+1998,4,84,12,51,9,0,0,D,no win conditions,17,22,1998-06-12,1,0
+1998,4,65,11,58,19,0,1,A,no win conditions,16,62,1998-06-12,1,0
+1998,4,71,14,65,42,1,3,A,no win conditions,32,69,1998-06-13,1,2
+1998,4,121,14,44,5,0,0,D,no win conditions,17,22,1998-06-13,1,2
+1998,4,88,12,67,46,2,3,A,no win conditions,35,71,1998-06-13,1,2
+1998,4,142,17,2,40,1,0,H,no win conditions,1,44,1998-06-14,1,3
+1998,4,65,17,40,16,1,3,A,no win conditions,12,43,1998-06-14,1,3
+1998,4,122,15,26,35,1,0,H,no win conditions,21,38,1998-06-14,1,3
+1998,4,77,16,25,72,2,0,H,no win conditions,20,76,1998-06-15,1,1
+1998,4,102,15,28,76,2,0,H,no win conditions,23,80,1998-06-15,1,1
+1998,4,71,16,56,14,1,0,H,no win conditions,45,14,1998-06-15,1,1
+1998,4,88,9,8,43,3,0,H,no win conditions,6,47,1998-06-16,1,5
+1998,4,13,9,59,49,1,1,D,no win conditions,17,22,1998-06-16,1,5
+1998,4,122,10,12,4,1,1,D,no win conditions,17,22,1998-06-17,1,6
+1998,4,84,10,38,10,3,0,H,no win conditions,28,10,1998-06-17,1,6
+1998,4,121,11,27,58,4,0,H,no win conditions,22,62,1998-06-18,1,4
+1998,4,142,11,64,19,1,1,D,no win conditions,17,22,1998-06-18,1,4
+1998,4,102,12,46,9,1,0,H,no win conditions,35,9,1998-06-19,1,0
+1998,4,122,12,67,51,0,0,D,no win conditions,17,22,1998-06-19,1,0
+1998,4,13,14,5,42,2,2,D,no win conditions,17,22,1998-06-20,1,2
+1998,4,88,17,41,16,0,1,A,no win conditions,12,44,1998-06-20,1,2
+1998,4,77,14,44,65,5,0,H,no win conditions,34,69,1998-06-20,1,2
+1998,4,102,17,2,39,5,0,H,no win conditions,1,43,1998-06-21,1,3
+1998,4,65,15,28,26,2,2,D,no win conditions,17,22,1998-06-21,1,3
+1998,4,71,15,76,35,1,2,A,no win conditions,27,80,1998-06-21,1,3
+1998,4,84,16,14,72,1,0,H,no win conditions,10,76,1998-06-22,1,1
+1998,4,142,16,56,25,2,1,H,no win conditions,45,28,1998-06-22,1,1
+1998,4,77,9,8,49,1,2,A,no win conditions,38,8,1998-06-23,1,5
+1998,4,88,10,12,10,1,1,D,no win conditions,17,22,1998-06-23,1,5
+1998,4,121,10,38,4,2,1,H,no win conditions,28,4,1998-06-23,1,5
+1998,4,122,9,59,43,0,3,A,no win conditions,33,63,1998-06-23,1,5
+1998,4,71,11,27,19,2,1,H,no win conditions,22,21,1998-06-24,1,6
+1998,4,142,12,46,51,1,3,A,no win conditions,39,50,1998-06-24,1,6
+1998,4,13,11,64,58,2,2,D,no win conditions,17,22,1998-06-24,1,6
+1998,4,65,12,67,9,5,1,H,no win conditions,56,9,1998-06-24,1,6
+1998,4,102,14,5,65,1,1,D,no win conditions,17,22,1998-06-25,1,4
+1998,4,84,15,28,35,2,0,H,no win conditions,23,38,1998-06-25,1,4
+1998,4,122,14,44,42,2,2,D,no win conditions,17,22,1998-06-25,1,4
+1998,4,88,15,76,61,0,1,A,no win conditions,50,80,1998-06-25,1,4
+1998,4,13,17,2,16,1,0,H,no win conditions,1,17,1998-06-26,1,0
+1998,4,65,16,14,25,0,2,A,no win conditions,20,14,1998-06-26,1,0
+1998,4,71,17,41,39,1,2,A,no win conditions,30,44,1998-06-26,1,0
+1998,4,121,16,56,72,1,1,D,no win conditions,17,22,1998-06-26,1,0
+1998,4,102,19,8,12,4,1,H,no win conditions,6,12,1998-06-27,1,2
+1998,4,77,19,38,49,1,0,H,no win conditions,28,53,1998-06-27,1,2
+1998,4,65,19,27,51,1,0,H,France won in AET,22,55,1998-06-28,1,3
+1998,4,121,19,46,19,1,4,A,no win conditions,16,50,1998-06-28,1,3
+1998,4,84,19,28,42,2,1,H,no win conditions,23,46,1998-06-29,1,1
+1998,4,142,19,44,26,2,1,H,no win conditions,34,29,1998-06-29,1,1
+1998,4,122,19,2,25,2,2,H,Argentina won in penalties (4 - 3),1,28,1998-06-30,1,5
+1998,4,13,19,56,16,0,1,A,no win conditions,12,60,1998-06-30,1,5
+1998,4,88,18,8,19,3,2,H,no win conditions,6,21,1998-07-03,0,0
+1998,4,121,18,27,37,0,0,H,France won in penalties (4 - 3),22,41,1998-07-03,0,0
+1998,4,71,18,28,16,0,3,A,no win conditions,12,31,1998-07-04,0,2
+1998,4,77,18,44,2,2,1,H,no win conditions,34,2,1998-07-04,0,2
+1998,4,77,20,8,44,1,1,H,Brazil won in penalties (4 - 2),6,48,1998-07-07,0,5
+1998,4,121,20,27,16,2,1,H,no win conditions,22,17,1998-07-08,0,6
+1998,4,102,21,44,16,1,2,A,no win conditions,12,48,1998-07-11,0,2
+1998,4,121,1,27,8,3,0,H,no win conditions,22,8,1998-07-12,0,3
+2002,11,131,9,27,60,0,1,A,no win conditions,49,30,2002-05-31,2,0
+2002,7,128,14,28,58,5,0,H,no win conditions,23,62,2002-06-01,1,2
+2002,7,93,14,55,10,1,1,D,no win conditions,17,22,2002-06-01,1,2
+2002,11,147,9,77,19,1,2,A,no win conditions,16,81,2002-06-01,1,2
+2002,7,58,15,2,46,1,0,H,no win conditions,1,50,2002-06-02,1,3
+2002,7,123,15,25,68,1,1,D,no win conditions,17,22,2002-06-02,1,3
+2002,11,17,10,51,64,2,2,D,no win conditions,17,22,2002-06-02,1,3
+2002,11,47,10,67,63,3,1,H,no win conditions,56,67,2002-06-02,1,3
+2002,11,147,11,8,73,2,1,H,no win conditions,6,77,2002-06-03,1,1
+2002,7,93,16,16,42,0,1,A,no win conditions,32,17,2002-06-03,1,1
+2002,7,128,16,38,22,2,0,H,no win conditions,28,25,2002-06-03,1,1
+2002,11,47,11,13,15,0,2,A,no win conditions,11,13,2002-06-04,1,5
+2002,7,123,17,41,5,2,2,D,no win conditions,17,22,2002-06-04,1,5
+2002,11,17,12,65,53,2,0,H,no win conditions,54,57,2002-06-04,1,5
+2002,7,58,14,28,55,1,1,D,no win conditions,17,22,2002-06-05,1,6
+2002,7,60,17,57,72,2,0,H,no win conditions,46,76,2002-06-05,1,6
+2002,11,139,12,76,54,3,2,H,no win conditions,62,58,2002-06-05,1,6
+2002,7,123,14,10,58,1,0,H,no win conditions,8,62,2002-06-06,1,4
+2002,11,26,9,20,60,1,1,D,no win conditions,17,22,2002-06-06,1,4
+2002,11,17,9,27,77,0,0,D,no win conditions,17,22,2002-06-06,1,4
+2002,7,128,15,2,25,0,1,A,no win conditions,20,2,2002-06-07,1,0
+2002,11,54,10,67,51,3,1,H,no win conditions,56,55,2002-06-07,1,0
+2002,7,60,15,68,46,2,1,H,no win conditions,57,50,2002-06-07,1,0
+2002,11,130,11,8,13,4,0,H,no win conditions,6,13,2002-06-08,1,2
+2002,7,58,16,38,16,1,2,A,no win conditions,12,41,2002-06-08,1,2
+2002,11,26,10,64,63,1,0,H,no win conditions,53,67,2002-06-08,1,2
+2002,11,52,11,15,73,1,1,D,no win conditions,17,22,2002-06-09,1,3
+2002,7,156,17,41,57,1,0,H,no win conditions,31,61,2002-06-09,1,3
+2002,7,114,16,42,22,2,1,H,no win conditions,32,25,2002-06-09,1,3
+2002,11,26,12,65,76,1,1,D,no win conditions,17,22,2002-06-10,1,1
+2002,11,54,12,54,53,4,0,H,no win conditions,43,57,2002-06-10,1,1
+2002,7,160,17,72,5,1,1,D,no win conditions,17,22,2002-06-10,1,1
+2002,7,40,14,10,28,0,2,A,no win conditions,23,10,2002-06-11,1,5
+2002,11,52,9,20,27,2,0,H,no win conditions,16,30,2002-06-11,1,5
+2002,7,156,14,58,55,0,3,A,no win conditions,44,62,2002-06-11,1,5
+2002,11,139,9,60,77,3,3,D,no win conditions,17,22,2002-06-11,1,5
+2002,7,98,15,46,25,0,0,D,no win conditions,17,22,2002-06-12,1,6
+2002,11,130,10,63,51,1,3,A,no win conditions,39,67,2002-06-12,1,6
+2002,11,27,10,64,67,2,3,A,no win conditions,56,68,2002-06-12,1,6
+2002,7,114,15,68,2,1,1,D,no win conditions,17,22,2002-06-12,1,6
+2002,11,139,11,15,8,2,5,A,no win conditions,6,16,2002-06-13,1,4
+2002,7,156,16,22,16,1,0,H,no win conditions,19,17,2002-06-13,1,4
+2002,7,160,16,42,37,1,1,D,no win conditions,17,22,2002-06-13,1,4
+2002,11,131,11,73,13,3,0,H,no win conditions,60,13,2002-06-13,1,4
+2002,7,40,17,5,57,3,2,H,no win conditions,4,61,2002-06-14,1,0
+2002,7,98,17,41,72,2,0,H,no win conditions,31,76,2002-06-14,1,0
+2002,11,52,12,65,54,1,0,H,no win conditions,54,58,2002-06-14,1,0
+2002,11,27,12,53,76,3,1,H,no win conditions,41,80,2002-06-14,1,0
+2002,7,93,19,20,25,0,3,A,no win conditions,20,21,2002-06-15,1,2
+2002,11,130,19,28,51,1,0,H,no win conditions,23,55,2002-06-15,1,2
+2002,11,139,19,67,55,1,1,H,Spain won in penalties (3 - 2),56,59,2002-06-16,1,3
+2002,7,160,19,68,60,1,2,A,Senegal won in AET,49,72,2002-06-16,1,3
+2002,7,60,19,8,5,2,0,H,no win conditions,6,5,2002-06-17,1,1
+2002,11,54,19,42,76,0,2,A,no win conditions,62,46,2002-06-17,1,1
+2002,7,114,19,41,73,0,1,A,no win conditions,60,44,2002-06-18,1,5
+2002,11,27,19,65,37,2,1,H,South Korea won in AET,54,41,2002-06-18,1,5
+2002,7,40,18,25,8,1,2,A,no win conditions,6,28,2002-06-21,1,0
+2002,11,147,18,28,76,1,0,H,no win conditions,23,80,2002-06-21,1,0
+2002,11,47,18,65,67,0,0,H,South Korea won in penalties (5 - 3),54,71,2002-06-22,1,2
+2002,7,98,18,60,73,0,1,A,Turkey won in AET,60,64,2002-06-22,1,2
+2002,11,131,20,65,28,0,1,A,no win conditions,23,69,2002-06-25,1,5
+2002,7,123,20,8,73,1,0,H,no win conditions,6,77,2002-06-26,1,6
+2002,11,26,21,65,73,2,3,A,no win conditions,60,69,2002-06-29,1,2
+2002,7,156,1,28,8,0,2,A,no win conditions,6,31,2002-06-30,1,3
+2006,5,86,9,28,15,4,2,H,no win conditions,23,16,2006-06-09,1,0
+2006,5,41,9,53,22,0,2,A,no win conditions,19,57,2006-06-09,1,0
+2006,5,49,11,2,38,2,1,H,no win conditions,1,42,2006-06-10,1,2
+2006,5,39,10,25,51,1,0,H,no win conditions,20,55,2006-06-10,1,2
+2006,5,29,10,71,68,0,0,D,no win conditions,17,22,2006-06-10,1,2
+2006,5,21,12,1,54,0,1,A,no win conditions,43,1,2006-06-11,1,3
+2006,5,96,12,42,35,3,1,H,no win conditions,32,38,2006-06-11,1,3
+2006,5,64,11,61,44,0,1,A,no win conditions,34,65,2006-06-11,1,3
+2006,5,56,15,3,40,3,1,H,no win conditions,2,44,2006-06-12,1,1
+2006,5,50,14,38,29,2,0,H,no win conditions,28,32,2006-06-12,1,1
+2006,5,41,14,76,17,0,3,A,no win conditions,14,80,2006-06-12,1,1
+2006,5,7,15,8,16,1,0,H,no win conditions,6,17,2006-06-13,1,5
+2006,5,137,16,27,69,0,0,D,no win conditions,17,22,2006-06-13,1,5
+2006,5,39,16,65,70,2,1,H,no win conditions,54,74,2006-06-13,1,5
+2006,5,29,9,28,53,1,0,H,no win conditions,23,57,2006-06-14,1,6
+2006,5,64,17,67,74,4,0,H,no win conditions,56,78,2006-06-14,1,6
+2006,5,86,17,72,58,2,2,D,no win conditions,17,22,2006-06-14,1,6
+2006,5,49,9,22,15,3,0,H,no win conditions,19,16,2006-06-15,1,4
+2006,5,96,10,25,71,2,0,H,no win conditions,20,75,2006-06-15,1,4
+2006,5,7,10,68,51,1,0,H,no win conditions,57,55,2006-06-15,1,4
+2006,5,41,11,2,61,5,0,H,no win conditions,1,65,2006-06-16,1,0
+2006,5,50,12,42,1,0,0,D,no win conditions,17,22,2006-06-16,1,0
+2006,5,137,11,44,38,2,1,H,no win conditions,34,42,2006-06-16,1,0
+2006,5,21,14,18,29,0,2,A,no win conditions,24,19,2006-06-17,1,2
+2006,5,56,14,38,76,1,1,D,no win conditions,17,22,2006-06-17,1,2
+2006,5,39,12,54,35,2,0,H,no win conditions,43,38,2006-06-17,1,2
+2006,5,86,15,8,3,2,0,H,no win conditions,6,3,2006-06-18,1,3
+2006,5,64,16,27,65,1,1,D,no win conditions,17,22,2006-06-18,1,3
+2006,5,96,15,41,16,0,0,D,no win conditions,17,22,2006-06-18,1,3
+2006,5,49,17,58,74,0,4,A,no win conditions,61,62,2006-06-19,1,1
+2006,5,137,17,67,72,3,1,H,no win conditions,56,76,2006-06-19,1,1
+2006,5,29,16,70,69,0,2,A,no win conditions,58,74,2006-06-19,1,1
+2006,5,50,9,15,53,1,2,A,no win conditions,41,16,2006-06-20,1,5
+2006,5,7,9,28,22,3,0,H,no win conditions,23,25,2006-06-20,1,5
+2006,5,56,10,51,71,2,0,H,no win conditions,39,75,2006-06-20,1,5
+2006,5,21,10,68,25,2,2,D,no win conditions,17,22,2006-06-20,1,5
+2006,5,64,12,35,1,1,1,D,no win conditions,17,22,2006-06-21,1,6
+2006,5,86,11,39,61,3,2,H,no win conditions,29,65,2006-06-21,1,6
+2006,5,39,11,44,2,0,0,D,no win conditions,17,22,2006-06-21,1,6
+2006,5,41,12,54,42,2,1,H,no win conditions,43,46,2006-06-21,1,6
+2006,5,137,15,16,3,2,2,D,no win conditions,17,22,2006-06-22,1,4
+2006,5,49,14,18,37,0,2,A,no win conditions,28,19,2006-06-22,1,4
+2006,5,96,14,29,76,2,1,H,no win conditions,24,80,2006-06-22,1,4
+2006,5,29,15,41,8,1,4,A,no win conditions,6,44,2006-06-22,1,4
+2006,5,56,17,58,67,0,1,A,no win conditions,56,62,2006-06-23,1,0
+2006,5,50,17,69,65,2,0,H,no win conditions,58,69,2006-06-23,1,0
+2006,5,21,16,70,27,0,2,A,no win conditions,22,74,2006-06-23,1,0
+2006,5,7,16,74,72,1,0,H,no win conditions,61,76,2006-06-23,1,0
+2006,5,64,19,2,42,2,1,H,Argentina won in AET,1,46,2006-06-24,1,2
+2006,5,86,19,28,68,2,0,H,no win conditions,23,72,2006-06-24,1,2
+2006,5,137,19,25,22,1,0,H,no win conditions,20,25,2006-06-25,1,3
+2006,5,96,19,54,44,1,0,H,no win conditions,43,48,2006-06-25,1,3
+2006,5,56,19,38,3,1,0,H,no win conditions,28,3,2006-06-26,1,1
+2006,5,21,19,69,74,0,0,A,Ukraine won in penalties (3- 0),61,73,2006-06-26,1,1
+2006,5,29,19,8,29,3,0,H,no win conditions,6,32,2006-06-27,1,5
+2006,5,50,19,67,27,1,3,A,no win conditions,22,71,2006-06-27,1,5
+2006,5,7,18,28,2,1,1,H,Germany won in penalties (4 - 2),23,2,2006-06-30,1,0
+2006,5,49,18,38,74,3,0,H,no win conditions,28,78,2006-06-30,1,0
+2006,5,39,18,8,27,0,1,A,no win conditions,22,8,2006-07-01,0,2
+2006,5,41,18,25,54,0,0,A,Portugal won in penalties (3 - 1),42,28,2006-07-01,0,2
+2006,5,29,20,28,37,0,2,A,Italy won in AET,28,31,2006-07-04,0,5
+2006,5,86,20,54,27,0,1,A,no win conditions,22,58,2006-07-05,0,6
+2006,5,137,21,28,54,3,1,H,no win conditions,23,58,2006-07-08,0,2
+2006,5,7,1,38,27,1,1,H,Italy won in penalties (5 - 3),28,30,2006-07-09,0,3
+2010,10,55,9,64,42,1,1,D,no win conditions,17,22,2010-06-11,1,0
+2010,10,19,9,77,27,0,0,D,no win conditions,17,22,2010-06-11,1,0
+2010,10,55,10,2,46,1,0,H,no win conditions,1,50,2010-06-12,1,2
+2010,10,119,11,25,76,1,1,D,no win conditions,17,22,2010-06-12,1,2
+2010,10,106,10,65,30,2,0,H,no win conditions,54,33,2010-06-12,1,2
+2010,10,104,11,0,63,0,1,A,no win conditions,52,0,2010-06-13,1,3
+2010,10,30,12,28,3,4,0,H,no win conditions,23,3,2010-06-13,1,3
+2010,10,108,12,61,29,0,1,A,no win conditions,24,65,2010-06-13,1,3
+2010,10,19,15,38,51,1,1,D,no win conditions,17,22,2010-06-14,1,1
+2010,10,11,14,41,10,1,0,H,no win conditions,31,10,2010-06-14,1,1
+2010,10,55,14,44,19,2,0,H,no win conditions,34,21,2010-06-14,1,1
+2010,10,55,16,8,47,2,1,H,no win conditions,6,51,2010-06-15,1,5
+2010,10,106,16,39,54,0,0,D,no win conditions,17,22,2010-06-15,1,5
+2010,10,119,15,45,62,1,1,D,no win conditions,17,22,2010-06-15,1,5
+2010,10,91,17,32,12,0,1,A,no win conditions,9,35,2010-06-16,1,6
+2010,10,108,9,64,77,0,3,A,no win conditions,63,68,2010-06-16,1,6
+2010,10,30,17,67,69,0,1,A,no win conditions,58,71,2010-06-16,1,6
+2010,10,55,10,2,65,4,1,H,no win conditions,1,69,2010-06-17,1,4
+2010,10,104,9,27,42,0,2,A,no win conditions,32,30,2010-06-17,1,4
+2010,10,11,10,30,46,2,1,H,no win conditions,25,50,2010-06-17,1,4
+2010,10,19,11,25,0,0,0,D,no win conditions,17,22,2010-06-18,1,0
+2010,10,106,12,28,61,0,1,A,no win conditions,50,31,2010-06-18,1,0
+2010,10,55,11,63,76,2,2,D,no win conditions,17,22,2010-06-18,1,0
+2010,10,108,14,10,19,1,2,A,no win conditions,16,10,2010-06-19,1,2
+2010,10,119,12,29,3,1,1,D,no win conditions,17,22,2010-06-19,1,2
+2010,10,30,14,44,40,1,0,H,no win conditions,34,44,2010-06-19,1,2
+2010,10,55,16,8,38,3,1,H,no win conditions,6,42,2010-06-20,1,3
+2010,10,91,15,38,45,1,1,D,no win conditions,17,22,2010-06-20,1,3
+2010,10,11,15,62,51,0,2,A,no win conditions,39,66,2010-06-20,1,3
+2010,10,106,17,12,69,1,0,H,no win conditions,9,73,2010-06-21,1,1
+2010,10,19,16,54,47,5,0,H,no win conditions,43,51,2010-06-21,1,1
+2010,10,55,17,67,32,2,0,H,no win conditions,56,35,2010-06-21,1,1
+2010,10,104,10,30,2,0,2,A,no win conditions,1,33,2010-06-22,1,5
+2010,10,119,9,42,77,0,1,A,no win conditions,63,46,2010-06-22,1,5
+2010,10,30,10,46,65,2,2,D,no win conditions,17,22,2010-06-22,1,5
+2010,10,11,9,64,27,2,1,H,no win conditions,53,30,2010-06-22,1,5
+2010,10,91,12,3,61,2,1,H,no win conditions,2,65,2010-06-23,1,6
+2010,10,55,12,29,28,0,1,A,no win conditions,23,32,2010-06-23,1,6
+2010,10,106,11,63,25,0,1,A,no win conditions,20,67,2010-06-23,1,6
+2010,10,108,11,76,0,1,0,H,no win conditions,62,0,2010-06-23,1,6
+2010,10,19,14,10,44,1,2,A,no win conditions,34,10,2010-06-24,1,4
+2010,10,119,14,20,40,1,3,A,no win conditions,31,21,2010-06-24,1,4
+2010,10,104,15,51,45,0,0,D,no win conditions,17,22,2010-06-24,1,4
+2010,10,55,15,62,37,3,2,H,no win conditions,51,41,2010-06-24,1,4
+2010,10,108,17,12,67,1,2,A,no win conditions,56,12,2010-06-25,1,0
+2010,10,91,16,47,38,0,3,A,no win conditions,29,51,2010-06-25,1,0
+2010,10,30,16,54,8,0,0,D,no win conditions,17,22,2010-06-25,1,0
+2010,10,11,17,69,32,0,0,D,no win conditions,17,22,2010-06-25,1,0
+2010,10,106,19,77,65,2,1,H,no win conditions,63,69,2010-06-26,1,2
+2010,10,119,19,76,29,1,2,A,Ghana won in AET,24,80,2010-06-26,1,2
+2010,10,55,19,2,42,3,1,H,no win conditions,1,46,2010-06-27,1,3
+2010,10,11,19,28,25,4,1,H,no win conditions,23,28,2010-06-27,1,3
+2010,10,55,19,8,12,3,0,H,no win conditions,6,12,2010-06-28,1,1
+2010,10,30,19,44,62,2,1,H,no win conditions,34,66,2010-06-28,1,1
+2010,10,108,19,51,40,0,0,H,Paraguay won in penalties (5 - 3),39,44,2010-06-29,1,5
+2010,10,19,19,67,54,1,0,H,no win conditions,56,58,2010-06-29,1,5
+2010,10,106,18,44,8,2,1,H,no win conditions,34,8,2010-07-02,0,0
+2010,10,55,18,77,29,1,1,H,Uruguay won in penalties (4 - 2),63,32,2010-07-02,0,0
+2010,10,19,18,2,28,0,4,A,no win conditions,23,2,2010-07-03,0,2
+2010,10,55,18,51,67,0,1,A,no win conditions,56,55,2010-07-03,0,2
+2010,10,19,20,77,44,2,3,A,no win conditions,34,81,2010-07-06,0,5
+2010,10,30,20,28,67,0,1,A,no win conditions,56,31,2010-07-07,0,6
+2010,10,106,21,77,28,2,3,A,no win conditions,23,81,2010-07-10,0,2
+2010,10,55,1,44,67,0,1,A,Spain won in AET,56,48,2010-07-11,0,3
+2014,1,140,9,8,16,3,1,H,no win conditions,6,17,2014-06-12,1,4
+2014,1,23,10,12,3,3,1,H,no win conditions,9,3,2014-06-13,1,0
+2014,1,90,9,42,10,1,0,H,no win conditions,32,10,2014-06-13,1,0
+2014,1,124,10,67,44,1,5,A,no win conditions,34,71,2014-06-13,1,0
+2014,1,6,11,14,30,3,0,H,no win conditions,10,33,2014-06-14,1,2
+2014,1,74,12,25,37,1,2,A,no win conditions,28,28,2014-06-14,1,2
+2014,1,112,11,39,40,2,1,H,no win conditions,29,44,2014-06-14,1,2
+2014,1,37,12,77,15,1,3,A,no win conditions,11,81,2014-06-14,1,2
+2014,1,115,15,2,7,2,1,H,no win conditions,1,7,2014-06-15,1,3
+2014,1,107,14,27,32,3,0,H,no win conditions,22,35,2014-06-15,1,3
+2014,1,15,14,69,22,2,1,H,no win conditions,58,25,2014-06-15,1,3
+2014,1,124,16,28,54,4,0,H,no win conditions,23,58,2014-06-16,1,1
+2014,1,90,16,29,76,1,2,A,no win conditions,62,32,2014-06-16,1,1
+2014,1,24,15,35,46,0,0,D,no win conditions,17,22,2014-06-16,1,1
+2014,1,6,17,5,0,2,1,H,no win conditions,4,0,2014-06-17,1,5
+2014,1,37,9,8,42,0,0,D,no win conditions,17,22,2014-06-17,1,5
+2014,1,23,17,57,65,1,1,D,no win conditions,17,22,2014-06-17,1,5
+2014,1,24,10,3,44,2,3,A,no win conditions,34,3,2014-06-18,1,6
+2014,1,74,9,10,16,0,4,A,no win conditions,12,10,2014-06-18,1,6
+2014,1,115,10,67,12,0,2,A,no win conditions,9,71,2014-06-18,1,6
+2014,1,15,11,14,38,2,1,H,no win conditions,10,42,2014-06-19,1,4
+2014,1,90,11,41,30,0,0,D,no win conditions,17,22,2014-06-19,1,4
+2014,1,140,12,77,25,2,1,H,no win conditions,63,28,2014-06-19,1,4
+2014,1,24,14,32,22,1,2,A,no win conditions,19,35,2014-06-20,1,0
+2014,1,112,12,38,15,0,1,A,no win conditions,11,41,2014-06-20,1,0
+2014,1,124,14,69,27,2,5,A,no win conditions,22,73,2014-06-20,1,0
+2014,1,6,15,2,35,1,0,H,no win conditions,1,38,2014-06-21,1,2
+2014,1,37,16,28,29,2,2,D,no win conditions,17,22,2014-06-21,1,2
+2014,1,23,15,46,7,1,0,H,no win conditions,35,7,2014-06-21,1,2
+2014,1,115,17,5,57,1,0,H,no win conditions,4,61,2014-06-22,1,3
+2014,1,107,17,65,0,2,4,A,no win conditions,0,69,2014-06-22,1,3
+2014,1,74,16,76,54,2,2,D,no win conditions,17,22,2014-06-22,1,3
+2014,1,24,10,3,67,0,3,A,no win conditions,56,3,2014-06-23,1,1
+2014,1,15,9,8,10,4,1,H,no win conditions,6,10,2014-06-23,1,1
+2014,1,112,9,16,42,1,3,A,no win conditions,32,17,2014-06-23,1,1
+2014,1,140,10,44,12,2,0,H,no win conditions,34,12,2014-06-23,1,1
+2014,1,6,12,15,25,0,0,D,no win conditions,17,22,2014-06-24,1,5
+2014,1,37,11,30,38,2,1,H,no win conditions,25,42,2014-06-24,1,5
+2014,1,90,12,38,77,0,1,A,no win conditions,63,41,2014-06-24,1,5
+2014,1,23,11,41,14,1,4,A,no win conditions,10,44,2014-06-24,1,5
+2014,1,124,15,7,35,3,1,H,no win conditions,5,38,2014-06-25,1,6
+2014,1,115,14,22,27,0,0,D,no win conditions,17,22,2014-06-25,1,6
+2014,1,74,14,32,69,0,3,A,no win conditions,58,35,2014-06-25,1,6
+2014,1,107,15,46,2,2,3,A,no win conditions,1,50,2014-06-25,1,6
+2014,1,24,17,0,57,1,1,D,no win conditions,17,22,2014-06-26,1,4
+2014,1,140,17,65,5,0,1,A,no win conditions,4,69,2014-06-26,1,4
+2014,1,15,16,54,29,2,1,H,no win conditions,43,32,2014-06-26,1,4
+2014,1,112,16,76,28,0,1,A,no win conditions,23,80,2014-06-26,1,4
+2014,1,6,19,8,12,1,1,H,Brazil won in penalties (3 - 2),6,12,2014-06-28,1,2
+2014,1,115,19,14,77,2,0,H,no win conditions,10,81,2014-06-28,1,2
+2014,1,112,19,15,30,1,1,H,Costa Rica won in penalties (5 - 3),11,33,2014-06-29,1,3
+2014,1,37,19,44,42,2,1,H,no win conditions,34,46,2014-06-29,1,3
+2014,1,15,19,27,46,2,0,H,no win conditions,22,50,2014-06-30,1,1
+2014,1,107,19,28,0,2,1,H,Germany won in AET,23,0,2014-06-30,1,1
+2014,1,140,19,2,69,1,0,H,Argentina won in AET,1,73,2014-07-01,0,5
+2014,1,124,19,5,76,2,1,H,Belgium won in AET,4,80,2014-07-01,0,5
+2014,1,37,18,8,14,2,1,H,no win conditions,6,14,2014-07-04,0,0
+2014,1,115,18,27,28,0,1,A,no win conditions,23,30,2014-07-04,0,0
+2014,1,15,18,2,5,1,0,H,no win conditions,1,5,2014-07-05,0,2
+2014,1,124,18,44,15,0,0,H,Netherlands won in penalties (4 - 3),34,16,2014-07-05,0,2
+2014,1,6,20,8,28,1,5,A,no win conditions,23,8,2014-07-08,0,5
+2014,1,140,20,44,2,0,0,A,Argentina won in penalties (4 - 2),1,48,2014-07-09,0,6
+2014,1,15,21,8,44,0,3,A,no win conditions,34,8,2014-07-12,0,2
+2014,1,115,1,28,2,1,0,H,Germany won in AET,23,2,2014-07-13,0,3
+2018,9,85,9,57,58,5,0,H,no win conditions,46,62,2018-06-14,1,4
+2018,9,33,9,23,77,0,1,A,no win conditions,63,26,2018-06-15,1,0
+2018,9,120,10,43,35,0,1,A,no win conditions,27,47,2018-06-15,1,0
+2018,9,134,10,54,67,3,3,D,no win conditions,17,22,2018-06-15,1,0
+2018,9,59,11,27,3,2,1,H,no win conditions,22,3,2018-06-16,1,2
+2018,9,85,12,2,34,1,1,D,no win conditions,17,22,2018-06-16,1,2
+2018,9,129,11,52,19,0,1,A,no win conditions,16,56,2018-06-16,1,2
+2018,9,57,12,16,46,2,0,H,no win conditions,12,50,2018-06-16,1,2
+2018,9,125,14,15,61,0,1,A,no win conditions,50,16,2018-06-17,1,3
+2018,9,85,15,28,42,0,1,A,no win conditions,32,31,2018-06-17,1,3
+2018,9,118,14,8,69,1,1,D,no win conditions,17,22,2018-06-17,1,3
+2018,9,94,15,68,65,1,0,H,no win conditions,57,69,2018-06-18,1,1
+2018,9,134,16,5,50,3,0,H,no win conditions,4,54,2018-06-18,1,1
+2018,9,153,16,72,25,1,2,A,no win conditions,20,76,2018-06-18,1,1
+2018,9,129,17,14,40,1,2,A,no win conditions,31,14,2018-06-19,1,5
+2018,9,85,17,53,60,1,2,A,no win conditions,49,57,2018-06-19,1,5
+2018,9,120,9,57,23,3,1,H,no win conditions,46,26,2018-06-19,1,5
+2018,9,85,10,54,43,1,0,H,no win conditions,43,47,2018-06-20,1,6
+2018,9,118,9,77,58,1,0,H,no win conditions,63,62,2018-06-20,1,6
+2018,9,59,10,35,67,0,1,A,no win conditions,56,38,2018-06-20,1,6
+2018,9,125,11,20,3,1,1,D,no win conditions,17,22,2018-06-21,1,4
+2018,9,33,11,27,52,1,0,H,no win conditions,22,56,2018-06-21,1,4
+2018,9,94,12,2,16,0,3,A,no win conditions,12,2,2018-06-21,1,4
+2018,9,120,14,8,15,2,0,H,no win conditions,6,16,2018-06-22,1,0
+2018,9,153,12,46,34,2,0,H,no win conditions,35,37,2018-06-22,1,0
+2018,9,57,14,61,69,1,2,A,no win conditions,58,65,2018-06-22,1,0
+2018,9,85,16,5,72,5,2,H,no win conditions,4,76,2018-06-23,1,2
+2018,9,118,15,65,42,1,2,A,no win conditions,32,69,2018-06-23,1,2
+2018,9,134,15,28,68,2,1,H,no win conditions,23,72,2018-06-23,1,2
+2018,9,94,16,25,50,5,1,H,no win conditions,20,54,2018-06-24,1,3
+2018,9,33,17,41,60,2,2,D,no win conditions,17,22,2018-06-24,1,3
+2018,9,59,17,53,14,0,3,A,no win conditions,10,57,2018-06-24,1,3
+2018,9,125,9,57,77,0,3,A,no win conditions,63,61,2018-06-25,1,1
+2018,9,153,9,58,23,2,1,H,no win conditions,47,26,2018-06-25,1,1
+2018,9,57,10,67,43,2,2,D,no win conditions,17,22,2018-06-25,1,1
+2018,9,129,10,35,54,1,1,D,no win conditions,17,22,2018-06-25,1,1
+2018,9,134,11,3,52,0,2,A,no win conditions,40,3,2018-06-26,1,5
+2018,9,85,11,20,27,0,0,D,no win conditions,17,22,2018-06-26,1,5
+2018,9,120,12,46,2,1,2,A,no win conditions,1,50,2018-06-26,1,5
+2018,9,118,13,34,16,1,2,A,no win conditions,12,37,2018-06-26,1,5
+2018,9,59,15,65,28,2,0,H,no win conditions,54,31,2018-06-27,1,6
+2018,9,33,15,42,68,0,3,A,no win conditions,57,46,2018-06-27,1,6
+2018,9,85,14,61,8,0,2,A,no win conditions,6,65,2018-06-27,1,6
+2018,9,94,14,69,15,2,2,D,no win conditions,17,22,2018-06-27,1,6
+2018,9,153,17,41,53,0,1,A,no win conditions,41,44,2018-06-28,1,4
+2018,9,125,17,60,14,0,1,A,no win conditions,10,64,2018-06-28,1,4
+2018,9,129,16,50,72,1,2,A,no win conditions,59,54,2018-06-28,1,4
+2018,9,57,16,25,5,0,1,A,no win conditions,4,28,2018-06-28,1,4
+2018,9,59,19,27,2,4,3,H,no win conditions,22,2,2018-06-30,1,2
+2018,9,134,19,77,54,2,1,H,no win conditions,63,58,2018-06-30,1,2
+2018,9,85,19,57,67,1,1,H,Russia won in penalties (4 - 3),46,71,2018-07-01,0,3
+2018,9,94,19,16,19,1,1,H,Croatia won in penalties (3- 2),12,21,2018-07-01,0,3
+2018,9,125,19,8,42,2,0,H,no win conditions,6,46,2018-07-02,0,1
+2018,9,118,19,5,40,3,2,H,no win conditions,4,44,2018-07-02,0,1
+2018,9,120,19,68,69,1,0,H,no win conditions,57,73,2018-07-03,0,5
+2018,9,85,19,14,25,1,1,A,England won in penalties (4 -3),20,15,2018-07-03,0,5
+2018,9,94,18,77,27,0,2,A,no win conditions,22,81,2018-07-06,0,0
+2018,9,59,18,8,5,1,2,A,no win conditions,4,8,2018-07-06,0,0
+2018,9,125,18,68,25,0,2,A,no win conditions,20,72,2018-07-07,0,2
+2018,9,134,18,57,16,2,2,A,Croatia won in penalties (4 - 3),12,61,2018-07-07,0,2
+2018,9,120,20,27,5,1,0,H,no win conditions,22,5,2018-07-10,0,5
+2018,9,85,20,16,25,2,1,H,Croatia won in AET,12,28,2018-07-11,0,6
+2018,9,120,21,5,25,2,0,H,no win conditions,4,28,2018-07-14,0,2
+2018,9,85,1,27,16,4,2,H,no win conditions,22,17,2018-07-15,0,3
